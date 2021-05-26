@@ -6,7 +6,7 @@ Ryan Macklin ([@macklin](https://thegooddocs.slack.com/team/U01DYRWG43X)) , Carr
 
 ## Proposal State
 
-- [x] Draft (submitted on May 25, 2021)
+- [x] Draft (submitted to GitHub on May 26, 2021)
 - [ ] Under discussion 
 - [ ] Final comment and voting ({{date}})
 - [ ] Accepted
@@ -174,7 +174,7 @@ Cameron Shorter on 5/16 via slack (already implemented per discussion):
 4. I'd suggest soften publishing criteria to increase the bus factor and allow for an elastic volunteer workforce. That is, say "we will typically publish bi-monthly", which gives you the flexibility to take a break over Christmas. Likewise, "We typically aim for two editors". (Still keep the quality criteria which I think is very important to long term success.)
 
 
-Other changes made between sharing initial draft in Google Drive (5/12/2021) and the GitHub PR (5/25/2021):
+Other changes made between sharing initial draft in Google Drive (5/12/2021) and the GitHub repo (5/26/2021):
 
 - Implemented Cameron's feedback.
 - Added details to implementation checklist, plus non-binding future checklist for clarity.
