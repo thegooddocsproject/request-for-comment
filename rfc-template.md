@@ -68,8 +68,10 @@ Project steering committee (listed alphabetically by first name):
 - Ankita Tripathi:
 - Bryan Klein:
 - Cameron Shorter:
+- Carrie Crowe:
 - Erin McKean:
 - Morgan Craft:
+- Ryan Macklin:
 - Viraji Ogodapola:
 
 Community members who voted (non-binding):
