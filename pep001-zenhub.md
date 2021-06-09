@@ -1,4 +1,4 @@
-# PEP001 - ZenHub for TGDP Product Management
+# RFC001 - ZenHub for TGDP Product Management
 
 ## Proposed By
 
@@ -7,8 +7,8 @@ Aaron Peters
 
 ## State
 
-- [x] Draft
-- [ ] Under discussion
+- [ ] Draft
+- [x] Under discussion
 - [ ] Final comment and voting
 - [ ] Accepted
 - [ ] Rejected
@@ -42,8 +42,8 @@ In an effort to coordinate work across multiple working groups, this proposes th
 ZenHub was chosen for this proposal for the following reasons:
 
 * It provides the core capabilities of accommodating multiple workstreams, triage/backlog management, and release planning.
-* It provides free accounts for op, en source projects and orgs.
-* It appears to be largely backwards-compatible (see the below section for more detail.
+* It provides free accounts for open source projects and orgs.
+* It appears to be largely backwards-compatible (see the below section for more detail).
 
 ZenHub is an app that, once granted access to GitHub assets, allows them to be assigned specific tags. These tags are then given special representation in the UI: for example, Issues with the **Epic** tag are items that show on the Roadmap, where Issues without this tag are not. Furthermore, issues without the tag can then be assigned to Issues that have it.
 
