@@ -64,7 +64,7 @@ In this respect, ZenHub uses established GitHub mechanisms to implement its feat
 Project steering committee (listed alphabetically by first name):
 
 * Aaron Peters:
-* Aidan Doherty:
+* Aidan Doherty: +1
 * Alyssa Rock:
 * Ankita Tripathi:
 * Bryan Klein:
