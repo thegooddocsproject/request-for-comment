@@ -8,8 +8,8 @@ Aaron Peters
 ## State
 
 - [ ] Draft
-- [x] Under discussion
-- [ ] Final comment and voting
+- [ ] Under discussion
+- [x] Final comment and voting
 - [ ] Accepted
 - [ ] Rejected
 - [ ] Implemented
@@ -63,15 +63,18 @@ In this respect, ZenHub uses established GitHub mechanisms to implement its feat
 
 Project steering committee (listed alphabetically by first name):
 
-* Aaron Peters:
+* Aaron Peters: +1
 * Aidan Doherty: +1
-* Alyssa Rock:
+* Alyssa Rock: +1
 * Ankita Tripathi:
-* Bryan Klein:
-* Cameron Shorter:
+* Bryan Klein: +1
+* Cameron Shorter: +1
+* Carrie Crowe: 
 * Clarence Cromwell:
 * Erin McKean:
-* Morgan Craft:
+* Morgan Craft: +1
+* Ryan Macklin: +1
 * Viraji Ogodapola:
+
 
 Community members who voted (non-binding):
