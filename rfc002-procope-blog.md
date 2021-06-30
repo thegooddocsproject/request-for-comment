@@ -6,8 +6,8 @@ Ryan Macklin ([@macklin](https://thegooddocs.slack.com/team/U01DYRWG43X)) , Carr
 
 ## Proposal State
 
-- [x] Draft (submitted to GitHub on May 26, 2021)
-- [ ] Under discussion 
+- [ ] Draft (submitted to GitHub on May 26, 2021)
+- [x] Under discussion 
 - [ ] Final comment and voting ({{date}})
 - [ ] Accepted
 - [ ] Rejected
@@ -76,15 +76,12 @@ Videos are 3- to 10-minute pieces about a subject, illustrating a narrative that
 
 #### Where content would live
 
-Blog posts would live on a Medium.com magazine, branded as part of the Good Docs Project. Medium.com is a known place where people can subscribe to stories, comment, and otherwise have a sense of expectation regarding a look and feel. I've taken the liberty of (creating a blank publication)[https://medium.com/the-good-docs-project], to make sure we have the name.
+Blog posts would live on (our website)[http://thegooddocsproject.dev], as a folder. Bryan Klein has already donated time and energy into a Hugo build for our blog, with a lot of modularity and customizability. (This is a pivot from originally suggestion Medium.com, which we're moving away from because of the paywall factor.)
 
 Videos would live on YouTube, with icon and naming showing it as part of the Good Docs Project. YouTube is the obvious place, because hosting video content is expensive and YouTube has tools to help with ancillary needs. I've taken the liberty of (creating a blank channel)[https://www.youtube.com/channel/UCi01Sf06CeUeW5XlwqyNIpQ].
 
-*Aside:* We understand there's a blog component to the GDP website. We think that may be a good place to explore hosting white papers, to keep white papers directly attached to the material they support.
-
 Regarding external housing: It's the responsibility of the publishers to make the Terms of Service of those services known to the Project Steering Committee. That includes any changes we're aware of.
 
-* [Medium's Terms of Service](https://policy.medium.com/medium-terms-of-service-9db0094a1e0f) as of 9/12/2020
 * [YouTube's Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/) help center
 
 ### Organization & personnel
@@ -106,27 +103,30 @@ Publication standards are important to all organizations, especially to those pr
 
 ### Publication rights & ownership
 
-The creators of each piece will retain ownership of their pieces, and the Good Docs Project will effectively license the rights to publish that version of their piece in perpetuity.
+The creators of each piece will retain ownership of their pieces, and the Good Docs Project asks permission to publish that version of their piece in perpetuity. From a licensing perspective, we'll rely on what we have on our (website's licenses page)[https://thegooddocsproject.dev/licenses/].
 
-This is largely contrary to other open-source stances, but is important for three reasons:
+To make intent transparent, there are three factors important to the creators of this RFC factoring into this subtopic:
 
 1. We want to allow contributors a space to incubate their ideas, which means in some cases a space to develop IP they want to work with later—such as in a talk or book down the road. And we want our contributors to feel good about having added to GDP's body of knowledge, rather than regret "giving up a good idea."
 2. There is an unfortunate history of privileged classes taking work created by marginalized people, and profiting off of that work without recognition of or compensation to those people. Because of the individual nature of each post and video, we should strive to not be a part of that history.
-3. Such media doesn't need to be replicated and altered in the way code bases are. Code bases and similar need legal declarations to protect those using them. The replication and alteration process is a personally interpreted one, and it doesn't necessitate a legal declaration.
+3. Such media doesn't need to be replicated and altered in the way code bases are. Code bases and similar need legal declarations to protect those using them. The replication and alteration process is a personally interpreted one, and it doesn't necessitate the same sort of legal declaration (either liability license or replication permission).
+4. We want to be good facilitators and custodians of community knowledge, and encourage our participants to see themselves as empowered to donate their insights to the global community of technical writers and those interested in the craft.
 
 ### Publication cadence
 
-We want to soft-launch our blog content in July 2021, and video content launching in Q4-2021.
+We want to soft-launch our blog content in September 2021. Initially, blog posts would come out once a every two weeks. Within a few months, we'd like to move to an every-week cadence.
 
-Initially, blog posts would come out once a week. We would want to move to a twice-weekly cadence by January 2022.
+Videos would ideally come out once a month, but that may not be sustainable. With the labor and barrier to skill entry involved with video production, we shouldn't push this hard and overcommit. So we'll make sure our blog process is solidified and feels sustainable before committing to video production.
 
-Videos would ideally come out once every two weeks, but that may not be sustainable. Our goal within the first six months of video content is to have a sustainable model every two weeks, and perhaps to eventually every week if there's enough interest in continued production. (The labor and barrier to skill entry involved with video production means we shouldn't push this hard and overcommit.)
+We want to build up to a six-item queue of content for blog posts. That may be harder for videos, and in contrast for blog posts we may have a large "slush pile" to work through.
 
-We want to build up to a six-item queue of content. That may be harder for videos, and in contrast for blog posts we may have a large "slush pile" to work through.
+## Open questions/thoughts (non-blocking)
 
-## Open Questions (non-blocking)
+* Over time, we'd like to see how to get an organization-wide Drive, as being able to develop content in a system designed for written material would be of great benefit. Submitting to GitHub is planned as a later stage in the process, because of the limits of git's editor and commenting capabilities for non-code content.
 
-* Regarding individual content elements: Is there a way we can utilize issues in github, or is by the nature of our publication model something that isn't in github at all? Likely the latter, in which case we could use a form + sheet.
+## Ambition vs. reality
+
+We recognize that the dates we provide are ambitious, tempered with some respect for contributor bandwidth. They've already slid during this RFC process, so we want to recognize the dates and numeric specifics are goals, not requirements or a litmus test for a successful subproject.
 
 ## Reference Links
 
@@ -140,7 +140,7 @@ We want to build up to a six-item queue of content. That may be harder for video
 
 If this proposal is accepted, we'll do the following to spin this up.
 
-- [ ] Initialize the Medium.com publication
+- [X] Initialize the blog site
 - [ ] Initialize the YouTube channel
 - [ ] Have those external sites reviewed by Project Steering Committee for branding compliance
 - [ ] Provide the external sites' Terms of Service to the Project Steering Committee for review
@@ -173,7 +173,6 @@ Cameron Shorter on 5/16 via slack (already implemented per discussion):
 3. With regards to hand over of roles, I suggest doing that in March instead of July (to align with our election schedule) [thegooddocsproject.dev/roles/#selection-of-roles](https://thegooddocsproject.dev/roles/#selection-of-roles])
 4. I'd suggest soften publishing criteria to increase the bus factor and allow for an elastic volunteer workforce. That is, say "we will typically publish bi-monthly", which gives you the flexibility to take a break over Christmas. Likewise, "We typically aim for two editors". (Still keep the quality criteria which I think is very important to long term success.)
 
-
 Other changes made between sharing initial draft in Google Drive (5/12/2021) and the GitHub repo (5/26/2021):
 
 - Implemented Cameron's feedback.
@@ -181,6 +180,14 @@ Other changes made between sharing initial draft in Google Drive (5/12/2021) and
 - Adjusted video launch timeline by a few months, to give the blog content workflow time to solidify and get established in the wider community.
 - Added reference to external housings' terms of service.
 - Added open questions section for anything non-blocking but potentially worth addressing. These don't need to be discussed within this RFC process.
+
+Revised on 6/30 to incorporate:
+
+- Moving away from Medium.com to a locally hosted Hugo blog
+- Shifting the license dependency to the general site's licenses page
+- Decreasing the ambitious cadence of blog posts
+- Not committing to a start date on videos, to test the blog process first
+- Other minor tweaks
 
 ## Voting
 
@@ -193,10 +200,12 @@ Project steering committee (listed alphabetically by first name):
 * Alyssa Rock: 
 * Ankita Tripathi: 
 * Bryan Klein: 
+* Carrie Crowe
 * Cameron Shorter:
 * Clarence Cromwell: 
 * Erin McKean: 
 * Morgan Craft: 
+* Ryan Macklin: 
 * Viraji Ogodapola: 
 
 Community members who voted (non-binding):
