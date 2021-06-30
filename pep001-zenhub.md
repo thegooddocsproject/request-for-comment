@@ -70,7 +70,6 @@ Project steering committee (listed alphabetically by first name):
 * Bryan Klein: +1
 * Cameron Shorter: +1
 * Carrie Crowe: 
-* Clarence Cromwell:
 * Erin McKean:
 * Morgan Craft: +1
 * Ryan Macklin: +1
