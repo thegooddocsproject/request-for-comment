@@ -8,6 +8,7 @@ Ryan Macklin ([@macklin](https://thegooddocs.slack.com/team/U01DYRWG43X)) , Carr
 
 - [ ] Draft (submitted to GitHub on May 26, 2021)
 - [x] Under discussion 
+- [ ] Waiting on dependencies
 - [ ] Final comment and voting ({{date}})
 - [ ] Accepted
 - [ ] Rejected
@@ -24,6 +25,13 @@ Producing and hosting blog posts and video content, including publication owners
 Part of promoting good documentation is helping those uncertain about (or overwhelmed by) what constitutes good docs and best practices. We seek to create a space where the community can contribute to the body of knowledge, as it relates to the mission of the Good Docs Project.
 
 We also want to foster community contributors, to elevate voices that aren't elevated and to empower individuals to be thought leaders in their careers.
+
+### Proposal depencencies
+
+The proposal requires the following to be resolved before it be fully implemented:
+
+- Content strategy working group
+- Resolution of website license conversations
 
 ## Proposal Details
 
@@ -91,7 +99,6 @@ First, Procope ideally operates on a "fail early, learn, keep on keeping on." Ke
 Publication standards are important to all organizations, especially to those promoting publication standards themselves. To that end, there's a hierarchical model borrowed from Ryan's periodical background.
 
 * There's a central **publisher** role, held by two people. They have publication rights on the external accounts (Medium, YouTube). They maintain the publication queue and quality, and have as part of their role to also recruit contributors.
-	* We want to encourage publisher rotation. This could mean one publisher steps down around the time of PSC transitions (around March) or six months afterward, allowing an interested editor to fill that role. This means part of being an editor is getting the specific experience needed to take on the role of publisher. (The first handoff may be bumpy, so we'll play this by ear.)
 	* First publishers would be: Ryan Macklin & Carrie Crowe.
 	* The GDP chair is also in this role, with respect to account access.
 * There are **editors**, who edit pieces to align with our community standards and style. We'll want two editors—and only two editors—involved in any one piece, to keep editors from burning out and to keep the signal/noise ratio down.
@@ -100,6 +107,14 @@ Publication standards are important to all organizations, especially to those pr
 * Anyone in the Procope group can submit a proposal for a piece they want to create. Such pieces would be one-off blog posts or videos, and when green lit will go through the process of drafting, reviews, edits, and finally entering the publication queue.
 	* A few authors may do a series, but that will be limited—partly because our publication queue can't maintain several series, and partly because we want to see what contributors provide to the group before promising to support a series.
 * Anyone in the Procope group can add to a topic wishlist.
+
+#### Publisher role rotation
+
+We want to encourage publisher rotation. This could mean one publisher steps down every six months or year, allowing an interested editor to fill that role. This means part of being an editor is getting the specific experience needed to take on the role of publisher. (The first handoff may be bumpy, so we'll play this by ear.)
+
+The depends on both checking the bandwidth of our publishers and potenitally willing editors. We'll start this clock once the blog is launched. We'll keep this flexible for now, and change if a need for a stricter timetable arises.
+
+Once we get into video, we might also split publishers into different media domains. In the spirit of not trying to solve problems yet we aren't aware of, we'll figure that out as we move along. :)
 
 ### Publication rights & ownership
 
