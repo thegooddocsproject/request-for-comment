@@ -1,0 +1,118 @@
+# RFC004 - Revising website licenses terms/page
+
+## Proposed by
+
+Ryan Macklin ([@macklin](https://thegooddocs.slack.com/team/U01DYRWG43X))
+Initially submitted on 2021-07-13
+
+## Current status
+
+- [ ] Draft
+- [x] Under discussion (until 2021-07-27, assuming two weeks post initial submission)
+- [ ] Final comment and voting (until YYYY-MM-DD) {{Add date after selecting this status.}}
+- [ ] Accepted
+- [ ] Rejected
+- [ ] Implemented
+- [ ] Deferred
+- [ ] Withdrawn
+
+## Proposal overview
+
+I believe we should rethink the licensing terms for website content, as listed on [thegooddocsproject.dev/licenses/](https://thegooddocsproject.dev/licenses/). As they're currently written, they provision everything as [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) (a.ka. "CC BY 4.0), including all text, images, HTML code, and anything else.
+
+We may not always have the rights to relicense what we put on our page, and not every contributor is comfortable with having their info and likeness released as publicly usable.
+
+### Scope
+
+The scope of this is about the website's content. Licensing for our products (templates, doc tools, etc.) aren't part of this discussion, though this proposal does indicate where the primary home for those licenses should be.
+
+## Motivation
+
+For the upcoming blog, not everything we release will be ours. If we use stock photos for the purposes of social media optimization, we won't have the rights to relicense that content. We also may not have the rights to relicense other content we'll reuse, including any HTML/CSS/scripting to generate the pages.
+
+On a personal level, I don't release my likeness to public use, and the current website license terms makes me wary of continuing with the project. I used to work in games (and still do at times), and I've had too many death threats (honestly, one such threat is too many) and have seen too many friends be impersonated to want to give bad actions a contractual right to use my likeness however they like. (Bad actors will still use likenesses, but at least they can't defend their actions by citing a license that allows them to use one's info.)
+
+### Blocking
+
+[RFC002 (Procope/blog & video)](https://github.com/thegooddocsproject/request-for-comment/pull/3) is blocked by this proposal.
+
+## Proposal
+
+I'd like to shift the burden of licensing to the individual elements, rather than have a pure blanket. That means:
+
+- Our products (templates, doc tools, etc) have the BSD0 license in their readme or license text files, and not rely on the license website page for that notice
+- For blog posts etc, post pages would default to have "`This blog post's original text is (c) [year] [author name], and licensed under CC BY 4.0`". Currently, the blog is set up to allow for this default, with other changes allowed. Ryan and Bryan worked together to make sure this could be modular.
+- "Original text" covers not opening any quoted text (like in referencing a book's text) as being CC, and doesn't open any stock images from being CC. If a custom image is created by the author, we can add that to the CC license, which is part of why Ryan and Bryan worked to make the license field modular.
+- For everything else, we leave the material either unlicensed or under whatever licenses already exist for that material. (See What's currently CC BY content below.)
+
+Since the licenses page wouldn't be the declaration of broad license anymore, it would become the page that explains what licences are used: BSD0 for our products, CC BY for "various pages" on the site. The licenses page wouldn't be the *primary authority* for this information, but instead a *single page to set expectations* for contributors and consumers regarding using elements of this project.
+
+### Keeping it simple
+
+Cameron mentioned wanting to keep this scheme simple. Here's how we keep to minimal labor:
+
+- There are defaults, and we assume them. I've proposed those defaults above.
+- For the generated content (like blog posts), the generator adds the license text. No need to sweat it.
+- For products, they should already have licenses as part of the pages, because once downloaded or forked the license needs to be attached rather than disconnected on an external site
+- Having the license attached to the website content means readers see the license alongside the text, and don't have to wonder or ask or hunt around for licensing info
+
+### Some clarity
+
+Note that you can specify with CC BY what content is covered under the license. It isn't inherent to the license that everything in a work is covered. You always say what's covered, whether it's "`This work is licensed under…`" or "`The text of this book is licensed under…`" or "`The text of chapters 1 to 6 are licensed under…`" or "`All text aside from that appearing on pages 66-67 are licensed under…`". (All instances I've used/seen used in games.)
+
+To illustrate this point, here's text from the Creative Commons site's footer: `Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.`
+
+### We can't un-CC existing content
+
+Part of the CC licenses is that we can't revoke the license or otherwise release something under a more restrictive license. Per the human-readable page, "The licensor cannot revoke these freedoms as long as you follow the license terms."
+
+By changing the licenses page, we aren't "undoing" any license terms for the content at the moment. What we're doing instead is saying all changes going forward on the site are under the new terms (including not released at all in some cases).
+
+If someone goes to a version of the site with the current license page (via github, archive.org, etc.), all of that material is still CC BY 4.0. We don't need to spell this out on the license page, but if someone inquires that's the answer.
+
+## Links
+
+* [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+* [Good Docs Project licenses page](https://thegooddocsproject.dev/licenses/)
+* [Current RFC002 file, with prior discussions about licenses](https://github.com/thegooddocsproject/request-for-comment/pull/3)
+
+## Feedback
+
+{{Reviewer name}}:
+- {{I suggest that ...}}
+    - {{Community member name}}: {{Additional comment on same topic.}}
+    - {{Proposer name}}: {{Addressed by ... / Ignored because ... / ...}}
+
+## Implementation checklist
+
+If this proposal is accepted, the following tasks must be completed:
+
+- [ ] Revise license page on website
+- [ ] Have documented our license info, procedures, assumptions, whatever we need to have documented as an org to make all of this known to all contributors
+- [ ] Merge and deploy license page revisions
+- [ ] Ensure any relevant site pages or documents has their license terms in them, and not relying on the site's license page
+
+## Votes
+
+Votes as per our [decision process](https://thegooddocsproject.dev/decisions/):
+
+Project steering committee (listed alphabetically by first name):
+
+- Aaron Peters:
+- Aidan Doherty:
+- Alyssa Rock:
+- Ankita Tripathi:
+- Bryan Klein:
+- Cameron Shorter:
+- Carrie Crowe:
+- Erin McKean:
+- Morgan Craft:
+- Ryan Macklin:
+- Viraji Ogodapola:
+
+Community members who voted (non-binding):
+
+
+
+
+
