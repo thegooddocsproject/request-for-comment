@@ -47,7 +47,7 @@
     - {{Proposer name}}: {{Addressed by ... / Ignored because ... / ...}}
 
 
-## Implemention checklist
+## Implementation checklist
 
 If this proposal is accepted, the following tasks must be completed:
 
@@ -58,7 +58,7 @@ If this proposal is accepted, the following tasks must be completed:
 
 ## Votes
 
-Votes as per our [decision process](https://thegooddocsproject.dev/decisions/}:
+Votes as per our [decision process](https://thegooddocsproject.dev/decisions/):
 
 Project steering committee (listed alphabetically by first name):
 
