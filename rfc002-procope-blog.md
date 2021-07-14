@@ -1,4 +1,4 @@
-# RFC002 - Blog & video content publishing model (aka "Procope")
+# RFC002 - Blog content publishing model
 
 ## Proposed By
 
@@ -64,7 +64,7 @@ To contrast, **white papers** would cover topics core to Good Docs Project templ
 
 White papers are created as needs arise, rather than an ongoing periodical model to keep external engagement up.
 
-The Procope team will be very happy to be involved with white papers, including co-running it to lend editorial expertise, but doesn't want to muddy this proposal by including a different sort of publication.
+The blog team will be very happy to be involved with white papers, including co-running it to lend editorial expertise, but doesn't want to muddy this proposal by including a different sort of publication.
 
 #### Out of scope for now: templates for this content
 
@@ -94,7 +94,7 @@ Regarding external housing: It's the responsibility of the publishers to make th
 
 ### Organization & personnel
 
-First, Procope ideally operates on a "fail early, learn, keep on keeping on." Keep that in mind.
+First, the blog ideally operates on a "fail early, learn, keep on keeping on." Keep that in mind.
 
 Publication standards are important to all organizations, especially to those promoting publication standards themselves. To that end, there's a hierarchical model borrowed from Ryan's periodical background.
 
@@ -103,10 +103,10 @@ Publication standards are important to all organizations, especially to those pr
 	* The GDP chair is also in this role, with respect to account access.
 * There are **editors**, who edit pieces to align with our community standards and style. We'll want two editors—and only two editors—involved in any one piece, to keep editors from burning out and to keep the signal/noise ratio down.
 	* Publishers are also editors, and it should go without saying that an author is never their own editor.
-* Anyone in the Procope group can be a **reviewer** when reviews are solicited. Pieces should have reviews solicited.
-* Anyone in the Procope group can submit a proposal for a piece they want to create. Such pieces would be one-off blog posts or videos, and when green lit will go through the process of drafting, reviews, edits, and finally entering the publication queue.
+* Anyone in the blog group can be a **reviewer** when reviews are solicited. Pieces should have reviews solicited.
+* Anyone in the blog group can submit a proposal for a piece they want to create. Such pieces would be one-off blog posts or videos, and when green lit will go through the process of drafting, reviews, edits, and finally entering the publication queue.
 	* A few authors may do a series, but that will be limited—partly because our publication queue can't maintain several series, and partly because we want to see what contributors provide to the group before promising to support a series.
-* Anyone in the Procope group can add to a topic wishlist.
+* Anyone in the blog group can add to a topic wishlist.
 
 #### Publisher role rotation
 
@@ -145,11 +145,11 @@ We recognize that the dates we provide are ambitious, tempered with some respect
 
 ## Reference Links
 
-* [Procope draft responsibility model, brainstormed late April 2021](https://jamboard.google.com/d/1iyfr4A9GcdRbvnkrokfg6YGXTBhIgmeA55UTBvtN_-o/viewer)
-* [Procope's Google Drive folder](https://drive.google.com/drive/folders/1UCIwyvmOa4Gh5nBmXu1GckrI7mfeT2AW?usp=sharing]) (owned by Ryan's personal account)
-* [Procope's meeting notes](https://docs.google.com/document/d/18T2dku9WMRLJTq1rcnFwuUeA1i-thVLOtVqhX2SOxIY/edit?usp=sharing) (last meeting in late April; meeting cadence is TBD)
+* [Blog working group draft responsibility model, brainstormed late April 2021](https://jamboard.google.com/d/1iyfr4A9GcdRbvnkrokfg6YGXTBhIgmeA55UTBvtN_-o/viewer)
+* [Blog working group's temporary Google Drive folder](https://drive.google.com/drive/folders/1UCIwyvmOa4Gh5nBmXu1GckrI7mfeT2AW?usp=sharing]) (owned by Ryan's personal account)
+* [Blog working group's meeting notes](https://docs.google.com/document/d/18T2dku9WMRLJTq1rcnFwuUeA1i-thVLOtVqhX2SOxIY/edit?usp=sharing) (last meeting in late April; meeting cadence is TBD)
 * [Content style guide](https://docs.google.com/document/d/1St73OBFhbQT4hNKp-cayTjDfjOltZSMP7X2Z4QBzgQo/edit) (in notes form, not yet following a template)
-* [GDP meeting notes](https://docs.google.com/document/d/13xr5PLMMqm6Rz_yXzxl5WMOwY9H6liB1abU_i0-ws60/edit#) (where various Procope discussions happen at a larger-org level)
+* [GDP meeting notes](https://docs.google.com/document/d/13xr5PLMMqm6Rz_yXzxl5WMOwY9H6liB1abU_i0-ws60/edit#) (where various blog discussions happen at a larger-org level)
 
 ## Initial Implementation Checklist
 
@@ -159,8 +159,8 @@ If this proposal is accepted, we'll do the following to spin this up.
 - [ ] Initialize the YouTube channel
 - [ ] Have those external sites reviewed by Project Steering Committee for branding compliance
 - [ ] Provide the external sites' Terms of Service to the Project Steering Committee for review
-- [ ] Complete initial version the Procope core project document (intended as a living source of truth, unlike this static RFC)
-- [ ] Complete initial version the Procope sub-style guide (a living document meant to grow and evolve over time)
+- [ ] Complete initial version the blog core project document (intended as a living source of truth, unlike this static RFC)
+- [ ] Complete initial version the blog sub-style guide (a living document meant to grow and evolve over time)
 - [ ] Begin drafting one or two initial editors outside of the publishers
 - [ ] Provide an initial solicitation process for blog posts
 - [ ] Provide an editorial pipeline process for blog posts, so reviewers and editors have a reference
@@ -176,7 +176,7 @@ These points are out of scope for tracking in this document, but worth pointing 
 - Populate the blog queue with at least four articles before beginning biweekly publication, written by the publishers to set the initial tone
 - Experiment with video production pipeline and process
 - Sync with social media initiatives and other community outreach (such as any newsletter plans)
-- Set a regular cadence for Procope meetings, with growth over time into splitting between blog posts, videos, etc. as active sub-groups.
+- Set a regular cadence for working group meetings, with growth over time into splitting between blog posts, videos, etc. as active sub-groups.
 - Outreach for guest writers, such as Write the Docs speakers who might want to write about a topic
 
 ## Feedback & Change Log
