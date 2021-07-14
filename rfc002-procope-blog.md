@@ -18,7 +18,7 @@ Ryan Macklin ([@macklin](https://thegooddocs.slack.com/team/U01DYRWG43X)) , Carr
 
 ## Proposal Overview
 
-Producing and hosting blog posts and video content, including publication ownership and models.
+Producing and hosting blog posts content, including publication ownership and models.
 
 ### Motivation
 
@@ -30,8 +30,8 @@ We also want to foster community contributors, to elevate voices that aren't ele
 
 The proposal requires the following to be resolved before it be fully implemented:
 
-- Content strategy working group
-- Resolution of website license conversations
+- Content strategy working group decisions that impact website content
+- Resolution of website license conversations (RFC004)
 
 ## Proposal Details
 
@@ -39,7 +39,7 @@ Regarding specifics on dates and number of participants, this proposal represent
 
 ### Scope of proposal
 
-This proposal focuses on "community-driven media," namely **blog posts** and **videos** about individual topics, created by individual community members and based on those individual viewpoints. All these media elements will be curated by the editorial collective, steered by the core publishers (and input from the Project Steering Committee).
+This proposal focuses on "community-driven media," namely **blog posts** (and possible later videos or podcasts) about individual topics, created by individual community members and based on those individual viewpoints. All these media elements will be curated by the editorial collective, steered by the core publishers (and input from the Project Steering Committee).
 
 The audiences for this media are:
 * Developers and other "non-technical writers" looking to empower themselves, either in using our templates or in other applicable writing advice
@@ -50,7 +50,7 @@ There is no expectation that either audience will also be GDP contributors or co
 
 This proposal doesn't cover **white papers**, though it does address some nuance between white papers and blog posts for clarity.
 
-This proposal also doesn't cover the potential for other media like **podcasts**, but that could be a future expansion.
+This proposal also doesn't cover the potential for other media like **videos or podcasts**, but that could be a future expansion.
 
 This proposal also doesn't cover social media, but is certainly tethered to that element of community engagement.
 
@@ -76,21 +76,15 @@ That said, some months in we do want to examine our content for templating, as t
 
 All media is community-contributed pieces on documentation philosophy, best practices, and related opinion or research pieces. They are individually created and driven, representing a viewpoint within the community that the community respects enough to be associated with it, but with bylines that attach the viewpoint to the original author or authors.
 
-(This means the authors and the community co-own any potential fallout from poorly received posts or videos.)
+(This means the authors and the community co-own any potential fallout from poorly received posts.)
 
 Blog posts are 500- to 1000-word pieces about a subject, whether that's a single topic, a top N post, a collection of interesting links with commentary, and so on. Some posts will be solidary, and others will be part of a series.
-
-Videos are 3- to 10-minute pieces about a subject, illustrating a narrative that helps those more engaged in visual narratives buy into our concepts and templates.
 
 #### Where content would live
 
 Blog posts would live on (our website)[http://thegooddocsproject.dev], as a folder. Bryan Klein has already donated time and energy into a Hugo build for our blog, with a lot of modularity and customizability. (This is a pivot from originally suggestion Medium.com, which we're moving away from because of the paywall factor.)
 
-Videos would live on YouTube, with icon and naming showing it as part of the Good Docs Project. YouTube is the obvious place, because hosting video content is expensive and YouTube has tools to help with ancillary needs. I've taken the liberty of (creating a blank channel)[https://www.youtube.com/channel/UCi01Sf06CeUeW5XlwqyNIpQ].
-
-Regarding external housing: It's the responsibility of the publishers to make the Terms of Service of those services known to the Project Steering Committee. That includes any changes we're aware of.
-
-* [YouTube's Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/) help center
+Regarding external housing (should it become relevant): It's the responsibility of the publishers to make the Terms of Service of those services known to the Project Steering Committee. That includes any changes we're aware of.
 
 ### Organization & personnel
 
@@ -104,7 +98,7 @@ Publication standards are important to all organizations, especially to those pr
 * There are **editors**, who edit pieces to align with our community standards and style. We'll want two editors—and only two editors—involved in any one piece, to keep editors from burning out and to keep the signal/noise ratio down.
 	* Publishers are also editors, and it should go without saying that an author is never their own editor.
 * Anyone in the blog group can be a **reviewer** when reviews are solicited. Pieces should have reviews solicited.
-* Anyone in the blog group can submit a proposal for a piece they want to create. Such pieces would be one-off blog posts or videos, and when green lit will go through the process of drafting, reviews, edits, and finally entering the publication queue.
+* Anyone in the blog group can submit a proposal for a piece they want to create. Such pieces would be one-off blog posts, and when green lit will go through the process of drafting, reviews, edits, and finally entering the publication queue.
 	* A few authors may do a series, but that will be limited—partly because our publication queue can't maintain several series, and partly because we want to see what contributors provide to the group before promising to support a series.
 * Anyone in the blog group can add to a topic wishlist.
 
@@ -114,30 +108,26 @@ We want to encourage publisher rotation. This could mean one publisher steps dow
 
 The depends on both checking the bandwidth of our publishers and potenitally willing editors. We'll start this clock once the blog is launched. We'll keep this flexible for now, and change if a need for a stricter timetable arises.
 
-Once we get into video, we might also split publishers into different media domains. In the spirit of not trying to solve problems yet we aren't aware of, we'll figure that out as we move along. :)
-
 ### Publication rights & ownership
 
-The creators of each piece will retain ownership of their pieces, and the Good Docs Project asks permission to publish that version of their piece in perpetuity. From a licensing perspective, we'll rely on what we have on our (website's licenses page)[https://thegooddocsproject.dev/licenses/].
+The creators of each piece will retain ownership of their pieces, and the Good Docs Project asks permission to publish that version of their piece in perpetuity. From a licensing perspective, we'll rely on what we have on our (website's licenses page)[https://thegooddocsproject.dev/licenses/]. (Note: That is pending results of RFC004.)
 
-To make intent transparent, there are three factors important to the creators of this RFC factoring into this subtopic:
+Important elements to have on record regarding this topic:
 
 1. We want to allow contributors a space to incubate their ideas, which means in some cases a space to develop IP they want to work with later—such as in a talk or book down the road. And we want our contributors to feel good about having added to GDP's body of knowledge, rather than regret "giving up a good idea."
-2. There is an unfortunate history of privileged classes taking work created by marginalized people, and profiting off of that work without recognition of or compensation to those people. Because of the individual nature of each post and video, we should strive to not be a part of that history.
+2. There is an unfortunate history of privileged classes taking work created by marginalized people, and profiting off of that work without recognition of or compensation to those people. Because of the individual nature of each post, we should strive to not be a part of that history.
 3. Such media doesn't need to be replicated and altered in the way code bases are. Code bases and similar need legal declarations to protect those using them. The replication and alteration process is a personally interpreted one, and it doesn't necessitate the same sort of legal declaration (either liability license or replication permission).
 4. We want to be good facilitators and custodians of community knowledge, and encourage our participants to see themselves as empowered to donate their insights to the global community of technical writers and those interested in the craft.
 
 ### Publication cadence
 
-We want to soft-launch our blog content in September 2021. Initially, blog posts would come out once a every two weeks. Within a few months, we'd like to move to an every-week cadence.
+We want to soft-launch our blog content two months after this RFC is accepted. Initially, blog posts would come out once a every two weeks. Within a few weeks or months, we'd like to move to an every-week cadence. We'll play that by ear, and adjust as we need to.
 
-Videos would ideally come out once a month, but that may not be sustainable. With the labor and barrier to skill entry involved with video production, we shouldn't push this hard and overcommit. So we'll make sure our blog process is solidified and feels sustainable before committing to video production.
-
-We want to build up to a six-item queue of content for blog posts. That may be harder for videos, and in contrast for blog posts we may have a large "slush pile" to work through.
+Ideally, we want to build up to a six-item queue of content for blog posts.
 
 ## Open questions/thoughts (non-blocking)
 
-* Over time, we'd like to see how to get an organization-wide Drive, as being able to develop content in a system designed for written material would be of great benefit. Submitting to GitHub is planned as a later stage in the process, because of the limits of git's editor and commenting capabilities for non-code content.
+* Over time, we'd like to see how to get an organization-wide Drive, as being able to develop content in a system designed for written material would be of great benefit. Submitting to GitHub is planned as a later stage in the process, because of the limits of git's editor and commenting capabilities for non-code content. (This is touched on in RFC003.)
 
 ## Ambition vs. reality
 
@@ -145,6 +135,7 @@ We recognize that the dates we provide are ambitious, tempered with some respect
 
 ## Reference Links
 
+* [#blog Slack channel](https://thegooddocs.slack.com/archives/C01SDNR5X1C)
 * [Blog working group draft responsibility model, brainstormed late April 2021](https://jamboard.google.com/d/1iyfr4A9GcdRbvnkrokfg6YGXTBhIgmeA55UTBvtN_-o/viewer)
 * [Blog working group's temporary Google Drive folder](https://drive.google.com/drive/folders/1UCIwyvmOa4Gh5nBmXu1GckrI7mfeT2AW?usp=sharing]) (owned by Ryan's personal account)
 * [Blog working group's meeting notes](https://docs.google.com/document/d/18T2dku9WMRLJTq1rcnFwuUeA1i-thVLOtVqhX2SOxIY/edit?usp=sharing) (last meeting in late April; meeting cadence is TBD)
@@ -156,9 +147,6 @@ We recognize that the dates we provide are ambitious, tempered with some respect
 If this proposal is accepted, we'll do the following to spin this up.
 
 - [X] Initialize the blog site
-- [ ] Initialize the YouTube channel
-- [ ] Have those external sites reviewed by Project Steering Committee for branding compliance
-- [ ] Provide the external sites' Terms of Service to the Project Steering Committee for review
 - [ ] Complete initial version the blog core project document (intended as a living source of truth, unlike this static RFC)
 - [ ] Complete initial version the blog sub-style guide (a living document meant to grow and evolve over time)
 - [ ] Begin drafting one or two initial editors outside of the publishers
@@ -174,9 +162,8 @@ Naturally, these count for those steps we're aware of at the onset. We'll likely
 These points are out of scope for tracking in this document, but worth pointing out as effort to take in the two to three months post-acceptance.
 
 - Populate the blog queue with at least four articles before beginning biweekly publication, written by the publishers to set the initial tone
-- Experiment with video production pipeline and process
 - Sync with social media initiatives and other community outreach (such as any newsletter plans)
-- Set a regular cadence for working group meetings, with growth over time into splitting between blog posts, videos, etc. as active sub-groups.
+- Set a regular cadence for working group meetings
 - Outreach for guest writers, such as Write the Docs speakers who might want to write about a topic
 
 ## Feedback & Change Log
@@ -203,6 +190,11 @@ Revised on 6/30 to incorporate:
 - Decreasing the ambitious cadence of blog posts
 - Not committing to a start date on videos, to test the blog process first
 - Other minor tweaks
+
+Revised 7/14:
+- Retired "Procope" as a term.
+- Removed video elements. We aren't ready for that, and a new RFC should happen when we are that reflects what we've learned and where we want to go at that point.
+- Minor updates relating to newer RFCs and other converstions since last update.
 
 ## Voting
 
