@@ -91,6 +91,7 @@ If this proposal is accepted, the following tasks must be completed:
 - [ ] Have documented our license info, procedures, assumptions, whatever we need to have documented as an org to make all of this known to all contributors
 - [ ] Merge and deploy license page revisions
 - [ ] Ensure any relevant site pages or documents has their license terms in them, and not relying on the site's license page
+- [ ] Define and address site repos' stucture needs and code/internal licencing needs based on content licensing
 
 ## Votes
 
