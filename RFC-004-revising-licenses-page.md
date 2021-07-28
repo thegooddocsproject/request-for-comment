@@ -40,12 +40,15 @@ On a personal level, I don't release my likeness to public use, and the current 
 
 I'd like to shift the burden of licensing to the individual elements, rather than have a pure blanket. That means:
 
-- Our products (templates, doc tools, etc) have the BSD0 license in their readme or license text files, and not rely on the license website page for that notice
-- For blog posts etc, post pages would default to have "`This blog post's original text is (c) [year] [author name], and licensed under CC BY 4.0`". Currently, the blog is set up to allow for this default, with other changes allowed. Ryan and Bryan worked together to make sure this could be modular.
-- "Original text" covers not opening any quoted text (like in referencing a book's text) as being CC, and doesn't open any stock images from being CC. If a custom image is created by the author, we can add that to the CC license, which is part of why Ryan and Bryan worked to make the license field modular.
-- For everything else, we leave the material either unlicensed or under whatever licenses already exist for that material. (See What's currently CC BY content below.)
+- Our products (templates, doc tools, etc) have the BSD0 license in their readme or license text files, and not rely on the license website page for that notice. This concept covers all **replicated content**—anything we build that's meant to be copied, redistribted, and modified as part of execution.
+- For cognitive content-based subprojects (example: blog posts), individual pages/items with licensing requirements would default to have something like "`This piece's original text is (c) [year] [author name], and licensed under CC BY 4.0`". Currently, the blog is set up to allow for this default, with other changes allowed. Ryan and Bryan worked together to make sure this could be modular.
+- **Cognitive content** is content meant for people to read, internalize, and add to their sense of knowledge and practices without necessarily being about copying and republishing. Blog posts, white papers, videos, podcasts, posters, diagrams, all of that is "human content." Execution for this is about shaping thought patterns and discourse.
+- For the above example: "Original text" covers not opening any quoted text (like in referencing a book's text) as being CC, and doesn't open any stock images from being CC. If a custom image is created by the author, we can add that to the CC license, which is part of why Ryan and Bryan worked to make the license field in the blog subproject modular.
+- For everything else on the website, we leave the material either unlicensed, under whatever licenses already exist for that material, or make some other decision as part as a subproject's RFC. Thus, our default state is to not specify a license. (See What's currently CC BY content below.) It's better to not specific a license initally and add one later, than it is to specify the *wrong* license or inccorect details at any point.
 
 Since the licenses page wouldn't be the declaration of broad license anymore, it would become the page that explains what licences are used: BSD0 for our products, CC BY for "various pages" on the site. The licenses page wouldn't be the *primary authority* for this information, but instead a *single page to set expectations* for contributors and consumers regarding using elements of this project.
+
+*Individual project's RFCs would define what sort of license scheme it has: BSD0 for replicated content, CC BY, or none. And it would include how/where it would include licensing info. This RFC is just about building that framework and disambiguating this issue.*
 
 ### Keeping it simple
 
