@@ -8,7 +8,7 @@ Initially submitted on 2021-07-13
 ## Current status
 
 - [ ] Draft
-- [x] Under discussion (until 2021-07-27, assuming two weeks post initial submission)
+- [x] Under discussion (until 2021-08-11, assuming 2-4 weeks post initial submission)
 - [ ] Final comment and voting (until YYYY-MM-DD) {{Add date after selecting this status.}}
 - [ ] Accepted
 - [ ] Rejected
