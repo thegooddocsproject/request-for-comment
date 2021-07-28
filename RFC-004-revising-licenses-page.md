@@ -73,6 +73,10 @@ By changing the licenses page, we aren't "undoing" any license terms for the con
 
 If someone goes to a version of the site with the current license page (via github, archive.org, etc.), all of that material is still CC BY 4.0. We don't need to spell this out on the license page, but if someone inquires that's the answer.
 
+## Open questions
+
+* Is there an license that content files inherent by virtue of being in our repo? (Such as markdown files for the blog.) If so, this may pose a problem for us that we'll either need to account for or resolve.
+
 ## Links
 
 * [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
