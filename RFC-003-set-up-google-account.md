@@ -84,7 +84,8 @@ Other individuals may possibly request access to the Google account for these re
 - Additional important reasons that we haven't yet thought of
 
 Members who are granted Google account access should be trusted by the community.
-They should have belonged to and/or contributed to the community for at least a quarter (3 months).
+They should have demonstrated trustworthiness, typically by contributing impactfully to the community for at least a quarter (3 months).
+
 Being a member of the project steering committee helps but should not necessarily be required.
 
 Access can be granted by reaching out to the project chair or vice-chair, who will raise a motion and encourage voting from the project steering committee members.
