@@ -37,6 +37,8 @@ While this new model has helped make our community more productive and distribut
 - It's difficult for community members to see all the different working groups meetings in one calendar.
 - Community members can't simply add themselves to a working group meeting (they must be added manually).
 - There's no central location for people to store and access non-binary files being produced in various working groups (such as Google Doc files, slide decks, and other project assets).
+- Cameron notes that we can also provide access at the directory level without providing full access to the account.
+- Aaron notes that there seems to be the ability to delegate access to the account, which allows us to easily add/remove members while also relieving users of the need to remember Yet Another Password.
 
 Creating a shared, free Google account will solve many of these problems and give us access to tools that will improve our project's productivity.
 
@@ -71,9 +73,8 @@ It might also be advisable to ensure that account access is distributed across a
 
 For that reason, when the account is first created, the account credentials will be shared with:
 
-- The current project chair (Alyssa)
-- The vice-chair (we need to create this position and nominate someone to it)
-- The templates coordinator (we need to create this position and nominate someone to it; a future RFC that I'm submitting will make a recommendation for this role and it will likely be Aidan Doherty)
+- The current project chair
+- The vice-chair or another trusted member of the project steering committee
 
 Other individuals may possibly request access to the Google account for these reasons:
 
@@ -114,25 +115,19 @@ Carrie Crowe also researched other options and reached the same conclusion that 
 
 ### Risks or reasons not to adopt this RFC
 
-The only risks I can think of are that if we make our community calendar public, we could increase the chance of bad actors crashing our meetings, but I think this is a risk worth taking.
+A few potential risks:
 
-I think another risk is that this account will possibly have access to sensitive information (such as contact information and potentially financial information).
-That's a heavy responsibility that we should never take lightly.
-For that reason, we need to make sure that this kind of information is restricted in the Google Drive or we need to review account access to ensure that only individuals who truly need access have it as I've outlined in a previous section.
+- If we make our community calendar public, we could increase the chance of bad actors crashing our meetings, but I think this is a risk worth taking.
+- A community member with access to the shared Google Drive might accidentally or intentionally delete files that should not be deleted. For that reason, access to the Google Drive should be segmented by folders.
+- We should avoid exhanging sensitive information on this account (such as contact information and potentially financial information). If sensitive information is contained on this account, it should be segmented to a specific drive with access that is only granted on an as-needed basis.
+
+
 
 
 ## Links
 
 [Creating a Google account](https://edu.gcfglobal.org/en/googleaccount/creating-a-google-account/1/)
 [Google Workspaces pricing](https://workspace.google.com/pricing.html) (for comparing alternatives)
-
-
-## Feedback
-
-{{Reviewer name}}:
-- {{I suggest that ...}}
-    - {{Community member name}}: {{Additional comment on same topic.}}
-    - {{Proposer name}}: {{Addressed by ... / Ignored because ... / ...}}
 
 
 ## Implemention checklist
