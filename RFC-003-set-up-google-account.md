@@ -94,7 +94,9 @@ Access can be granted by reaching out to the project chair or vice-chair, who wi
 ### Rotating passwords
 
 I propose we set up a cadence for changing our account passwords.
-Unless someone thinks it should be more frequent, I'm open to changing the password once a year.
+Unless someone thinks it should be more frequent, I'm open to changing the password once a year, or immediately after a possible password compromise.
+
+
 We could also consider changing it when certain project events occur, such as when a PSC member who had access steps down.
 
 
