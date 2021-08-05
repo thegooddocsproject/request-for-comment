@@ -61,6 +61,9 @@ As I mentioned in the motivation section, this will solve a lot of problems we'r
 - We could use this official account to create accounts for other free services (such as social media).
 - There's probably even more benefits that I haven't thought to list here!
 
+Cameron notes: From a quick experiment, it appears that I can set up meeting permissions to allow others to add/remove meeting members, or change the meeting time.
+This should make it easier to for us to remain relatively restrictive in providing account access, while still giving everyone the ability to use the calendar and files.
+
 
 ### Regulating account access
 
@@ -83,6 +86,7 @@ Other individuals may possibly request access to the Google account for these re
 - You have been authorized by the project steering committee to create an account with another service using our Google account
 - You need to use the project mail account regularly to communicate with others in an official capacity
 - Additional important reasons that we haven't yet thought of
+- You are a community builder, and are regularly setting up access for new members into our community.
 
 Members who are granted Google account access should be trusted by the community.
 They should have demonstrated trustworthiness, typically by contributing impactfully to the community for at least a quarter (3 months).
@@ -91,14 +95,18 @@ Being a member of the project steering committee helps but should not necessaril
 
 Access can be granted by reaching out to the project chair or vice-chair, who will raise a motion and encourage voting from the project steering committee members.
 
+Cameron adds: We can provide access on a per-directory basis. For example, `Reg Rev-head` could be given permission to create and delete files in the `car-racing-templates` directory without needing the main password.
+
 
 ### Rotating passwords
 
 I propose we set up a cadence for changing our account passwords.
 Unless someone thinks it should be more frequent, I'm open to changing the password once a year, or immediately after a possible password compromise.
 
-
 We could also consider changing it when certain project events occur, such as when a PSC member who had access steps down.
+
+Aaron adds: It also gives us the ability to delegate access to the account, which might alleviate some of the fears regarding bad actors.
+That ability will allow us to easily add/remove members while also relieving users of the need to remember Yet Another Password.
 
 
 ### Why a free Google account as opposed to something else?
