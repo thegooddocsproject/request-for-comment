@@ -6,7 +6,7 @@ This document explains the template contributor roles and other tools and resour
 
 - [Template writing working groups](#template-writing-working-groups)
 - [Templates coordinator](#templates-coordinator)
-- [Template mentors](#templates-mentor)
+- [Template mentors](#templates-mentors)
 - [Community reviewers](#community-reviewers)
 - [Pull request reviewers](#pull-request-reviewers)
 
