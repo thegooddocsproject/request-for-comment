@@ -2,6 +2,14 @@
 
 This document explains the template contributor roles and other tools and resources that support the template creation process. See the [Template Contributing Guide](template-contribuing-guide.md) to understand the larger context for these roles and resources.
 
+## Table of contents
+
+- [Template writing working groups](#template-writing-working-groups)
+- [Templates coordinator](#templates-coordinator)
+- [Template mentors](#templates-mentor)
+- [Community reviewers](#community-reviewers)
+- [Pull request reviewers](#pull-request-reviewers)
+
 
 ## Template writing working groups
 
