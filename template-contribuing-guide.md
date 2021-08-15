@@ -12,9 +12,9 @@ We value all contributions to the Good Docs Project initiatives, including templ
 - [Before you start](#before-you-start)
   - [Template roles and resources](#template-roles-and-resources)
   - [Required deliverables](#required-deliverables)
-- [Overview of template writing phases](#overview-of-the-template-writing-phases)
+- [Overview of the template writing phases](#overview-of-the-template-writing-phases)
 - [Join the community](#join-the-community)
-- [Adopt a template](#adopt-a-tempate)
+- [Adopt a template](#adopt-a-template)
   - [Guidelines for choosing a template](#guidelines-for-choosing-a-template)
 - [Research and draft the template](#research-and-draft-the-template)
   - [Recommended research strategies](#recommended-research-strategies)
@@ -81,7 +81,7 @@ Currently, for a template set to be considered complete, each template set shoul
 For more detailed information about each deliverable, see (Template Deliverables)[template-deliverables.md].
 
 
-## Overview of template writing phases
+## Overview of the template writing phases
 Contributing a template project to our repository has five phases, as summarized in this table:
 
 <table>
@@ -126,7 +126,7 @@ Contributing a template project to our repository has five phases, as summarized
           <li>Collaborate and get early feedback on your research from your template mentor and/or other templateers as part of a template writing working group.</li>
           <li>Create drafts of the template set deliverables in Google Docs or your preferred tool.</li>
         </ul>
-    <td>
+    </td>
     <td><ul>
           <li>Working groups</li>
           <li>Template mentors</li>
@@ -284,7 +284,7 @@ To share your Google Docs drafts:
 
 The templates coordinator will help ensure you get at least three high quality reviews from the community reviewers. When you’ve received sufficient community input and incorporated suggestions into your draft, you will collaborate with a templates coordinator to determine that your draft is ready to move to the next phase.
 
-> :star: **NOTE: You can only move to the next phase (submitting a pull request) after the templates coordinator or your template mentor has approved your draft to move on.**
+> :triangular_flag_on_post: **NOTE: You can only move to the next phase (submitting a pull request) after the templates coordinator or your template mentor has approved your draft to move on.**
 
 
 ### Accepting feedback from others
