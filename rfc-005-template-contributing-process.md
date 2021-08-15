@@ -47,15 +47,24 @@ In order to view this proposal in-depth, see these files that are included in th
 
 I'll provide a few key highlights here:
 
-Template contributors will write templates as participants in template writing working groups that meet weekly and are led by an experienced template mentor. These template mentors will communicate regularly with the templates coordinator, who oversees the entire template process as a project manager.
+Template contributors will write templates as participants in template writing working groups that meet weekly and are led by an experienced template mentor.
+These template mentors will communicate regularly with the templates coordinator, who oversees the entire template process as a project manager.
+Additionally, a large, inclusive group of volunteer community reviewers will review templates that are in the workshop phase.
+A small group of experienced pull request reviewers will review and check the templates for quality before merging them into the `templates` repository.
 
 Templates will be written in six different phases with certain checkpoints and milestones that each template must meet along the way:
-- **Join the community** - A new contributor joins the community and find an initiative they want to work on.
-- **Adopt a template** - If they are interested in contributing templates, they join a template writing working group led by a template mentor. They decide which template set to begin working on.
-- **Research and draft** - They research best practices and look at examples of the type of document they are working on. When they are finished, they will create a rough draft.
-- **Workshop the drafts with the community** - Revise and refine their template set with the community pull reviewers. At least three community reviews are required to move to the next phase.
-- **Submit a pull request** - They open a pull request and it is reviewed for quality by the pull request reviewers. At least two pull request reviewer approvals are needed to be merged into the repository.
-- **Improve the template with user feedback** - As users try the template in the wild, they may report usability issues or provide feedback for improvements to the template. Either the original template author or another templateer will evaluate feedback and incorporate it into future versions of the template. When that happens, the template will go through the previous phases again.
+
+1. **Join the community** - A new contributor joins the community and find an initiative they want to work on.
+
+2. **Adopt a template** - If they are interested in contributing templates, they join a template writing working group led by a template mentor. They decide which template set to begin working on.
+
+3. **Research and draft** - They research best practices and look at examples of the type of document they are working on. When they are finished, they will create a rough draft.
+
+4. **Workshop the drafts with the community** - Revise and refine their template set with the community pull reviewers. At least three community reviews are required to move to the next phase.
+
+5. **Submit a pull request** - They open a pull request and it is reviewed for quality by the pull request reviewers. At least two pull request reviewer approvals are needed to be merged into the repository.
+
+6. **Improve the template with user feedback** - As users try the template in the wild, they may report usability issues or provide feedback for improvements to the template. Either the original template author or another templateer will evaluate feedback and incorporate it into future versions of the template. When that happens, the template will go through the previous phases again.
 
 Each template set will include:
 - **Raw template** - The basic template for the type of document you are creating. It provides a rough outline of the suggested content and a few embedded writing tips for how to fill in the different sections of the template.
