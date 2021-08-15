@@ -78,7 +78,7 @@ Currently, for a template set to be considered complete, each template set shoul
   </tr>
 </table>
 
-For more detailed information about each deliverable, see (Template Deliverables)[template-deliverables.md].
+For more detailed information about each deliverable, see [Template Deliverables](template-deliverables.md).
 
 
 ## Overview of the template writing phases

@@ -40,28 +40,28 @@ This proposed template contributing process will ensure that our contributors ha
 
 In order to view this proposal in-depth, see these files that are included in this pull request (in this order):
 
-- template-contribuing-guide.md
-- template-deliverables.md
-- template-quality-checklist.md
-- template-roles-and-resources.md
+- [Template contributing guide](template-contribuing-guide.md)
+- [Template deliverables](template-deliverables.md)
+- [Template quality checklist](template-quality-checklist.md)
+- [Template roles and resources](template-roles-and-resources.md)
 
 I'll provide a few key highlights here:
 
+Template contributors will write templates as participants in template writing working groups that meet weekly and are led by an experienced template mentor. These template mentors will communicate regularly with the templates coordinator, who oversees the entire template process as a project manager.
+
 Templates will be written in six different phases with certain checkpoints and milestones that each template must meet along the way:
-- **Join the community**
-- **Adopt a template**
-- **Research and draft**
-- **Workshop the drafts with the community**
-- **Submit a pull request**
-- **Improve the template with user feedback**
+- **Join the community** - A new contributor joins the community and find an initiative they want to work on.
+- **Adopt a template** - If they are interested in contributing templates, they join a template writing working group led by a template mentor. They decide which template set to begin working on.
+- **Research and draft** - They research best practices and look at examples of the type of document they are working on. When they are finished, they will create a rough draft.
+- **Workshop the drafts with the community** - Revise and refine their template set with the community pull reviewers. At least three community reviews are required to move to the next phase.
+- **Submit a pull request** - They open a pull request and it is reviewed for quality by the pull request reviewers. At least two pull request reviewer approvals are needed to be merged into the repository.
+- **Improve the template with user feedback** - As users try the template in the wild, they may report usability issues or provide feedback for improvements to the template. Either the original template author or another templateer will evaluate feedback and incorporate it into future versions of the template. When that happens, the template will go through the previous phases again.
 
 Each template set will include:
 - **Raw template** - The basic template for the type of document you are creating. It provides a rough outline of the suggested content and a few embedded writing tips for how to fill in the different sections of the template.
 - **Template guide** - Provides a deeper explanation of how to fill in the raw template. It provides a lightweight introduction to the purpose of this documentation and explains how to fill in each section of the document. Additional content may be included as needed.
 - **Before you start (optional)** - This optional guide is designed to help template users understand some of the key research, brainstorming, or pre-writing steps that they might need to do before adding this type of document to a guide. If this documentation type has certain key decisions that need to be made with stakeholders or if it has a dependency on some other type of document or process, that should be mentioned in this guide.
 - **Template example (optional)** - The Good Docs Project is in the process of designing a fake documentation project that can provide examples of our templates in action. Until this project is ready, template authors may optionally create an example of the template in action.
-
-Template contributors will write templates as participants in template writing working groups that meet weekly and are led by an experienced template mentor. These template mentors will communicate regularly with the templates coordinator, who oversees the entire template process as a project manager.
 
 
 ## Links and prior art
