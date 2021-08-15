@@ -40,10 +40,10 @@ This proposed template contributing process will ensure that our contributors ha
 
 In order to view this proposal in-depth, see these files that are included in this pull request (in this order):
 
-- [Template contributing guide](template-contribuing-guide.md)
-- [Template deliverables](template-deliverables.md)
-- [Template quality checklist](template-quality-checklist.md)
-- [Template roles and resources](template-roles-and-resources.md)
+- template-contribuing-guide.md
+- template-deliverables.md
+- template-quality-checklist.md
+- template-roles-and-resources.md
 
 I'll provide a few key highlights here:
 
