@@ -2,11 +2,13 @@
 
 This document explains the different documentation deliverables that template authors are required to write as part of each template set. First, read our Template Contributing Guide to understand the larger context for these deliverables.
 
+## Table of contents
+
 - [Overview](#overview)
 - [Raw template](#raw-template)
 - [Template guide](#template-guide)
-- [Before you start guide (optional)](#before-you-start-guide)
-- [Template example (optional)](#template-example)
+- [Before you start guide (optional)](#before-you-start-guide-optional)
+- [Template example (optional)](#template-example-optional)
 
 
 ## Overview
