@@ -1,4 +1,4 @@
-# Template contributing guide
+# Good Docs Project - Template contributing guide
 
 Welcome to the Good Docs Project!
 If you’re reading this guide, that probably means you’d like to get involved and start contributing to the project.
