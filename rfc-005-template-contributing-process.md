@@ -84,7 +84,12 @@ If you'd like to view the comment and revision history of these documents, you c
 
 ## Open questions
 
-We haven't really found a good title for the template deliverable I'm currently calling "Before you start." Cameron prefers "theory." Suggestions are appreciated!
+We haven't really found a good title for the template deliverable I'm currently calling "Before you start." Cameron prefers "theory." Suggestions are appreciated! Other ideas that were floated in the community:
+
+- Prewriting guide
+- Brainstorming guide
+- Template background
+- Template README
 
 
 ## Decisions deferred
