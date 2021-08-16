@@ -1,3 +1,8 @@
+# Template quality checklist
+
+This quality checklist will eventually become a pull request template that every contributor needs to add to pull requests against the `templates` repository.
+
+
 # Pull request summary
 
 {Describe the purpose of your pull request.}

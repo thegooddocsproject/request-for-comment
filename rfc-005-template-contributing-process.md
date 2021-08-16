@@ -40,7 +40,7 @@ This proposed template contributing process will ensure that our contributors ha
 
 In order to view this proposal in-depth, see these files that are included in this pull request (in this order):
 
-- template-contribuing-guide.md
+- template-contributing-guide.md
 - template-deliverables.md
 - template-quality-checklist.md
 - template-roles-and-resources.md
@@ -93,6 +93,7 @@ Project management logistics that are out of scope for now include:
 - Whether template projects are represented as epics or issues
 - How template contributors indicate the status of their template set
 - How templates are planned for releases
+- Whether template changes are tracked and communicated at the release level or the template level
 
 Template formatting guidelines will also have to be deferred:
 - Template style guidelines
