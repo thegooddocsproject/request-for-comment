@@ -84,7 +84,11 @@ If someone goes to a version of the site with the current license page (via gith
 * [Current RFC002 file, with prior discussions about licenses](https://github.com/thegooddocsproject/request-for-comment/pull/3)
 
 ## Feedback
-
+Bryan Klein:
+- I suggest that we increase the specificity of the license terms in the LICENSE.md file and on the License page of the website.  Where we identify folders within the project that the content and byproducts of which the build process creates as `CC BY 4.0` and all other files in the repository are Apache 2.0 unless otherwise specified in the source file.  We can identify any number of files and folders as needed.  For example: `/content`, `/data', `/static/images`, etc.
+    - {{Community member name}}: {{Additional comment on same topic.}}
+    - {{Proposer name}}: {{Addressed by ... / Ignored because ... / ...}}
+    
 {{Reviewer name}}:
 - {{I suggest that ...}}
     - {{Community member name}}: {{Additional comment on same topic.}}
