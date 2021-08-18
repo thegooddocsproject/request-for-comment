@@ -8,7 +8,7 @@ Alyssa Rock - https://thegooddocs.slack.com/team/U012KCMPP0V
 
 - [x] Draft
 - [x] Under discussion - until 2021-07-28 or 2 weeks later if needed
-- [ ] Final comment and voting (until YYYY-MM-DD) {{Add date after selecting this status.}}
+- [x] Final comment and voting (until YYYY-MM-DD) {{Add date after selecting this status.}}
 - [ ] Accepted
 - [ ] Rejected
 - [ ] Implemented
@@ -160,13 +160,13 @@ Project steering committee (listed alphabetically by first name):
 
 - Aaron Peters:
 - Aidan Doherty:
-- Alyssa Rock:
+- Alyssa Rock: +1
 - Ankita Tripathi:
-- Bryan Klein:
-- Cameron Shorter:
+- Bryan Klein: +1
+- Cameron Shorter: +1
 - Carrie Crowe:
-- Erin McKean:
-- Morgan Craft:
+- Erin McKean: +1
+- Morgan Craft: +1
 - Ryan Macklin:
 - Viraji Ogodapola:
 
