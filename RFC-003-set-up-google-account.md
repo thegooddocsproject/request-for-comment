@@ -174,7 +174,7 @@ Project steering committee (listed alphabetically by first name):
 - Carrie Crowe: +1
 - Erin McKean: +1
 - Morgan Craft: +1
-- Ryan Macklin: Didn't vote
+- Ryan Macklin: +1
 - Viraji Ogodapola: +1
 
 Community members who voted (non-binding):
