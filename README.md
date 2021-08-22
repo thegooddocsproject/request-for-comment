@@ -91,7 +91,10 @@ When making comments, community members should be aware that:
 
 During or after the general discussion period, the community member that originally submitted the RFC proposal may revise the proposal to incorporate feedback or suggestions from the community.
 
-If the proposer revises the PEP, they should notify the community on the pull request thread (preferred), and/or the `#proposals` channel or [groups.io mailing list](https://thegooddocsproject.groups.io/g/main).
+The proposer makes the final call whether to adopt or reject feedback:
+
+- If they **adopt** the feedback, the proposer incorporates it into the RFC draft before the final comment period begins and notes it in a comment on the pull request threads and in their commits.
+- If they **reject** it, they note it in the feedback section by copying the comments verbatim and stating their reason for rejecting the feedback.
 
 
 ### 4. Final comment and vote
@@ -111,6 +114,9 @@ In order to be accepted, at least half of the current project steering committee
 Votes from general community members are non-binding, but will be taken into consideration.
 
 Abstaining or absent votes from project steering committee members will be treated as indifferent votes.
+
+Project steering committee members should indicate their vote by commenting on the pull request thread.
+The proposer is responsible for recording how PSC members voted by updating their RFC prior to merging it into the repository.
 
 
 ### 5. Implement

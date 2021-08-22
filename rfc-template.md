@@ -1,50 +1,58 @@
-{{
+{
 - Use this template when submitting a request for comment (RFC) proposal to the Good Docs Project.
 - See the [README](README.md) for more information about the process.
-}}
+}
 
 # Title of your proposal
 
 ## Proposed by
 
-{{Put your name and/or your Slack handle here.}}
+{Put your name and/or your Slack handle here.}
 
 ## Current status
 
-- [x] Draft {{Leave in a draft state until you submit your pull request.}}
-- [ ] Under discussion (until YYYY-MM-DD) {{Add date after selecting this status.}}
-- [ ] Final comment and voting (until YYYY-MM-DD) {{Add date after selecting this status.}}
-- [ ] Accepted
-- [ ] Rejected
-- [ ] Implemented
-- [ ] Deferred
-- [ ] Withdrawn
+See the status indicated on the pull request description.
 
 
 ## Proposal overview
 
-{{Summarize your proposal in this section in about 1-2 paragraphs.}}
+{Summarize your proposal in this section in about 1-2 paragraphs.}
 
 
 ## Motivation
 
-{{What problem does this proposal try to solve?}}
+{What problem does this proposal try to solve?}
 
 
 ## Proposal
 
-{{Explain the proposal in more depth here and make your best argument for its adoption.}}
+{Explain the proposal in more depth here and make your best argument for its adoption.}
 
 
-## Links
+## Consequences
 
-{{This section is optional if you want to [link](https://example.com) to other resources.}}
+{Explain what impact this proposal will have on the community, both positive and negative.}
+
+
+## Links and prior art
+
+{This section is optional if you want to [link](https://example.com) to other resources.}
+
+
+## Open questions
+
+{This section is optional and is where you can list questions that won't be resolved by this RFC, including those raised in comments from community members.}
+
+
+## Decisions deferred
+
+{This section is option and is where you can list decisions that won't be resolved by this RFC, but which should be raised at a later time.}
+
 
 ## Feedback
-{{Reviewer name}}:
-- {{I suggest that ...}}
-    - {{Community member name}}: {{Additional comment on same topic.}}
-    - {{Proposer name}}: {{Addressed by ... / Ignored because ... / ...}}
+
+{If you accept feedback from a community member, you will incorporate it into your RFC before it is accepted.
+If you reject feedback, note that rejected feedback here before resolving the conversation.}
 
 
 ## Implementation checklist
@@ -76,4 +84,4 @@ Project steering committee (listed alphabetically by first name):
 
 Community members who voted (non-binding):
 
-- {{Your name}}: {{Your vote}}
+- {Your name}: {Your vote}
