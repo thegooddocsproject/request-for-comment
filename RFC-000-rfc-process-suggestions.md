@@ -9,7 +9,7 @@
 - [x] Draft
 - [x] Under discussion (until 2021-07-28)
 - [x] Final comment and voting (until YYYY-MM-DD) {{Add date after selecting this status.}}
-- [ ] Accepted
+- [x] Accepted
 - [ ] Rejected
 - [ ] Implemented
 - [ ] Deferred
@@ -92,17 +92,17 @@ Votes as per our [decision process](https://thegooddocsproject.dev/decisions/}:
 
 Project steering committee (listed alphabetically by first name):
 
-- Aaron Peters: 
+- Aaron Peters: Didn't vote
 - Aidan Doherty: +1
 - Alyssa Rock: +1
-- Ankita Tripathi:
+- Ankita Tripathi: +1
 - Bryan Klein: +1
 - Cameron Shorter: +1
-- Carrie Crowe:
+- Carrie Crowe: +1
 - Erin McKean: +1
 - Morgan Craft: +1
-- Ryan Macklin:
-- Viraji Ogodapola:
+- Ryan Macklin: Didn't vote
+- Viraji Ogodapola: +1
 
 Community members who voted (non-binding):
 
