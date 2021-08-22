@@ -9,7 +9,7 @@ Alyssa Rock - https://thegooddocs.slack.com/team/U012KCMPP0V
 - [x] Draft
 - [x] Under discussion - until 2021-07-28 or 2 weeks later if needed
 - [x] Final comment and voting (until YYYY-MM-DD) {{Add date after selecting this status.}}
-- [ ] Accepted
+- [x] Accepted
 - [ ] Rejected
 - [ ] Implemented
 - [ ] Deferred
@@ -129,7 +129,14 @@ A few potential risks:
 - A community member with access to the shared Google Drive might accidentally or intentionally delete files that should not be deleted. For that reason, access to the Google Drive should be segmented by folders.
 - We should avoid exhanging sensitive information on this account (such as contact information and potentially financial information). If sensitive information is contained on this account, it should be segmented to a specific drive with access that is only granted on an as-needed basis.
 
+Additional comments:
 
+Erin states: two cents on the 'crashing meetings' ... we had this happen to a Season of Docs Meet and it was extremely unpleasant.
+There are coordinated groups who look for open links and bomb them with attack sounds, NSFW content, and more.
+Once the trolls joined, we were unable to keep them from sharing their screens and we could not keep them muted.
+There are some new features in Meet that may mitigate this, but wanted to share this fwiw.
+
+She continues: I think that we could have the calendar public, but not allow autojoining (eg not allow "anyone with the link" to join), and both require that anyone who wants to join ping 24 hours in advance of the meeting and have a policy of not allowing unknown users (eg not already active members or people who pinged to join in advance) into the meeting during the meeting.
 
 
 ## Links
@@ -161,14 +168,14 @@ Project steering committee (listed alphabetically by first name):
 - Aaron Peters: +1
 - Aidan Doherty: +1
 - Alyssa Rock: +1
-- Ankita Tripathi:
+- Ankita Tripathi: +1
 - Bryan Klein: +1
 - Cameron Shorter: +1
-- Carrie Crowe:
+- Carrie Crowe: +1
 - Erin McKean: +1
 - Morgan Craft: +1
-- Ryan Macklin:
-- Viraji Ogodapola: 
+- Ryan Macklin: Didn't vote
+- Viraji Ogodapola: +1
 
 Community members who voted (non-binding):
 
