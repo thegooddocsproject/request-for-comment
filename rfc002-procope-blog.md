@@ -6,9 +6,9 @@ Ryan Macklin ([@macklin](https://thegooddocs.slack.com/team/U01DYRWG43X)) , Carr
 
 ## Proposal State
 
-- [ ] Draft (submitted to GitHub on May 26, 2021)
+- [x] Draft (submitted to GitHub on May 26, 2021)
 - [x] Under discussion 
-- [ ] Waiting on dependencies
+- [x] Waiting on dependencies (RFC-004)
 - [ ] Final comment and voting ({{date}})
 - [ ] Accepted
 - [ ] Rejected
@@ -110,7 +110,7 @@ The depends on both checking the bandwidth of our publishers and potenitally wil
 
 ### Publication rights & ownership
 
-The creators of each piece will retain ownership of their pieces, and the Good Docs Project asks permission to publish that version of their piece in perpetuity. From a licensing perspective, we'll rely on what we have on our (website's licenses page)[https://thegooddocsproject.dev/licenses/]. (Note: That is pending results of RFC004.)
+The creators of each piece will retain ownership of their pieces, and the Good Docs Project asks permission to publish that version of their piece in perpetuity. From a licensing perspective, that's covered as the results of RFC-004.
 
 Important elements to have on record regarding this topic:
 
