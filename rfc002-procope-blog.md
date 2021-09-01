@@ -58,7 +58,7 @@ This proposal also doesn't cover social media, but is certainly tethered to that
 
 In this model, **blog posts** are community contributions to general knowledge about technical communication, an informal stance of Good Docs Project template support, or other points of interest for those interested in GDP's mission and broader content.
 
-They're periodical content, to keep engagement up. They're individually credited, and live on a GDP-branded Medium.com publication.
+They're periodical content, to keep engagement up. They're individually credited, and live on a dedicated blog subfolder on GDP's website.
 
 To contrast, **white papers** would cover topics core to Good Docs Project templates, in philosophy and execution. They would be created by community consensus and represent the community as a unified element. They would live on the core GDP website, rather than in the publication models outlined below.
 
@@ -92,7 +92,7 @@ First, the blog ideally operates on a "fail early, learn, keep on keeping on." K
 
 Publication standards are important to all organizations, especially to those promoting publication standards themselves. To that end, there's a hierarchical model borrowed from Ryan's periodical background.
 
-* There's a central **publisher** role, held by two people. They have publication rights on the external accounts (Medium, YouTube). They maintain the publication queue and quality, and have as part of their role to also recruit contributors.
+* There's a central **publisher** role, held by two people. They have publication rights on the external accounts (such as YouTube). They maintain the publication queue and quality, and have as part of their role to also recruit contributors.
 	* First publishers would be: Ryan Macklin & Carrie Crowe.
 	* The GDP chair is also in this role, with respect to account access.
 * There are **editors**, who edit pieces to align with our community standards and style. We'll want two editors—and only two editors—involved in any one piece, to keep editors from burning out and to keep the signal/noise ratio down.
