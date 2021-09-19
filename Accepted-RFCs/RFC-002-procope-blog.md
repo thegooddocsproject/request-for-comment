@@ -7,10 +7,10 @@ Ryan Macklin ([@macklin](https://thegooddocs.slack.com/team/U01DYRWG43X)) , Carr
 ## Proposal State
 
 - [x] Draft (submitted to GitHub on May 26, 2021)
-- [x] Under discussion 
+- [x] Under discussion
 - [x] Waiting on dependencies (RFC-004)
-- [ ] Final comment and voting ({{date}})
-- [ ] Accepted
+- [x] Final comment and voting ({{date}})
+- [x] Accepted
 - [ ] Rejected
 - [ ] Implemented
 - [ ] Deferred
@@ -202,23 +202,14 @@ Votes as per our [decision process](https://thegooddocsproject.dev/decisions/):
 
 Project steering committee (listed alphabetically by first name):
 
-* Aaron Peters: 
-* Aidan Doherty: 
-* Alyssa Rock: 
-* Ankita Tripathi: 
-* Bryan Klein: 
-* Carrie Crowe
-* Cameron Shorter:
-* Clarence Cromwell: 
-* Erin McKean: 
-* Morgan Craft: 
-* Ryan Macklin: 
-* Viraji Ogodapola: 
-
-Community members who voted (non-binding):
-
-* {{Your name}}: {{Your vote}}
-
-
-
-
+* Aaron Peters: +1
+* Aidan Doherty: +0 (abstain)
+* Alyssa Rock: +1
+* Ankita Tripathi: Didn't vote
+* Bryan Klein: +1
+* Carrie Crowe: +1
+* Cameron Shorter: +1
+* Erin McKean: +1
+* Morgan Craft: Didn't vote
+* Ryan Macklin: +1
+* Viraji Ogodapola: Didn't vote
