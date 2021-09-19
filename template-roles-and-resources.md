@@ -22,7 +22,7 @@ If you are a first-time contributor, you are required to join a template writing
 The working groups that are specifically devoted to template writing are:
 
 - [Community Docs](https://thegooddocsproject.dev/working-group/community-docs/)
-- More forthcoming!
+- [EMEA-APAC Templateers](https://thegooddocsproject.dev/working-group/emea-apac/)
 
 > :triangular_flag_on_post: **NOTE: As a template writing working group grows, it might need to be broken up into smaller groups. When separate groups should be formed will be left to the discretion of the template mentor leading the group, but the general recommendation is no more than 5-6 participants.**
 
@@ -39,8 +39,8 @@ The templates coordinator:
 - Acts as a project manager for all template-related work.
 - Oversees the overall template development process and provides assistance to contributors working on templates, such as helping get community reviewers or pull request reviewers to look at template drafts.
 - Coordinates and communicates regularly with the template authors, template mentors, community reviewers, and pull request reviewers.
-- Ensures each template receives at least three community reviews on their draft when a template is in the workshop phase.
-- Acts as a gatekeeper for template quality and, along with a template mentor, makes the final judgment call about when a template is ready to move from the workshop phase to the pull request phase.
+- Ensures each template receives at least three community reviews on their draft when a template is in the feedback phase.
+- Acts as a gatekeeper for template quality and, along with a template mentor, makes the final judgment call about when a template is ready to move from the feedback phase to the pull request phase.
 - Is authorized to merge template pull requests.
 - Tracks whether the ticket for that template can be closed or if additional tickets need to be created to reflect dependent tasks.
 
@@ -78,11 +78,12 @@ Template mentors:
 - Help connect writers to resources or subject matter experts that can provide feedback on their template drafts.
 - Provide assistance to contributors working on templates in their group, especially when they are blocked.
 - Coordinate and communicate regularly with the templates coordinator.
-- Work with the templates coordinator to ensure each template receives at least three community reviews on their draft when a template is in the workshop phase.
-- Notify the templates coordinator and make recommendations about when a template is ready to move from the workshop phase to the pull request phase.
+- Work with the templates coordinator to ensure each template receives at least three community reviews on their draft when a template is in the community feedback phase.
+- Notify the templates coordinator and make recommendations about when a template is ready to move from the community feedback phase to the pull request phase.
 
 
 ### Eligibility
+
 To become a template mentor:
 - You should be a member in good standing in the Good Docs Project community, as defined in our [Code of Conduct](https://thegooddocsproject.dev/code-of-conduct/).
 - You should be an experienced technical writer with good communication and collaboration skills.
@@ -95,20 +96,13 @@ To become a template mentor:
 
 ## Community reviewers
 
-In addition to the members of template writing working groups, this group of volunteer templateers review templates during the workshop phase.
+In addition to the members of template writing working groups, this group of volunteer templateers review templates during the community feedback phase.
 
 > :triangular_flag_on_post: **NOTE: At least three community reviews are required for each template, but more are preferred.**
 
 Acting as a community reviewer is a good way for an experienced technical writer to start getting involved with The Good Docs Project and provide a first contribution.
 
-The current volunteer community reviewers are:
-
-- Alyssa Rock
-- Aidan Doherty
-- Anu Ramanathan
-- Cameron Shorter
-- Felicity Brand
-- Your name here! There is no limit to how many can join this group!
+Community reviewers includes anyone who is a member of the Good Docs Project, including members of template writing working groups.
 
 
 ### Responsibilities
@@ -163,5 +157,5 @@ To become a pull request reviewer:
 - You should have experience with the template writing process, which is demonstrated by one or more of the following:
   - Completing a full template set from beginning to end.
   - Participating in a template writing working group for at least 2 months.
-- You must be nominated for this role by the existing templates coordinator or a member of the project steering committee.
+- You must be nominated for this role by the existing templates coordinator, a template mentor, or a member of the project steering committee.
 - Receive approval from members of the project steering committee.

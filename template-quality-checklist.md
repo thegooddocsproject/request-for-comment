@@ -7,6 +7,8 @@ This quality checklist will eventually become a pull request template that every
 
 {Describe the purpose of your pull request.}
 
+{Also indicate which template working group you belong to and who your template mentor is.}
+
 ## Template contributor checklist
 
 IMPORTANT: The next three sections in this checklist should be filled out by the template contributor at the time they submit this request.
@@ -23,16 +25,17 @@ This pull request:
 ### Procedural requirements
 
 - [ ] The template contributor participated in a template working group to create this template.
-- [ ] This template was workshopped with the community.
-- [ ] A template mentor officially approved this template set to move to the pull request phase.
+- [ ] This template was submitted to the community for feedback.
+- [ ] A template mentor approved this template set to move to the pull request phase.
 
 
 ### Template set requirements
 
-- [ ] Raw template is present.
+- [ ] Template file is present.
 - [ ] Template guide is present.
-- [ ] Template before-you-start guide is present (optional).
-- [ ] Template example is present OR a new issue was created to track this task (include link).
+- [ ] Template deep dive is present (optional).
+- [ ] Template example is present (optional).
+- [ ] If the optional template example is not present, open a new issue was created to track this task (include link).
 
 
 ## Template pull request reviewer checklist
@@ -58,11 +61,11 @@ NOTE: Pull requests can only be merged when all boxes are checked.
 - [ ] The template set provides sufficient guidance about how to fill it in and implement the template in a documentation project.
 
 
-### Raw template requirements - PULL REQUEST REVIEWER ONLY
+### Template file requirements - PULL REQUEST REVIEWER ONLY
 
 - [ ] Check rendered Markdown output to ensure it renders correctly and follows the template markdown style guide.
 - [ ] The template title is present and is an H1.
-- [ ] The template includes an introductory comment pointing them to other template resources.
+- [ ] The template includes an introductory comment mentioning the other template resources (such as the guide).
 - [ ] Embedded writing tips are formatted with {curly brackets}.
 - [ ] The template is free from grammar errors and typos.
 - [ ] The scope of the template is appropriate, meaning it is not too simple or overly complex (i.e. it needs to be expanded or broken into multiple smaller templates).
@@ -87,11 +90,11 @@ NOTE: Pull requests can only be merged when all boxes are checked.
 - [ ] The template guide is well-written, clear, and provides sound advice to template users.
 
 
-### Before you start requirements (optional) - PULL REQUEST REVIEWER ONLY
+### Deep dive requirements (optional) - PULL REQUEST REVIEWER ONLY
 
 - [ ] Check rendered Markdown output to ensure it renders correctly and follows the template markdown style guide.
-- [ ] The before you start guide title is present and is an H1.
-- [ ] The before you start guide provides helpful advice about necessary requirements before writing this type of documentation.
+- [ ] The deep drive title is present and is an H1.
+- [ ] The deep dive guide provides helpful advice about necessary requirements for writing this type of documentation.
 - [ ] The template set is well-organized and the contents flow in a logical order.
 - [ ] The template is well-written and clear.
 
@@ -99,4 +102,4 @@ NOTE: Pull requests can only be merged when all boxes are checked.
 ### Template example requirements (optional) - PULL REQUEST REVIEWER ONLY
 
 - [ ] Check rendered Markdown output to ensure it renders correctly and follows the template markdown style guide.
-- [ ] The template example provides is well-written and provides a clear example of how to use the template.
+- [ ] The template example provided is well-written and provides a clear example of how to use the template.
