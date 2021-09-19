@@ -2,13 +2,16 @@
 
 This pull request description is not the actual RFC. To view the actual RFC, click **Files changed** in the top menu for this pull request.
 
+__NOTE__: We recommend reading the files in their rendered format rather than their raw format.
+
+
 ## Current RFC status
 
-- [x] Draft {{Leave in a draft state until you submit your pull request.}}
-- [x] Under discussion (until YYYY-MM-DD) {{Set tentative date for 2 weeks after opening this pull request.}}
-- [ ] Final comment and voting (until YYYY-MM-DD) {{Set date for one week after it enters this stage.}}
+- [x] Under discussion (until YYYY-MM-DD) {Set tentative date for 2 weeks after opening this pull request.}
+- [ ] Final comment and voting (until YYYY-MM-DD) {Set date for one week after it enters this stage.}
 - [ ] Accepted
 - [ ] Rejected
 - [ ] Implemented
 - [ ] Deferred
 - [ ] Withdrawn
+- [ ] On hold or blocked
