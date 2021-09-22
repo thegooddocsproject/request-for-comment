@@ -8,7 +8,7 @@ Aaron Peters (@acpkendo)
 
 - [x] Draft
 - [x] Under discussion (until 2021-09-15)
-- [ ] Final comment and voting (until YYYY-MM-DD) {{Add date after selecting this status.}}
+- [x] Final comment and voting (until 2021-10-05)
 - [ ] Accepted
 - [ ] Rejected
 - [ ] Implemented
@@ -36,12 +36,34 @@ Given the project's increasing membership across multiple time zones, implementi
 
 The release planning process will be a collaborative process between members, their Working Groups, and the Project Steering Committee, and the Release Manager as follows:
 
-1. The PSC will decide on a target date for an upcoming release. This can be driven by the desire to release together with a particular event (e.g. at a Write The Docs conference), or based on a regular schedule (such as quarterly). The overall project release will be tracked in a TBD location: ZenHub if it supports recursive Epics, or e.g. a wiki if not.
+1. The PSC will decide on a target date for an upcoming release. This can be driven by the desire to release together with a particular event (e.g. at a Write The Docs conference), or based on a regular schedule (such as quarterly). The overall goals of the project release will be tracked in a TBD location: ZenHub if it supports recursive Epics, or e.g. a wiki if not.
 1. Based on a target release date, Working Groups will convene and decide (based on capacity) the items to which they can commit. They will be able to plan the precise issues they will complete as part of a release using their workspace in the ZenHub application.
 1. The PSC will evaluate each Working Group's release plan and provide feedback. As the plan will be based on a realistic bandwidth estimate, the PSC should focus on identifying items to be added/removed based on strategic priorities. The PSC and Working Groups will negotiate and come to a consensus on what from each sub-project will be included in the release.
-1. The Release Manager will track progress towards the release's goals as reported in ZenHub, and will be responsible for identifying slippage and risk. The Release Manager will provide regular updates to the project's members as part of the regular meetings, although overall progress will be available anytime from ZenHub for members with access.
+1. The Release Manager will track progress towards the release's goals as reported in ZenHub through regular iterations (sprints), and will be responsible for identifying slippage and risk. The Release Manager will provide regular updates to the project's members as part of the regular meetings, although overall progress will be available anytime from ZenHub for members with access.
 1. If the release appears at risk for slippage, the Release Manager will coordinate with the Working Groups to see if progress can be brought back to the baseline, or if items will need to be removed from the release. The Release Manager will inform the PSC if the latter occurs, to determine if this is feasible, and if not how it should be handled.
 1. Working Groups will provide an update/demo of the results of their work in preparation for the release. Once the PSC and other stakeholders are satisfied that it meeds the commitment, members of the project can perform the necessary reviews/approvals, merge pull requests, and package the Working Groups' deliverables.
+
+
+## Toolset
+
+In as described above, this process will leverage three major tools to plan and manage releases.
+
+- Wiki: The high-level goals and commitments of a Release should be documented on a publicly-available wiki, to align expectations and provide transparency. The Release Manager will collect proposals from the Working Groups, and facilitate the discussions between Working Groups and the PSC to reach a consensus on the Release's contents.
+- GitHub: Work towards the goals of the Release will be represented by Issues in GitHub. GitHub will also be used to distribute the end products, either directly from source repositories, or as packages (e.g. .ZIP files) for end users to download from the **Releases** page of the appropriate repository.
+- ZenHub: ZenHub will provide organization and visibility through its ability to group individual work items (e.g. Issues) into higher-level Epics, and show progress toward their completion.
+
+
+## In Scope
+
+All Working Groups and sub-projects of The Good Docs Project are eligible for inclusion in a Release. That said, the precise contents of any Release should be reached through consensus between the PSC, who should seek to maximize the value delivered, and the Working Groups, who should ensure commitments are feasible.
+
+
+## Out of Scope
+
+The following items are out of scope for this proposal, as they're either not integral to a Release Planning & Management plan, or are addressed by other (potentially upcoming) RFCs:
+
+- Versioning: RFC-008 will detail the versioning or numbering standard for the project.
+- Promotion/Marketing: This is a more holistic topic of who should drive promotion and marketing for the project. While Releases should certainly be part of this, the individual who takes on this role should have 
 
 
 ## Links
