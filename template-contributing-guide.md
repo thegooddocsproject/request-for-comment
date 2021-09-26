@@ -285,7 +285,7 @@ To share your Google Docs drafts:
 
 3. Notify the templates coordinator or your template mentor, who will help you get reviews for your draft from the community reviewers group.
 
-The templates coordinator will help ensure you get at least three high quality reviews from the community reviewers. When you’ve received sufficient community input and incorporated suggestions into your draft, you will collaborate with a templates coordinator to determine that your draft is ready to move to the next phase.
+The templates coordinator will help you find reviewers. Typically three or more community reviewers will provide a detailed review of your material. When you’ve received sufficient community input and incorporated suggestions into your draft, you will collaborate with a templates coordinator to determine that your draft is ready to move to the next phase.
 
 > :triangular_flag_on_post: **NOTE: You can only move to the next phase (submitting a pull request) after the templates coordinator or your template mentor has approved your draft to move on.**
 
