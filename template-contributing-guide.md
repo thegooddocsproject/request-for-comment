@@ -139,7 +139,8 @@ Contributing a template project to our repository has five phases, as summarized
   <tr>
     <td>4 - Get feedback on drafts from the community</td>
     <td><ul>
-          <li>Revise and refine the drafts of your deliverables based on feedback from at least three community reviewers. Community reviewers are anyone who is a member of the Good Docs Project, including members of template writing working groups.</li>
+          <li>Revise and refine the drafts of your deliverables. Expect to receive feedback from at least three community reviewers. Community reviewers are anyone who is a member of the Good Docs Project, including members of template writing working groups.</li>
+
           <li>Optional: Revise and refine your draft with individuals beyond our community (such as Write the Docs or subject matter experts).</li>
           <li>After making revisions, work with your template mentor and the templates coordinator to determine when your draft is ready for the next phase.</li>
         </ul>
@@ -284,7 +285,7 @@ To share your Google Docs drafts:
 
 3. Notify the templates coordinator or your template mentor, who will help you get reviews for your draft from the community reviewers group.
 
-The templates coordinator will help ensure you get at least three high quality reviews from the community reviewers. When you’ve received sufficient community input and incorporated suggestions into your draft, you will collaborate with a templates coordinator to determine that your draft is ready to move to the next phase.
+The templates coordinator will help you find reviewers. Typically three or more community reviewers will provide a detailed review of your material. When you’ve received sufficient community input and incorporated suggestions into your draft, you will collaborate with a templates coordinator to determine that your draft is ready to move to the next phase.
 
 > :triangular_flag_on_post: **NOTE: You can only move to the next phase (submitting a pull request) after the templates coordinator or your template mentor has approved your draft to move on.**
 
