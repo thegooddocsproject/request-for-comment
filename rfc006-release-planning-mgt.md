@@ -7,8 +7,8 @@ Aaron Peters (@acpkendo)
 ## Current status
 
 - [x] Draft
-- [x] Under discussion (until 2021-09-15)
-- [x] Final comment and voting (until 2021-10-05)
+- [x] Under discussion (until 2021-09-29)
+- [ ] Final comment and voting (until YYYY-MM-DD)
 - [ ] Accepted
 - [ ] Rejected
 - [ ] Implemented
@@ -25,11 +25,40 @@ This proposal outlines a process to plan for and manage releases for The Good Do
 - The tooling the project will use to manage progress towards Releases.
 
 
-## Motivation
+## Motivation for Releases & a Release Planning Strategy
 
-The Good Docs Project has grown to contain multiple sub-initiatives ranging from the templates (arguably the core of the project's activities at time of writing), to tooling aimed at technical writers, to useful content in the form of example documentation and blog posts.
+Many volunteer open source projects will release new versions of their output (software) whenever it's deemed to be in a user-ready state that includes new value. But The Good Docs Project has identified a few prevailing reasons for creating formal Releases of our outputs, as follows:
 
-Given the project's increasing membership across multiple time zones, implementing a standard process through which the Project Steering Committee can define and manage releases will align expectations and better enable monitoring of progress.
+- For technical writers, creating formal releases makes it easy to ensure they're always working from the latest stable/approved versions of templates.
+- For integrators (i.e. those who might create solutions based on our work), well-versioned releases make it easy to ensure (backward-)compatibility.
+- For project members, it aligns expectations on when to target tasks for completion, and way to ensure only updates of the appropriate value and quality are distributed to users.
+
+The Good Docs Project has grown to contain multiple sub-initiatives ranging from the templates (arguably the core of the project's activities at time of writing), to tooling aimed at technical writers, to useful content in the form of example documentation and blog posts. Given the project's increasing membership across multiple time zones, implementing a standard process through which the Project Steering Committee and Working Groups can define and manage releases will align expectations and better enable monitoring of progress.
+
+
+## Definition of a Release of The Good Docs Project
+
+As an organization with multiple sub-projects (some of which arguably have their own sub-projects) working with different cadences and outputs, we'll define for the purposes of the process this RFC describes what constitutes a "release" from The Good Docs Project. It's been noted that The Good Docs Project will produce two types of outputs:
+
+- "Product Oututs," or assets such as templates that will actually be used by our core audience in their own documentation efforts, and;
+- "Non-Product Outputs," which includes thought leadership, whitepapers, and other content that may inform documentation efforts but will not be used directly.
+
+After discussion among the PSC and community, we're defining a Release as **a snapshot of Product Outputs as agreed upon by the PSC and Working Groups**. At the time of writing, the following outputs are considered Product Outputs of TGDP:
+
+- The Templates collection
+- The Doc Tools initiatives
+- The Chronologue project, by virtue of its inclusion as examples to both the above
+
+Note however that while a given Release from The Good Docs Project may not include any *updated* material as part of a Product Output, its current version will still be included as part of any release packages that are creation. For example, the Doc Tools Working Group may release a new version of that software as part of a Release implementing a new feature. But the Chronologue WG's content included with that software need not be updated at all, unless the new feature specifically requires it (e.g. it makes use of a new metadata field).
+
+
+## Roles and Responsibilities
+
+The main participants in the Release Planning Process are as follows:
+
+- Project Steering Committee: The PSC will collectively create goals for releases, and 
+- Release Manager: This role will be responsible for driving the planning process for future Releases, and for maintaining an easy-to-understand status on any in-process Release(s). This individual will interact regularly with Working Group leaders to understand current progress, and update the PSC if it's trending away from targets.
+- Working Group Coordinator: Each Working Group should designate a coordinator, who will work with the Release Manager in reviewing the goals of the Release and determining if they are feasible given available time and volunteer bandwidth. The will also provide updates on the WG's progress during the course of a Release. While Coordinators will be responsible for gathering the progress of their WG's members, the Release Manager will establish communication channels that will make this efficient.
 
 
 ## Proposal
@@ -41,7 +70,7 @@ The release planning process will be a collaborative process between members, th
 1. The PSC will evaluate each Working Group's release plan and provide feedback. As the plan will be based on a realistic bandwidth estimate, the PSC should focus on identifying items to be added/removed based on strategic priorities. The PSC and Working Groups will negotiate and come to a consensus on what from each sub-project will be included in the release.
 1. The Release Manager will track progress towards the release's goals as reported in ZenHub through regular iterations (sprints), and will be responsible for identifying slippage and risk. The Release Manager will provide regular updates to the project's members as part of the regular meetings, although overall progress will be available anytime from ZenHub for members with access.
 1. If the release appears at risk for slippage, the Release Manager will coordinate with the Working Groups to see if progress can be brought back to the baseline, or if items will need to be removed from the release. The Release Manager will inform the PSC if the latter occurs, to determine if this is feasible, and if not how it should be handled.
-1. Working Groups will provide an update/demo of the results of their work in preparation for the release. Once the PSC and other stakeholders are satisfied that it meeds the commitment, members of the project can perform the necessary reviews/approvals, merge pull requests, and package the Working Groups' deliverables.
+1. Working Groups will provide an update/demo of the results of their work in preparation for the release. Once the PSC and other stakeholders are satisfied that it meets the commitment, members of the project can perform the necessary reviews/approvals, merge pull requests, and package the Working Groups' deliverables.
 
 
 ## Toolset
@@ -58,11 +87,15 @@ In as described above, this process will leverage three major tools to plan and 
 All Working Groups and sub-projects of The Good Docs Project are eligible for inclusion in a Release. That said, the precise contents of any Release should be reached through consensus between the PSC, who should seek to maximize the value delivered, and the Working Groups, who should ensure commitments are feasible.
 
 
+## Dependencies
+
+This RFC should be considered together with RFC-008, which describes in detail the versioning and numering scheme to be used for the project's releases.
+
+
 ## Out of Scope
 
 The following items are out of scope for this proposal, as they're either not integral to a Release Planning & Management plan, or are addressed by other (potentially upcoming) RFCs:
 
-- Versioning: RFC-008 will detail the versioning or numbering standard for the project.
 - Promotion/Marketing: This is a more holistic topic of who should drive promotion and marketing for the project. While Releases should certainly be part of this, the individual who takes on this role should have 
 
 
