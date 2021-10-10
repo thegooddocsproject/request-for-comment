@@ -33,8 +33,7 @@ We propose to:
 * Store the website source files in The Good Docs Project's existing unpopulated github repository, https://github.com/thegooddocsproject/glossary.
 * The glossary website will be published through The Good Doc Project's existing hugo infrastructure as a hugo module.
 * The glossary is expected to adopt a separate theme to The Good Docs Project, with different headings, such that the glossary project can be viewed with a unique focus on glossaries. This is expected to have a link back to The Good Docs Project.
-* Create a separate github repository: https://github.com/thegooddocsproject/glossary-schema to manage the development of the glossary schema. (This will store the machine readable file structure for the glossary, which we aim to make a defacto standard.)
-* Apply a license of CC-By 4.0 to both the glossary website repository and glossary-schema repository.
+* Apply a license of CC-By 4.0 the glossary website repository.
 
 ## Consequences
 
@@ -43,7 +42,7 @@ We propose to:
 ## Decisions deferred
 
 * What page structure and content will be on the website?
-* Where will we publish the public schema for the defacto standard glossary we are developing? This URL will be referenced by other schemas. We will probably use [https://w3id.org](https://w3id.org) which is used by other schemas for this purpose.
+* Where will we publish the public schema for the defacto standard glossary we are developing, and associated git repository? This URL will be referenced by other schemas. We will probably use [https://w3id.org](https://w3id.org) which is used by other schemas for this purpose.
 * Whether we will establish a subdomain: https://glossaries.thegooddocsproject.dev for the website. This might initially be a redirect or might be the actual homepage.
 
 
