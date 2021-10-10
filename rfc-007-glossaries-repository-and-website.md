@@ -33,7 +33,7 @@ We propose to:
 * Store the website source files in The Good Docs Project's existing unpopulated github repository, https://github.com/thegooddocsproject/glossary.
 * The glossary website will be published through The Good Doc Project's existing hugo infrastructure as a hugo module.
 * The glossary is expected to adopt a separate theme to The Good Docs Project, with different headings, such that the glossary project can be viewed with a unique focus on glossaries. This is expected to have a link back to The Good Docs Project.
-* Apply a license of CC-By 4.0 the glossary website repository.
+* Adopt the same license for the glossary website as it used by The Good Docs Project's website repository (which is a derivative of CC-By-SA).
 
 ## Consequences
 
@@ -58,7 +58,7 @@ We propose to:
 If this proposal is accepted, the following tasks must be completed:
 
 - [ ] Establish the subdomain glossaries.thegooddocsproject.dev
-- [ ] Add the CC-By 4.0 license to [https://github.com/thegooddocsproject/glossaries](https://github.com/thegooddocsproject/glossaries).
+- [ ] Update the license of [https://github.com/thegooddocsproject/glossaries](https://github.com/thegooddocsproject/glossaries) to align with The Good Docs website license - based on Creative Commons by Attribution.
 - [ ] Set up website tooling (probably Hugo).
 - [ ] Populate the website with initial content.
 
