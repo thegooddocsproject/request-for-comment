@@ -22,7 +22,7 @@ This proposal outlines a process to plan for and manage releases for The Good Do
 
 - The process through which the project defines and agrees on a Release;
 - The versioning scheme the project will use to track and communicate progress across Releases, and;
-- The tooling the project will use to manage progress towards Releases.
+ - The tooling the project will use to manage progress towards Releases.
 
 
 ## Motivation for Releases & a Release Planning Strategy
@@ -30,7 +30,7 @@ This proposal outlines a process to plan for and manage releases for The Good Do
 Many volunteer open source projects will release new versions of their output (software) whenever it's deemed to be in a user-ready state that includes new value. But The Good Docs Project has identified a few prevailing reasons for creating formal Releases of our outputs, as follows:
 
 - For technical writers, creating formal releases makes it easy to ensure they're always working from the latest stable/approved versions of templates.
-- For integrators (i.e. those who might create solutions based on our work), well-versioned releases make it easy to ensure (backward-)compatibility.
+- For integrators (i.e. those who might create solutions based on our work), well-versioned releases make it easy to ensure (backward-)compatibility and plan future development of their downstream products.
 - For project members, it aligns expectations on when to target tasks for completion, and way to ensure only updates of the appropriate value and quality are distributed to users.
 
 The Good Docs Project has grown to contain multiple sub-initiatives ranging from the templates (arguably the core of the project's activities at time of writing), to tooling aimed at technical writers, to useful content in the form of example documentation and blog posts. Given the project's increasing membership across multiple time zones, implementing a standard process through which the Project Steering Committee and Working Groups can define and manage releases will align expectations and better enable monitoring of progress.
@@ -40,10 +40,18 @@ The Good Docs Project has grown to contain multiple sub-initiatives ranging from
 
 As an organization with multiple sub-projects (some of which arguably have their own sub-projects) working with different cadences and outputs, we'll define for the purposes of the process this RFC describes what constitutes a "release" from The Good Docs Project. It's been noted that The Good Docs Project will produce two types of outputs:
 
-- "Product Oututs," or assets such as templates that will actually be used by our core audience in their own documentation efforts, and;
+- "Product Outputs," or assets such as templates that will actually be used by our core audience in their own documentation efforts, and;
 - "Non-Product Outputs," which includes thought leadership, whitepapers, and other content that may inform documentation efforts but will not be used directly.
 
-After discussion among the PSC and community, we're defining a Release as **a snapshot of Product Outputs as agreed upon by the PSC and Working Groups**. At the time of writing, the following outputs are considered Product Outputs of TGDP:
+A release constitutes:
+* A list of Product Outputs and their features which are to be included in the release.
+* A definition of quality to be applied to the release, such as "stable", "beta", "bleeding edge", as defined by our internal processes. All proposed features will be expected to meet this criteria, otherwise it won't be included.
+* A statement of planned support that will be applied to the release (which might be "no support", or "security and typo patches").
+* A release date, which will typically align with a key event, such as a conference.
+* A working schedule with key milestones. A sub-project will be expected to meet the milestones or risk having proposed updates being excluded from the release.
+ 
+
+At the time of writing, the following outputs are considered Product Outputs of TGDP:
 
 - The Templates collection
 - The Doc Tools initiatives
@@ -56,7 +64,7 @@ Note however that while a given Release from The Good Docs Project may not inclu
 
 The main participants in the Release Planning Process are as follows:
 
-- Project Steering Committee: The PSC will collectively create goals for releases, and 
+- Project Steering Committee: The PSC will collectively provide input into goals for releases, and review/approve proposed release plans.
 - Release Manager: This role will be responsible for driving the planning process for future Releases, and for maintaining an easy-to-understand status on any in-process Release(s). This individual will interact regularly with Working Group leaders to understand current progress, and update the PSC if it's trending away from targets.
 - Working Group Coordinator: Each Working Group should designate a coordinator, who will work with the Release Manager in reviewing the goals of the Release and determining if they are feasible given available time and volunteer bandwidth. The will also provide updates on the WG's progress during the course of a Release. While Coordinators will be responsible for gathering the progress of their WG's members, the Release Manager will establish communication channels that will make this efficient.
 
@@ -89,19 +97,20 @@ All Working Groups and sub-projects of The Good Docs Project are eligible for in
 
 ## Dependencies
 
-This RFC should be considered together with RFC-008, which describes in detail the versioning and numering scheme to be used for the project's releases.
+This RFC should be considered together with RFC-008, which describes in detail the versioning and numering scheme to be used for the project's Releases.
 
 
-## Out of Scope
+## Decisions deferred
 
 The following items are out of scope for this proposal, as they're either not integral to a Release Planning & Management plan, or are addressed by other (potentially upcoming) RFCs:
 
-- Promotion/Marketing: This is a more holistic topic of who should drive promotion and marketing for the project. While Releases should certainly be part of this, the individual who takes on this role should have 
+- Promotion/Marketing: This is a more holistic topic of who should drive promotion and marketing for the project. While Releases should certainly be part of this, the individual who takes on this role should drive the strategy behind communicating new and upcoming Releases to the community.
 
 
-## Links
+## Links and prior art
 
 - [Meeting notes from discussion on versioning](https://docs.google.com/document/d/1Oc3hNhJRrXsr-abEmUKAdamC5aKJydtldvpcSK_Hv_E/edit)
+
 
 ## Feedback
 {{Reviewer name}}:
