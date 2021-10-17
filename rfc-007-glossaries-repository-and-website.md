@@ -33,7 +33,7 @@ We propose to:
 * Store the website source files in The Good Docs Project's existing unpopulated github repository, https://github.com/thegooddocsproject/glossary.
 * The glossary website will be published through The Good Doc Project's existing hugo infrastructure as a hugo module.
 * The glossary is expected to adopt a separate theme to The Good Docs Project, with different headings, such that the glossary project can be viewed with a unique focus on glossaries. This is expected to have a link back to The Good Docs Project.
-* Adopt the same license for the glossary website as it used by The Good Docs Project's website repository (which is a derivative of CC-By-SA).
+* Adopt the same license for the glossary website as it used by The Good Docs Project's website repository.
 
 ## Consequences
 
@@ -41,6 +41,7 @@ We propose to:
 
 ## Decisions deferred
 
+* For the long term, we are yet to decide whether the glossary project should be spawned into an independent project, or should be considered a sub-project of The Good Docs Project.
 * What page structure and content will be on the website?
 * Where will we publish the public schema for the defacto standard glossary we are developing, and associated git repository? This URL will be referenced by other schemas. We will probably use [https://w3id.org](https://w3id.org) which is used by other schemas for this purpose.
 * Whether we will establish a subdomain: https://glossaries.thegooddocsproject.dev for the website. This might initially be a redirect or might be the actual homepage.
@@ -50,6 +51,11 @@ We propose to:
 * bwklein:
    * I have made a video showing how the 'Blog' section (content and design) works with different layouts for that section of the site. https://youtu.be/7qJtPBXg_fc We could come up with any form of source formatting for the 'content' in the glossaries section and a different look/feel too. It's nice to be able to leverage the same tech stack for the site and have each section present the information any way you want it.  
   * One other thing that we could do, if you want to keep the glossary 'content' in a different project from the website, is to use Hugo's 'Module' system to take a file path from the Glossary project and insert that into the website 'content' folder. This is a way to 'include' files from one project into the filesystem of another and build it all into the same site. It's a pretty cool feature of Hugo.
+*  emckean:
+  * I would like to +1 the "start with a page/folder" suggestion ... way less friction to start and it's relatively simple to redirect later if a subdomain makes more sense.
+
+  * Also, I'm unclear on the need for a standalone identity if the glossary project is still part of TGDP? If it needs a separate identity perhaps it should be a completely separate project? I think it might be confusing to have a TGDP domain name but a completely different look. Ref: https://github.com/thegooddocsproject/request-for-comment/pull/13#issuecomment-926867717
+
 * barbaricyawps questioned whether the glossary project fits within the mission statement of The Good Docs Project, which led to the bigger question "What is the mission of the Good Docs Project and how broad to we want to be?" Do we want to be an umbrella foundation for like-minded doc initiatives, like the Apache Foundation, or the Open Source Geospatial Foundation? Or do we want to be a targetted project, just focused on templates? Or maybe something in between? This is a conversation worth having but we decided that this RFC need not be held back by the broader mission decision. (Outcomes of this RFC can be relatively easily reversed if needed.)
 * More related comments at https://github.com/thegooddocsproject/request-for-comment/pull/13
 
