@@ -147,5 +147,4 @@ Project steering committee (listed alphabetically by first name):
 Community members who voted (non-binding):
 
 - {Your name}: {Your vote}
-- Bryan Klein: +1
 
