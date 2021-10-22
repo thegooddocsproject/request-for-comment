@@ -136,7 +136,7 @@ Project steering committee (listed alphabetically by first name):
 - Aidan Doherty:
 - Alyssa Rock:
 - Ankita Tripathi:
-- Bryan Klein:
+- Bryan Klein: +1
 - Cameron Shorter:
 - Carrie Crowe:
 - Erin McKean:
