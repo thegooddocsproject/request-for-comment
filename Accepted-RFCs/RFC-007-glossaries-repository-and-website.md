@@ -94,7 +94,7 @@ For that reason, I am okay with people working on both the GDP and glossaries. T
 
 I promise I'm not trying to be combative or territorial or that I want to stop the momentum for the glossaries project. But this question has been nagging me for many months and now this gives me a reason to articulate these concerns and start a dialogue about this topic. I hope you'll appreciate that I only want to have a discussion and that I'm 100% open to having my mind changed. Help me to see how the glossaries project supports the GDP mission.
 
-Cameron responds: 
+Cameron responds:
 
 I agree that establishing a separate glossary project is a valid and reasonable suggestion. It is something we have discussed within our glossary project. We've also considered becoming part of the inter-related open source software projects paneron or glossarist. Or possibly becoming part of a standards organization such as ISO TC211 or the OGC.
 
@@ -132,19 +132,18 @@ Votes as per our [decision process](https://thegooddocsproject.dev/decisions/):
 
 Project steering committee (listed alphabetically by first name):
 
-- Aaron Peters:
-- Aidan Doherty:
-- Alyssa Rock:
-- Ankita Tripathi:
+- Aaron Peters: +1
+- Aidan Doherty: +1
+- Alyssa Rock: +1
+- Ankita Tripathi: +1
 - Bryan Klein: +1
-- Cameron Shorter:
-- Carrie Crowe:
-- Erin McKean:
-- Morgan Craft:
-- Ryan Macklin:
-- Viraji Ogodapola:
+- Cameron Shorter: +1
+- Carrie Crowe: +1
+- Erin McKean: Didn't vote
+- Morgan Craft: Didn't vote
+- Ryan Macklin: +1
+- Viraji Ogodapola: +1
 
 Community members who voted (non-binding):
 
 - {Your name}: {Your vote}
-
