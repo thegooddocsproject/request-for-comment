@@ -14,7 +14,7 @@ See the status indicated on the pull request description.
 
 As The Good Docs Project moves towards a formal release structure, this RFC proposes a standard versioning scheme to apply at least to the project's Product Outputs, as defined by outputs directly employed by users in their own documentation efforts. For example, this includes the collection of templates (which users copy as a starting point for their own documents), but not whitepapers (which serve to inform their audience, but are not used verbatim).
 
-TGDP will use the Semantic Versioning convention for the versioning of individual Product Outputs (at the time of writing, this includes the template collection and the DocTools website package).
+TGDP will use the Semantic Versioning convention for the versioning of individual Product Outputs (as at November 2021, this includes the template collection and the DocTools website package).
 
 > :triangular_flag_on_post: For the purposes of this RFC, "features" and "functionality" can refer to new **content**, such as additional sections or boilerplate text, added to doc templates.
 
