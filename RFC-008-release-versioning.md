@@ -21,7 +21,7 @@ TGDP will use the Semantic Versioning convention for the versioning of individua
 
 ## Motivation
 
-Using the well-established [https://semver.org/](Semantic Versioning) framework will provide the following benefits:
+Using the well-established [Semantic Versioning](https://semver.org/) framework will provide the following benefits:
 
 - It will demonstrate the project's progress to users and prospective users through publicly visible notifications.
 - It will set expectations to current users regarding the extent of change(s) contained in a newly-release version of a Product Output, as compared to the version the user currently has, including potentially breaking backward-compatibility.
