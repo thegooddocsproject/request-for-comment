@@ -40,12 +40,135 @@ In the course of preparing for a Release from the project:
 1. Further work during the release will focus on stabilizing the existing functionality and making it ready for general/production use.
 1. Once the Product Output is deemed ready, it will be tagged with the same semantic version number and the "-beta" suffix.
 1. At this point it should be released to a community of beta testers to actually use the Product Output. Feedback from this use should be actively solicited and captured.
-1. Provided there are no "blocker"-level issues issues remaining with the Product Output as the Release's target date approaches, the Release Manager will coordinate the completion of any final updates before signaling for them to be tagged with the same semantic version number, minus any suffix (indicating a final release).
+1. Provided there are no "blocker"-level issues issues remaining with the Product Output as the Release's target date approaches, the Release Manager will coordinate the completion of any final updates before signaling for them to be tagged with the same semantic version number, minus any suffix (indicating a gamma/final release).
 1. Once tagged, building and packaging the Product Outputs can commence.
+2. Following the gamma release of an Output, "patch" releases may be released in parallel to updated versions, as described in the section Semantic versioning addendum for documents below.
 
-{
-This section may continue depending on the answer to the minor version support question below, as in this case we'll be releasing fix versions of the prior release in parallel with the development of the next release.
-}
+## Semantic versioning addendum for documents
+
+This document describes how MAJOR.MINOR.PATCH [*semantic versioning*](https://semver.org/) should be applied to documentation.
+
+
+### Introduction
+
+The [*semantic versioning specification*](https://semver.org/) (SemVer) is widely applied to describe software release versions, however these SemVer rules don't align well with the characteristics of documentation. This addendum suggests rules which can be applied when versioning documents.
+
+
+### SemVerDoc rules
+
+The following table adds documentation-specific interpretations of the [*semantic versioning*](https://semver.org/#semantic-versioning-specification-semver) rules. When applied to documentation, the SemVerDoc rules should take precedence over the equivalent software centric rules.
+
+
+The remaining SemVer rules remain the same as their software equivalent.
+
+<table>
+<tbody>
+<tr class="odd">
+<td><strong><em>SemVer 2.0.0 specification extract</em></strong></td>
+<td><strong>SemVerDoc addendum</strong></td>
+</tr>
+<tr class="even">
+<td><a href="h%20ttps://semver.org/#spec-item-4"><em>4.</em></a><em> Major version zero (0.y.z) is for initial development. Anything MAY change at any time. The public API SHOULD NOT be considered stable.</em></td>
+<td><p>4.1 For documents, major version zero (0.y.z) MAY be used for any of the following:</p>
+<ol type="a">
+<li><p>A document with incomplete content.</p></li>
+<li><p>A document which hasn’t been fully reviewed.</p></li>
+<li><p>A document which hasn’t reached applicable quality guidelines.</p></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><a href="h%20ttps://semver.org/#spec-item-5"><em>5.</em></a><em> Version 1.0.0 defines the public API. The way in which the version number is incremented after this release is dependent on this public API and how it changes.</em></td>
+<td><p>5.1 For documents, version 1.0 SHOULD designate the first officially complete version of the document.</p>
+<p>This MAY be the first published or publicly released version.</p></td>
+</tr>
+<tr class="even">
+<td><a href="h%20ttps://semver.org/#spec-item-6"><em>6.</em></a><em> Patch version Z (x.y.Z | x &gt; 0) MUST be incremented if only backwards compatible bug fixes are introduced. A bug fix is defined as an internal change that fixes incorrect behavior.</em></td>
+<td><p>6.1 For documents, patch version Z (x.y.Z | x&gt; 0) SHOULD be incremented if updates are introduced which have minimal impact on the meaning of the text.</p>
+<p>Examples include:</p>
+<ol type="a">
+<li><p>Correction of ambiguous text.</p></li>
+<li><p>Spelling, grammar or formatting changes.</p></li>
+<li><p>Sentence restructuring.</p></li>
+<li><p>Additional clarification notes or cross references.</p></li>
+<li><p>Addition of document metadata, such as <em>document_license:</em> or <em>document_author:</em>.</p></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><a href="h%20ttps://semver.org/#spec-item-7"><em>7.</em></a><em> Minor version Y (x.Y.z | x &gt; 0) MUST be incremented if new, backwards compatible functionality is introduced to the public API. It MUST be incremented if any public API functionality is marked as deprecated. It MAY be incremented if substantial new functionality or improvements are introduced within the private code. It MAY include patch level changes. Patch version MUST be reset to 0 when minor version is incremented.</em></td>
+<td><p>7.1 For documents, minor version Y (x.Y.z | x &gt; 0 ) SHOULD be incremented if a backwardly compatible update has been made to the documentation, which means that downstream dependent documents or products are not likely to require updating.</p>
+<p>Examples include:</p>
+<ol type="a">
+<li><p>A new concept or feature is added.</p></li>
+<li><p>A new section is added.</p></li>
+<li><p>Documentation is updated to reflect a Minor update to an application.</p></li>
+<li><p>Removal of document metadata, such as <em>document_license</em> or <em>document_author</em>.</p></li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><a href="h%20ttps://semver.org/#spec-item-8"><em>8.</em></a><em> Major version X (X.y.z | X &gt; 0) MUST be incremented if any backwards incompatible changes are introduced to the public API. It MAY also include minor and patch level changes. Patch and minor versions MUST be reset to 0 when major version is incremented.</em></td>
+<td><p>8.1 For documents, major version X (X.y.z | X &gt; 0) SHOULD be incremented if significant backwards incompatible changes are introduced to the document, which means that downstream dependent documents or products are likely to require updating.</p>
+<p>8.1.1 The document update MAY also include minor and patch level changes.</p>
+<p>8.1.2 Patch and minor versions MUST be reset to 0 when the major version is incremented.</p>
+<p>Examples include:</p>
+<ol type="a">
+<li><p>Changed advice provided by a key concept within the document.</p></li>
+<li><p>A restructure of a template document.</p></li>
+<li><p>Documentation is updated to reflect a Major update to an application.</p></li>
+<li><p>Changed metadata for the <em>document_license</em> to a more restrictive license.</p></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>14. The semantic version SHOULD only be updated when the software or document is baselined or published.</p>
+<p>The semantic version doesn’t need to be updated on every author commit during development.</p></td>
+</tr>
+</tbody>
+</table>
+
+
+### Applicability
+
+Different documentation scenarios may apply the SemVerDoc rules differently.
+
+
+### When to update the semantic version
+
+The semantic version SHOULD only be updated when the software or document is baselined and shared. It doesn't need to be updated on every author commit during development.
+
+
+### Auto-generated documentation from code
+
+Some documentation is automatically generated from code comments, using tools such as javadoc. In such cases, documentation version numbers should match the code version numbers.
+
+
+### Stand alone documents
+
+Documents which logically should be tracked independently should follow the SemVerDoc standard, as stated.
+
+
+### Documentation set
+
+Often a set of documents are delivered as part of a milestone or release. In these cases, each document should maintain its own version
+number, and then a separate version is assigned to all documents in aggregate.
+
+This should be handled in a similar manner to a linux distribution. Linux distributions typically apply a time based milestone release, and each linux release includes multiple, independently versioned, software packages.
+
+
+### Website
+
+If a website, or a section of the website is versioned, then it should follow the same conventions as a documentation set.
+
+
+### Further reading
+
+-   [Semantic Versioning 2.0.0](https://semver.org/) specification for software.
+    -   [Proposed doc addendum github bug](https://github.com/semver/semver/issues/792)
+-   [Semantic Versioning for Documents and Meaningful Manual Version Control](https://semverdoc.org/) from Nils Tekampe.
+-   [Semantic versioning for docs proposal](http://neelsmith.github.io/2015/12/15/semver/) from Neel Smith.
+-   [Semantic Versioning and Structure for IETF Specifications](https://datatracker.ietf.org/doc/html/draft-claise-semver-02).
+-   This addendum is intended to complement [The Good Docs Project's](https://thegooddocsproject.dev) [RFC 008 Release Versioning proposal](https://github.com/thegooddocsproject/request-for-comment/pull/17).
+-   [Semantic Versioning and Structure for IETF Specifications, draft-claise-semver-02](https://datatracker.ietf.org/doc/html/draft-claise-semver-02).
+-   [Open Geospatial Consortium's Policy Directive 18](https://portal.ogc.org/public_ogc/directives/directives.php) defines use of Major.Minor.Bug-fix versioning for spatial specifications and related documents.
 
 
 ## Consequences
@@ -100,7 +223,6 @@ Votes as per our [decision process](https://thegooddocsproject.dev/decisions/):
 Project steering committee (listed alphabetically by first name):
 
 - Aaron Peters:
-- Aidan Doherty:
 - Alyssa Rock:
 - Ankita Tripathi:
 - Bryan Klein:
