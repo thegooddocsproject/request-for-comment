@@ -22,7 +22,8 @@ Although the migration would involve some initial disruption to our community's 
 
 ## Motivation
 
-Migrating our project to GitLab would involve many significant advantages, as explained in the following sections.
+Migrating our project to GitLab would introduce many significant advantages to our review and project management workflow, as well as laying the foundation for future community uptake of The Good Docs Project. One key motivator that aligns strongly with our project is that GitLab is fully open source. GitHub, although free to use for open source, is a closed source project.
+
 
 ### Ease of use and improved review workflows
 
