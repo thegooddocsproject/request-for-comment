@@ -26,20 +26,17 @@ Migrating our project to GitLab would involve many significant advantages, as ex
 
 ### Ease of use and improved review workflows
 
-GitLab has [feature parity](https://about.gitlab.com/devops-tools/github-vs-gitlab/) with many of GitHub's features, but many members of our community prefer working in GitLab and find it significantly easier to use.
+GitLab has [feature parity](https://about.gitlab.com/devops-tools/github-vs-gitlab/) with many of GitHub's features but it's much easier to do merge request (pull request) reviews of text documents in GitLab, which will improve and streamline our template review process. 
 
-With that in mind, the primary reason for switching to GitLab is that it's much easier to do merge request (pull request) reviews of text documents in GitLab, which will improve and streamline the template review process.
-
-For some context, last year we implemented our improved template contributing process.
-Since that time, various templateers have opened PRs for their templates and encouraged members of the community to review their templates in draft form.
-As Alyssa reviewed these templates, she found that it's quite difficult to review templates in GitHub.
-Often she needed to open multiple browser tabs and switch to various points of the document to do a template review.
+It is currently quite difficult to review template PRs in GitHub. The reviewer often needs to look at and switch between various points of the document during a review. Scrolling is tiresome, and opening multiple browser tabs to view the same document, or to view multiple files in the same PR, is cumbersome.
 
 By contrast, GitLab gives the ability to use a file explorer view and see changes across multiple files, which reduces the complexity of reviewing text-based documents.
 GitLab allows you to toggle between seeing all of the changed files vs. one file at a time makes the review process significantly easier.
 
 Another nice GitLab review feature is the ability to turn a comment on a merge request into an issue if you like the suggestion, but won't immediately implement it.
 [GitLab flavored Markdown](https://docs.gitlab.com/ee/user/markdown.html) also has some additional features such as the ability to add a built-in table of contents, front matter, and graphs.
+
+Various members of our community have been working in GitLab for some time, and find it significantly easier to use than GitHub when working with text documents.
 
 
 ### Improved project management tools
