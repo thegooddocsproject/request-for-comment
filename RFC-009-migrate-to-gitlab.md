@@ -65,8 +65,8 @@ In addition to these main benefits, several members of our project also have str
 For example, Alyssa has a good working relationship with GitLab's lead tech writing manager and Bryan knows prominent members of their engineering team.
 Down the road (i.e. 5 years or so), we could consider leveraging these connections to integrate our templates and tools into GitLab's offerings for new open source projects, which would significantly increase our project's visibility and ability to fulfill our project's overall mission.
 
-It's also worth noting that GitLab is an actual open source project.
-GitHub, although free to use for open source, is a closed source project.
+
+
 
 
 ## Proposal
