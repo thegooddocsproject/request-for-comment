@@ -51,7 +51,7 @@ GitLab provides us with a lot of the project management tools that were proposed
 
 GitLab provides the ability to view all the issues for the entire project all at once or to view all the issues for one repository or working group.
 It also has sophisticated [kanban board features](https://docs.gitlab.com/ee/user/project/issue_board.html#multiple-issue-boards).
-In GitLab, you can create custom kanban boards that display issues with certain labels or other filters as needed.
+In GitLab, you can create custom kanban boards that display issues with certain labels or other filters as needed. See [GitLab feature comparison](https://about.gitlab.com/pricing/self-managed/feature-comparison/) for a comparison of the free vs. paid version of GitLab.
 
 See this demo Alyssa made of the [GitLab project management tools](https://youtu.be/C_JWHezPjjg).
 
@@ -64,6 +64,8 @@ The only loss of data is that sometimes it shows the person who migrated the rep
 
 Be aware that one disruption to our community is that repositories can't have any open pull requests at the time of the migration.
 That means we would have to merge in or close any open pull requests and implement a pull request freeze during the migration.
+
+See this demo Alyssa made of a [before-and-after GitLab migration](https://youtu.be/BlLynvNosx4) for a repo that was recently migrated on her open source project. The migration took about 5 minutes to complete using the importer tool. Here's the docs about the GitLab importer: https://docs.gitlab.com/ee/user/project/import/github.html
 
 
 ### Additional benefits
