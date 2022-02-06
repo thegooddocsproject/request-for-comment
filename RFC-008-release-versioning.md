@@ -12,7 +12,7 @@ See the status indicated on the pull request description.
 
 ## Proposal overview
 
-As The Good Docs Project moves towards a formal release structure, this RFC proposes a standard versioning scheme to apply at least to the project's Product Outputs, as defined by outputs directly employed by users in their own documentation efforts. For example, this includes the collection of templates (which users copy as a starting point for their own documents), but not whitepapers (which serve to inform their audience, but are not used verbatim).
+As The Good Docs Project moves towards a formal release structure, this RFC proposes a standard versioning scheme to apply at least to the project's Product Outputs, as defined by outputs directly employed by users in their own documentation efforts. For example, this includes the collection of templates (which users copy as a starting point for their own documents).
 
 TGDP will use the Semantic Versioning convention for the versioning of individual Product Outputs (as at November 2021, this includes the template collection and the DocTools website package).
 
@@ -47,6 +47,8 @@ In the course of preparing for a Release from the project:
 ## Semantic versioning addendum for documents
 
 This document describes how MAJOR.MINOR.PATCH [*semantic versioning*](https://semver.org/) should be applied to documentation.
+
+Source: [Semantic versioning addendum for documents. Version 0.1-alpha.4. January 2020](https://docs.google.com/document/d/1gPr_OHoUkg5Wjj3UWYX78ORtTBArSJck4mWrKhWpfPA).
 
 
 ### Introduction
@@ -159,6 +161,16 @@ This should be handled in a similar manner to a linux distribution. Linux distri
 If a website, or a section of the website is versioned, then it should follow the same conventions as a documentation set.
 
 
+### Internal codenames for releases
+
+As discussed in the January 26, 2022 general US meeting where a quorum of project steering committee members were present, we will adopt internal codenames to refer to our template and tool releases.
+We ran an internal community poll to determine what the naming convention should be and the decision was to name after notable bridges throughout the world.
+Our codenames are alphabetical, which means that the first release will feature a bridge name that starts with the letter A.
+For example: Accademia, Ada, Akashi, Akrobaten, Alamillio, Anzac.
+The following release will have a bridge name that starts with the letter B and so forth.
+Bridge names for each code release will be determined by the PSC or through informal community polls.
+
+
 ### Further reading
 
 -   [Semantic Versioning 2.0.0](https://semver.org/) specification for software.
@@ -184,6 +196,7 @@ This RFC should be considered together with RFC-006, which describes the high-le
 ## Links and prior art
 
 - [Meeting notes from discussion on versioning](https://docs.google.com/document/d/1Oc3hNhJRrXsr-abEmUKAdamC5aKJydtldvpcSK_Hv_E/edit)
+- [Semantic versioning addendum for documents. Version 0.1-alpha.4. January 2020](https://docs.google.com/document/d/1gPr_OHoUkg5Wjj3UWYX78ORtTBArSJck4mWrKhWpfPA).
 
 
 ## Open questions
@@ -192,6 +205,8 @@ This RFC should be considered together with RFC-006, which describes the high-le
   - In the context of this RFC, this means the collection as a whole would be versioned together.
   - A result of this would be that, as defined by the SemVer standard, **any** update to a template that adds materially to it (i.e. not fixing typos or other "bugs") would mean an increase in the minor version of the collection as a whole.
 - How long will the project aim to support legacy major versions? Minor versions?
+- Alyssa asks: Should we consider giving a name to our (for lack of a better term) core "product suite"? And by product suite I mean templates, tools, and Chronologue. We might want a name for the full core product and then for these subset projects underneath it. We'll also want to figure out how to tell the "story" we want to tell about the suite and the individual components to users. We also maybe need to think about how to talk about "collections" of templates. For example, "templates for open source projects" and "templates that every project will likely need" with the understanding that some templates will be in more than one collection. We still have a lot of thinking to do in the "product" space.
+- Alyssa asks: I know that in the past I argued heavily for versioning the full collection of templates as a whole, but I'm beginning to change my mind on this after talking with people about the new direction for the easy button tools project. In separate conversations with Bryan and Derek where we were thinking more about the logistics of how the easy button would pull templates into the project for downstream consumption, we could think of some valid use cases where we'd need individual templates to be versioned. However, I consider this out of scope for this RFC right now because we need to do more development work on the easy button first.
 
 
 ## Decisions deferred
@@ -203,9 +218,20 @@ The following items are out of scope for this proposal, as they're either not in
 
 ## Feedback
 
-{If you accept feedback from a community member, you will incorporate it into your RFC before it is accepted.
-If you reject feedback, note that rejected feedback here before resolving the conversation.}
+### Extending the release versioning
 
+Cameron notes: For the content that is in this proposal section, I think it is a good foundation, and is pretty close to right.
+I also think we should extend it to cover:
+
+- From a general documentation point of view (say for docs which describe a product), what constitutes a sematic update based on major.minor.patch. What is:
+  - A 1.0 release
+  - A major update
+  - A minor update
+  - A patch update
+- Same questions, but this time for our template.
+- I think we should also discuss the difference between a document update, and a documentation set update. (Analogy is a package version vs a linux distribution version.)
+
+Note that Cameron has also [drafted a proposal for how semantic versioning should apply to docs](https://docs.google.com/document/d/1gPr_OHoUkg5Wjj3UWYX78ORtTBArSJck4mWrKhWpfPA/edit#).
 
 ## Implementation checklist
 
@@ -222,14 +248,17 @@ Votes as per our [decision process](https://thegooddocsproject.dev/decisions/):
 
 Project steering committee (listed alphabetically by first name):
 
-- Aaron Peters:
-- Alyssa Rock:
+- Aaron Peters: +1
+- Alyssa Rock: +1
 - Ankita Tripathi:
 - Bryan Klein:
 - Cameron Shorter:
 - Carrie Crowe:
+- Deanna Thompson:
 - Erin McKean:
+- Gayathri Krishnaswamy:
 - Morgan Craft:
+- Nelson Guya:
 - Ryan Macklin:
 - Viraji Ogodapola:
 
