@@ -78,6 +78,7 @@ Project steering committee (listed alphabetically by first name):
 - Cameron Shorter:
 - Carrie Crowe:
 - Erin McKean:
+- Felicity Brand:
 - Morgan Craft:
 - Ryan Macklin:
 - Viraji Ogodapola:
