@@ -78,9 +78,14 @@ Project steering committee (listed alphabetically by first name):
 - Cameron Shorter:
 - Carrie Crowe:
 - Erin McKean:
+- Deanna Thompson:
+- Felicity Brand:
+- Gayathri Krishnaswamy:
 - Morgan Craft:
 - Ryan Macklin:
+- Nelson Guya:
 - Viraji Ogodapola:
+
 
 Community members who voted (non-binding):
 

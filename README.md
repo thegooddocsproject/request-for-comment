@@ -132,6 +132,16 @@ The proposer may choose to withdraw the proposal at any point during the process
 It is also possible that the RFC may be accepted, but the implementation may be deferred for a later date.
 
 
+## Instructions for merging in RFCs
+
+When an RFC has been resolved and merged into the repository, a few housekeeping tasks need to be completed:
+
+- Move the RFC file(s) into the appropriate folder, typically `Accepted-RFCs`.
+- Check that the RFC file names use the standard naming convention.
+- Make sure that all votes are recorded on the RFC. If people didn't vote, mark that as "Didn't vote."
+- If there were any comments on the RFC that didn't get recorded, add those comments to the "Feedback" section of the RFC file.
+
+
 ## Resources
 
 In creating the RFC proposal process, the authors adapted or were inspired by the following resources, listed alphabetically:
