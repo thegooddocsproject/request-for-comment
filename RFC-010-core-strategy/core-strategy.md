@@ -1,0 +1,65 @@
+# Executive Summary
+
+The Good Docs Project has grown organically since its creation, and has blossomed into a thriving community. Now it’s important to articulate where we are, how we can best support our users and community members, where we’d like to grow in future. 
+
+
+## Core Strategy Statement:  
+
+_The Good Docs Project educates and empowers people to create high quality documentation by providing them with resources, best practices and tools to enhance their documentation in open source and beyond._
+
+
+## What we do
+
+First and foremost, we create templates with supporting meta-documents that underpin the templates.
+
+As part of this work, we engage in many other initiatives around docs advocacy, docs education, and docs tooling. 
+
+We produce content to address the goals of engaging in our community and helping run the project; and learning and gaining experience in the realm of tech writing.
+
+
+### We don’t compete, we cooperate
+
+We don't compete with other groups and we aren't a business. We are one open source community looking to make open source, as a whole, better for everyone. 
+
+Our project creates templates. We recognize that many folk are creating great templates out in the wild. Some folk are in private enterprise and can’t share their work. 
+Some folk are in open source, and their work isn’t reviewed or validated by others. 
+When we encounter great templates in the wild, we approach the creators to encourage them to join our community and donate their templates for inclusion in our project.
+
+
+## Who we are
+
+We are a group of technical folk. Writers, developers, editors and more. We are passionate about technical writing, documentation and open source.
+
+
+### Our Audience
+
+People in our audience may be one or all of the following:
+
+* Users of our products
+* Members of our community
+* People seeking education and learning opportunities
+
+
+### Our friends
+
+We are friends with (and many of us are active in) the [Write The Docs community](https://www.writethedocs.org/). 
+We are not competing with that community. We acknowledge that our interests overlap and that sometimes our activities align. 
+The relationship between our projects is mutually supportive and friendly.
+
+We welcome sponsorship opportunities. We like to participate in writing programs and open source programs (like the Google Season of Docs).
+
+
+## Differentiation
+
+The Good Docs Project templates undergo a rigorous review process, they are backed by research and they are freely available for anyone to use.
+
+Our key differentiator is: **Best Practice**. 
+
+Down the road, this might logically lead us to becoming a standards organization.
+
+
+## What we don’t do
+
+* Host conferences.
+* Charge for membership.
+* Charge for templates.
