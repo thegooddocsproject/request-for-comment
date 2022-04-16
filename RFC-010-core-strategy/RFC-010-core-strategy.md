@@ -12,9 +12,9 @@ See the status indicated on the pull request description.
 ## Proposal overview
 
 This RFC is to gain consensus on several key areas of The Good Docs Project as it stands in 2022. This touches on our vision, audience, content and how we deliver value. 
-The information is contained in the Strategic Plan (strategic-plan.md).
+The information is contained in the Core Strategy document (core-strategy.md).
 
-The Strategic Plan document seeks to outline the Core Strategy of the project, answering the following questions:
+The Core Strategy document seeks to outline the fundamentals of the project, answering the following questions:
 
 * What is The Good Docs Project?
 * What do we do?
