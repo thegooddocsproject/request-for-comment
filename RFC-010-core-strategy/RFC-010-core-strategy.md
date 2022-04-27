@@ -56,7 +56,11 @@ That we accept the following related file:
 
 ## Consequences
 
-An agreed core strategy will help all members of our e annually, or if we happen to have a major shift in focus or experience unexpected growth.
+An agreed core strategy will help all members of our community, and end users, understand what the project is doing. This will impact the words 
+on our website, how we meet the needs of our users and how we document our own project.
+
+The project will evolve over time, and the core strategy statement in this RFC is not intended to be future-proof. We should revisit the core 
+strategy and vision statement at regular intervals—this might be annually, or if we happen to have a major shift in focus or experience unexpected growth.
 
 
 ## Links and prior art
