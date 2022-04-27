@@ -48,7 +48,7 @@ We are friends with (and many of us are active in) the [Write The Docs community
 We are not competing with that community. We acknowledge that our interests overlap and that sometimes our activities align. 
 The relationship between our projects is mutually supportive and friendly.
 
-We welcome sponsorship opportunities. We like to participate in writing programs and open source programs (like the Google Season of Docs).
+We welcome collaboration and sponsorship opportunities. We like to participate in writing programs and open source programs (like the Google Season of Docs).
 
 
 ## Differentiation
