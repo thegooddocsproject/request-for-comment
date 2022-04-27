@@ -120,8 +120,9 @@ Project steering committee (listed alphabetically by first name):
 - Felicity Brand:
 - Gayathri Krishnaswamy:
 - Morgan Craft:
-- Ryan Macklin:
 - Nelson Guya:
+- Ryan Macklin:
+- Tina Lüdtke:
 - Viraji Ogodapola:
 
 
