@@ -10,11 +10,14 @@ _The Good Docs Project educates and empowers people to create high quality docum
 
 ## What we do
 
-First and foremost, we create documentation templates with supporting meta-documents that underpin the templates.
+First and foremost, we create documentation templates with supporting meta-documents that help people use and understand the templates. As part of this work, we engage in many other initiatives around docs advocacy, docs education, and docs tooling. 
 
-As part of this work, we engage in many other initiatives around docs advocacy, docs education, and docs tooling. 
+We produce content to address the goals of engaging in our community, and helping run the project.
 
-We produce content to address the goals of engaging in our community and helping run the project; and learning and gaining experience in the realm of tech writing.
+We prioritize collaboration in all aspects of our project. We embrace paired-writing, co-working sessions and a consultative approach in all
+our community processes.
+
+We encourage and support each other in learning and gaining experience in the realm of technical writing. 
 
 
 ### We don’t compete, we cooperate
