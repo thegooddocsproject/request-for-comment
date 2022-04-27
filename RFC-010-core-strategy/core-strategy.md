@@ -30,7 +30,7 @@ When we encounter great templates in the wild, we approach the creators to encou
 
 ## Who we are
 
-We are a group of technical folk. Writers, developers, editors and more. We are passionate about technical writing, documentation and open source.
+We are a community of technical folk. Writers, developers, editors and more. We are passionate about technical writing, documentation and open source.
 
 
 ### Our Audience
