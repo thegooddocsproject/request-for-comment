@@ -8,26 +8,6 @@ The Good Docs Project has grown organically since its creation and has blossomed
 _The Good Docs Project educates and empowers people to create high quality documentation by providing them with resources, best practices and tools to enhance their documentation in open source and beyond._
 
 
-## What we do
-
-First and foremost, we create documentation templates with supporting meta-documents that help people use and understand the templates. As part of this work, we engage in many other initiatives around docs advocacy, docs education, and docs tooling. 
-
-We produce content to address the goals of engaging in our community, and helping run the project.
-
-We prioritize collaboration in all aspects of our project. We embrace paired-writing, co-working sessions and a consultative approach in all
-our community processes.
-
-We encourage and support each other in learning and gaining experience in the realm of technical writing. 
-
-
-### We don’t compete, we cooperate
-
-We don't compete with other groups and we aren't a business. We are one open-source community looking to make open source, as a whole, better for everyone. 
-
-Our project creates templates. We recognize that many people are creating great templates out in the wild. Some writers are in private enterprise and can’t share their work. Some writers are in open source, and their work isn’t reviewed or validated by others. 
-When we encounter great templates in the wild, we approach the creators to encourage them to join our community and donate their templates for inclusion in our project.
-
-
 ## Who we are
 
 We are a community of technical folk. Writers, developers, editors and more. We are passionate about technical writing, documentation and open source.
@@ -49,6 +29,26 @@ We are not competing with that community. We acknowledge that our interests over
 The relationship between our projects is mutually supportive and friendly.
 
 We welcome collaboration and sponsorship opportunities. We like to participate in writing programs and open source programs (like the Google Season of Docs).
+
+
+## What we do
+
+First and foremost, we create documentation templates with supporting meta-documents that help people use and understand the templates. As part of this work, we engage in many other initiatives around docs advocacy, docs education, and docs tooling. 
+
+We produce content to address the goals of engaging in our community, and helping run the project.
+
+We prioritize collaboration in all aspects of our project. We embrace paired-writing, co-working sessions and a consultative approach in all
+our community processes.
+
+We encourage and support each other in learning and gaining experience in the realm of technical writing. 
+
+
+### We don’t compete, we cooperate
+
+We don't compete with other groups and we aren't a business. We are one open-source community looking to make open source, as a whole, better for everyone. 
+
+Our project creates templates. We recognize that many people are creating great templates out in the wild. Some writers are in private enterprise and can’t share their work. Some writers are in open source, and their work isn’t reviewed or validated by others. 
+When we encounter great templates in the wild, we approach the creators to encourage them to join our community and donate their templates for inclusion in our project.
 
 
 ## Differentiation
