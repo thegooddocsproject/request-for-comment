@@ -35,7 +35,7 @@ We are a community of technical folk. Writers, developers, editors and more. We 
 
 ### Our Audience
 
-People in our audience may be one or all of the following:
+Our primary audience includes:
 
 * Users of our products
 * Members of our community
