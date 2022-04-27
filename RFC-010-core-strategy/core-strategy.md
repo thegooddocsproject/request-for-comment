@@ -1,6 +1,6 @@
 # Executive Summary
 
-The Good Docs Project has grown organically since its creation, and has blossomed into a thriving community. Now it’s important to articulate where we are, how we can best support our users and community members, where we’d like to grow in future. 
+The Good Docs Project has grown organically since its creation and has blossomed into a thriving community. Now it’s important to articulate where we are, how we can best support our users and community members, and where we’d like to grow in the future. 
 
 
 ## Core Strategy Statement:  
