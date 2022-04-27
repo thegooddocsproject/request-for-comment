@@ -39,7 +39,7 @@ People in our audience may be one or all of the following:
 
 * Users of our products
 * Members of our community
-* People seeking education and learning opportunities
+* People seeking to learn more about the technical writing domain
 
 
 ### Our friends
