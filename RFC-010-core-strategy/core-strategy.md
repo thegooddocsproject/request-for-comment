@@ -10,7 +10,7 @@ _The Good Docs Project educates and empowers people to create high quality docum
 
 ## What we do
 
-First and foremost, we create templates with supporting meta-documents that underpin the templates.
+First and foremost, we create documentation templates with supporting meta-documents that underpin the templates.
 
 As part of this work, we engage in many other initiatives around docs advocacy, docs education, and docs tooling. 
 
