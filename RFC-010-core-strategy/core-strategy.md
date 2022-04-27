@@ -19,7 +19,7 @@ We produce content to address the goals of engaging in our community and helping
 
 ### We don’t compete, we cooperate
 
-We don't compete with other groups and we aren't a business. We are one open source community looking to make open source, as a whole, better for everyone. 
+We don't compete with other groups and we aren't a business. We are one open-source community looking to make open source, as a whole, better for everyone. 
 
 Our project creates templates. We recognize that many folk are creating great templates out in the wild. Some folk are in private enterprise and can’t share their work. 
 Some folk are in open source, and their work isn’t reviewed or validated by others. 
