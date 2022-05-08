@@ -89,8 +89,30 @@ This work is intended to follow as future deliverables from the Content Strategy
 
 ## Feedback
 
-{If you accept feedback from a community member, you will incorporate it into your RFC before it is accepted.
-If you reject feedback, note that rejected feedback here before resolving the conversation.}
+### Removing 'What we don't do'
+
+I initially included a section articulating what we don't do, but after discussion, I removed it. It included three points:
+
+* Host conferences.
+* Charge for membership.
+* Charge for templates.
+
+
+Tina commented: If we want to be even clearer: what about meetups, local writing days, etc? Maybe we're not hosting full-blown conferences but it might 
+be good to know if some smaller versions of a conf (like a meetup) will also be categorically excluded for some reasons (for example we don't want to 
+fragment our community into groups of "seeing each other in person" and "contributing remote only".
+
+Alyssa said: I agree with Tina that we might want to clarify. I had the same thought when I read that we don't do conferences. I'm not sure why that 
+needs to be called out. Just to differentiate us from Write the Docs? I could see us holding large community events, although not conference-level large.
+For example, I'm hoping to kick off an all day template project management docs jam in the summer where we encourage people to help us audit our existing
+template issues, categorize what template packs we want to make, and write out issues for all the work we want to do. Is that a conference? No, but it's 
+kind of a bigger event than just a meetup.
+
+Ryan said: We might also title this something like "We we aren't trying to do or provide" as a way to highlight that even if we have things like write-ins, 
+those are one-offs and not without the scope of the project. That said, this seems to escape the scope of "content strategy", doesn't it? It's about the 
+structure above content: the organization. I recommend cutting this section. Even where true, they shouldn't be pinned to a content strategy doc as a source of truth.
+
+Carrie said: After reading through it again, I agree with removing this section.
 
 
 ## Implementation checklist
