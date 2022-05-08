@@ -58,10 +58,3 @@ The Good Docs Project templates undergo a rigorous review process, they are back
 Our key differentiator is: **Best Practice**. 
 
 Down the road, this may lead to our templates becoming de facto standards.
-
-
-## What we don’t do
-
-* Host conferences.
-* Charge for membership.
-* Charge for templates.
