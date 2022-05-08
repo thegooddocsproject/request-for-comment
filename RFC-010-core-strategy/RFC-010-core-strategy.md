@@ -115,6 +115,17 @@ structure above content: the organization. I recommend cutting this section. Eve
 Carrie said: After reading through it again, I agree with removing this section.
 
 
+### Punchy tagline
+
+Alyssa: I really do love this core strategy statement as-is and will be fine with adopting it as-is. But I will say that it doesn't make me pump my fist in the air and say, "YEAHHHHH! Let's do this!!!!" I maybe want some more inspirational stuff here for something that is going to be a core strategy.
+
+Is there any way we can integrate docs advocacy into our core strategy? One of my past versions of a core strategy statement included a statement like, "The Good Docs Project advocates for the kind of high quality documentation we want to see in the world." I'm not in love with that, but it starts to hint at "we want to change the world" level inspiration.
+
+Maybe if we also included a brief, punchy "why" statement? Like, "At the Good Docs Project, we believe that good documentation can make the world a better, more equitable place. Good docs make it easier for people from all backgrounds to onboard with the software and tools that can make their lives better or easier. Good docs make it easier for people to join and contribute to open source, making the world's technologies and open source communities a little bit richer, one project at a time."
+
+Talking out loud, but maybe what I'm wanting in addition to the core strategy is a punchy, bumper-sticker like tagline or phrase that is catchy and meaningful. "Because good docs can change the world. Let us show you how." Kind of like how Write the Docs has "Docs or it didn't happen." Very memorable and intuitive.
+
+
 ## Implementation checklist
 
 If this proposal is accepted, the following tasks must be completed:
