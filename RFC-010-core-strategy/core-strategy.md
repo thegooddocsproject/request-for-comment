@@ -45,7 +45,7 @@ We encourage and support each other in learning and gaining experience in the re
 
 ### We don’t compete, we cooperate
 
-We don't compete with other groups and we aren't a business. We are one open-source community looking to make open source, as a whole, better for everyone. 
+We don't compete with other groups and we aren't a business. We are an open-source community striving to empower members of other open-source projects to make quality documentation for their projects.
 
 Our project creates templates. We recognize that many people are creating great templates out in the wild. Some writers are in private enterprise and can’t share their work. Some writers are in open source, and their work isn’t reviewed or validated by others. 
 When we encounter great templates in the wild, we approach the creators to encourage them to join our community and donate their templates for inclusion in our project.
