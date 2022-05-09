@@ -140,6 +140,12 @@ Aaron: In the interest of supporting both Ryan's and Alyssa's first points, coul
 
 Carrie: Thanks, Alyssa! I would also like to keep "developer-focused" in our statement. I think that is important to include. 
 
+#### More thoughts on audience
+
+Alyssa: Do we want to make a distinction between our audience and our community? Like our audience might be developers and our community might be more tech writers?
+
+Ryan: That might get into roles and content types. I know there were some discussions when I was attending meetings about how some content may be internally for community members or aspirants (but still content on the website), so that's one user segment.
+
 
 ### Punchy tagline
 
