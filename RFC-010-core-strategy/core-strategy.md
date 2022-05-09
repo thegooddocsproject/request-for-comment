@@ -57,7 +57,7 @@ The Good Docs Project templates undergo a rigorous review process, they are back
 
 Our key differentiator is: **Best Practice**. 
 
-Down the road, this may lead to our templates becoming de facto standards.
+We hope that our templates can become industry standards and models for quality and excellence.
 
 
 ## Document history
