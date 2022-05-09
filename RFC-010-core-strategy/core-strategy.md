@@ -35,7 +35,7 @@ We welcome collaboration and sponsorship opportunities. We like to participate i
 
 First and foremost, we create documentation templates with supporting guides that help people use and understand the templates. As part of this work, we engage in many other initiatives around docs advocacy, docs education, and docs tooling. 
 
-We produce content to address the goals of engaging in our community, and helping run the project.
+We also produce content that helps new community members join, contribute, and engage with our community.
 
 We prioritize collaboration in all aspects of our project. We embrace paired-writing, co-working sessions and a consultative approach in all
 our community processes.
