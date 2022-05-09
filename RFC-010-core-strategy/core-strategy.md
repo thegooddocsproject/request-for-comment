@@ -33,7 +33,7 @@ We welcome collaboration and sponsorship opportunities. We like to participate i
 
 ## What we do
 
-First and foremost, we create documentation templates with supporting meta-documents that help people use and understand the templates. As part of this work, we engage in many other initiatives around docs advocacy, docs education, and docs tooling. 
+First and foremost, we create documentation templates with supporting guides that help people use and understand the templates. As part of this work, we engage in many other initiatives around docs advocacy, docs education, and docs tooling. 
 
 We produce content to address the goals of engaging in our community, and helping run the project.
 
