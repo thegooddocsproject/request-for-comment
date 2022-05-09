@@ -167,9 +167,9 @@ I totally agree that we are more than templates. Perhaps something that might he
 
 If this proposal is accepted, the following tasks must be completed:
 
-- [ ] Task number one
-- [ ] Task number two
-- [ ] Task number three, etc.
+- [ ] Add the core-strategy.md document to the Governance repo
+- [ ] Publish the Core Strategy Statement on our website
+- [ ] Publish other content from the strategy (for example, who we are, what we do) on our website
 
 
 ## Votes
