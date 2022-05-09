@@ -151,7 +151,7 @@ Maybe if we also included a brief, punchy "why" statement? Like, "At the Good Do
 
 Talking out loud, but maybe what I'm wanting in addition to the core strategy is a punchy, bumper-sticker like tagline or phrase that is catchy and meaningful. "Because good docs can change the world. Let us show you how." Kind of like how Write the Docs has "Docs or it didn't happen." Very memorable and intuitive.
 
-## We do more than templates
+### We do more than templates
 
 Alyssa: I know you mentioned you aren't worried about making this document future proof, but I do worry that saying "we do templates" is boxing us in a little bit. I see us also making curriculum and simple guides (without templates) and other resources that can't be neatly classified. And some of these things we're already actively doing right now (like the Chronologue project where we're creating a model of good documentation, or the business case group that is creating an extensive guide for explaining why docs matter and should be given resources).
 
@@ -161,6 +161,12 @@ I'd also maybe go with "Our primary product is our collection of templates," but
 
 Felicity: I've read and re-read the wording and I think that curriculum is covered by "docs education", guides without templates is covered by "content" and other resources is covered by "docs tooling" and "many other initiatives". I'd like to keep it helicopter-level for now.
 I totally agree that we are more than templates. Perhaps something that might help is to remove the "first and foremost" wording. I'll leave it in just as a nod to how the project was first formed, way back in 2019.
+
+### Publishing the core strategy
+
+Carrie: When this document was originally created, Felicity and I had a discussion about this document as a whole living in the collected 'handbook' (alongside the other Content Strategy docs to come) which would likely be on the website.
+
+There are contents of this document that I would like to see on the 'Learn More' page under 'About The Good Docs Project'. I think this would be a great place to have the Core Strategy Statement, as well as the Who we are, What we do section which could update the 'Goals of the Good Docs Project' section on our website.
 
 
 ## Implementation checklist
