@@ -10,7 +10,7 @@ _The Good Docs Project educates and empowers people to create high-quality docum
 
 ## Who we are
 
-We are a community of technical folk: writers, developers, editors, and more. We are passionate about technical writing, documentation, and open source.
+We are a community of technical writers, developers, editors, and more. We are passionate about technical writing, documentation, and open source.
 
 
 ### Our Audience
