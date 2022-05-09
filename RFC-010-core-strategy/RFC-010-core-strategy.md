@@ -114,6 +114,32 @@ structure above content: the organization. I recommend cutting this section. Eve
 
 Carrie said: After reading through it again, I agree with removing this section.
 
+### Change "people" in the core strategy statement
+
+Alyssa raised the idea of the world "people" in our core statement being quite broad. I'm leaving the "people" for now. I think there is room to articulate the specificity of our audience somewhere. Let's iterate. Whether we incorporate it into our statement, or put it into the 'Audience' section. Do we have a primary and secondary audience? Is it important to capture that in our statement? Good, big questions that can be discussed. Here is the feedback from the RFC:
+
+Alyssa: The first quibble is with saying that our target audience is "people." I'm of two minds about it. On the one hand, I like saying "people" because it it is generic and broad. That helps us to indicate that we want to be very inclusive and that we are seeking to empower a wide audience.
+
+On the other hand, there's part of me that would like some specificity around who our primary and secondary audience is. In my mind (and I'm open to having my mind changed), I have felt that our primary audience is specifically non-technical writers, such as developers. And our secondary audience is technical writers.
+
+The reason why that distinction matters to me is because it changes who our project is for. I personally think we want to be advocates for documentation well beyond the technical writing profession. I think we will naturally attract technical writers to our project and they will always find value in what we produce. But for me, that's tangential. I'm glad they will benefit from anything we produce, but personally I'm not making these resources for them.
+
+The audience I'm interested in is non-technical writers, such as developers. The audience I'm interested in is people who are just beginning to see the value of good documentation and want to get better at it, but they don't know where to start of they don't feel like they are "good at writing." This audience wants to create good documentation, but they just don't know how and they need resources to help make it easier to produce better docs.
+
+I love technical writers, don't get me wrong. But I want to be more than just a fun club for writers. I want to reach higher than that. And for that reason, I think there is value in explicitly calling out that we are reaching out to developers and other non-technical writers. Because, as Erin McKean said in the presentation about Good Docs Project that sold me on joining the project: “Docs advocacy is the developer-focused practice of encouraging better software documentationーwhether through creating good docs yourself, helping others produce docs, or by creating a culture that enables good docs to be produced.” In that same presentation, Erin has clarified that the reason docs advocacy is developer-focused (not technical writer focused) is because, frankly, there’s a lot of stuff in the world that needs documentation and there are not enough technical writers to do the documenting. We need to win more people over to our cause.
+
+So, what would my edit be? Maybe to instead say "...educates and empowers developers and others working in a variety of roles to create high quality documentation..."
+
+Ryan: My take on the core audience has some difference, but in nuance: it's for people who feel they need more help in writing, both developers who need to build skills and confidence, and with junior tech writers for the same reasons. Experienced tech writers will get something out of this stuff hopefully, sure, but they aren't the focus.
+
+I say that so we can speak more to the experience level of the task at hand, not purely to the role we associate with that experience level.
+
+That said, we should never lose our billing as "developer-focused" -- that's how we get devs here. But let's not discard those who need the same confidence, structure, and guidance that we associate with writing-minded devs.
+
+Aaron: In the interest of supporting both Ryan's and Alyssa's first points, could we make a statement to say in general we want to support people who need help writing technical documentation, for example: technical writers, developers, open source contributors, etc., list a few?
+
+Carrie: Thanks, Alyssa! I would also like to keep "developer-focused" in our statement. I think that is important to include. 
+
 
 ### Punchy tagline
 
