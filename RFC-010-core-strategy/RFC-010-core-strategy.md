@@ -70,8 +70,12 @@ strategy and vision statement at regular intervals—this might be annually, or 
 
 ## Open questions
 
-{This section is optional and is where you can list questions that won't be resolved by this RFC, including those raised in comments from community members.}
+Two areas that arose during review that we should revisit as a project:
 
+* Creating a punchy tagline
+* Articulating our audience
+
+You can read comments about these in the Feedback section of this document.
 
 ## Decisions deferred
 
@@ -84,7 +88,7 @@ These pillars answer questions like:
 * How do our users access the content?
 * When and how is content reviewed, evaluated and archived?
 
-This work is intended to follow as future deliverables from the Content Strategy working group.
+This work is intended to follow as future deliverables from the Content Strategy working group, and will be incorporated into the Governance repo, and then our project docs and website, as appropriate. 
 
 
 ## Feedback
@@ -193,6 +197,7 @@ If this proposal is accepted, the following tasks must be completed:
 - [ ] Add the core-strategy.md document to the Governance repo
 - [ ] Publish the Core Strategy Statement on our website
 - [ ] Publish other content from the strategy (for example, who we are, what we do) on our website
+- [ ] Create a reminder to review the Core Strategy annually.
 
 
 ## Votes
