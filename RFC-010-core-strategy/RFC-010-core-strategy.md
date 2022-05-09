@@ -169,6 +169,17 @@ Carrie: When this document was originally created, Felicity and I had a discussi
 There are contents of this document that I would like to see on the 'Learn More' page under 'About The Good Docs Project'. I think this would be a great place to have the Core Strategy Statement, as well as the Who we are, What we do section which could update the 'Goals of the Good Docs Project' section on our website.
 
 
+### Notes about research
+
+Cameron: "Research" is an overloaded term here. There is the trawling of existing templates of a certain type, and selecting the best. Then there is scientific research, analysing how people read and digest information - leading to recommended writing styles.
+
+Alyssa:  don't think "research" must mean scientific research. Most of the time, it's not available, as Cameron has pointed out. (Academia is lagging behind the industry or where research exists, it's inaccessible behind a paywall.) However, I can say that, in general, nearly all of our template writers do conduct significant research into their content type when they create their templates. Many times template writers read 50-200 examples of the type of content they are creating a template for. In Community Docs, we've begun making it a standard process to create a gap analysis for the content type they're creating a template for. That's basically primary research (as opposed to secondary research, which is what consulting resources is).
+
+Ryan: I tend to use "discovery" over "research", partly because there is a legal distinction, and partly because I spend time with UXRs and live with a researcher, and what I do in discovery barely counts. But that's me personally using my own idiolect to passively fight against our techbro culture of dismissing and minimizing research. So I guess I'd like to make sure whatever we do here elevates rather than conflates ideas.
+
+But when I do see "backed by research" it does make me want to see the research papers we produce or reference to.
+
+
 ## Implementation checklist
 
 If this proposal is accepted, the following tasks must be completed:
