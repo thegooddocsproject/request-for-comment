@@ -53,11 +53,17 @@ When we encounter great templates in the wild, we approach the creators to encou
 
 ## Differentiation
 
-The Good Docs Project templates undergo a rigorous review process, they are backed by research, and they are freely available for anyone to use.
+The Good Docs Project templates:
+
+* Build upon best practices developed in the technical writing industry.
+* Conduct original primary research if possible, and draw upon academic research where available.
+* Undergo a rigorous review process, by our community of technical writers.
 
 Our key differentiator is: **Best Practice**. 
 
 We hope that our templates can become industry standards and models for quality and excellence.
+
+Our templates are free to use under [an open license](https://thegooddocsproject.dev/licenses/).
 
 
 ## Document history
