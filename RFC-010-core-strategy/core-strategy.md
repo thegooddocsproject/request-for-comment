@@ -58,3 +58,12 @@ The Good Docs Project templates undergo a rigorous review process, they are back
 Our key differentiator is: **Best Practice**. 
 
 Down the road, this may lead to our templates becoming de facto standards.
+
+
+## Document history
+
+| Date     | Version | Author                       | Comment | Status    |
+| :------- | :------ | :--------------------------- |:------- | :-------- |
+| May 2022 | 1.0     | Felicity Brand, Carrie Crowe | Created | Published | 
+
+
