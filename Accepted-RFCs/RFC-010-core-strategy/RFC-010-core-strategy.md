@@ -11,7 +11,7 @@ See the status indicated on the pull request description.
 
 ## Proposal overview
 
-This RFC is to gain consensus on several key areas of The Good Docs Project as it stands in 2022. This touches on our vision, audience, content and how we deliver value. 
+This RFC is to gain consensus on several key areas of The Good Docs Project as it stands in 2022. This touches on our vision, audience, content and how we deliver value.
 The information is contained in the Core Strategy document (core-strategy.md).
 
 The Core Strategy document seeks to outline the fundamentals of the project, answering the following questions:
@@ -30,21 +30,21 @@ There are several benefits to articulating where we are, how we can best support
 
 Documenting our core strategy means that:
 
-**As a project**, we can: 
+**As a project**, we can:
 
 * Have a touchstone or “North Star” to guide decisions about content produced by the project, as well as communications about the project.
 * Reinforce the foundation that is already underlying our current initiatives.
-* Adapt easily to support our audience. As we grow, our audience will grow and their needs might change. 
+* Adapt easily to support our audience. As we grow, our audience will grow and their needs might change.
 
 **As a community**, we can:
 
-* Hold a shared idea of what we’re about—so that we’re on the same page. 
+* Hold a shared idea of what we’re about—so that we’re on the same page.
 * Present a unified idea, and use consistent language, when talking about the identity of our project to others.
 
-**As content producers**, we can: 
+**As content producers**, we can:
 
-* Address content challenges, prioritize them accordingly and form solutions. 
-* Tie each piece of content that we create back to a community or project goal. 
+* Address content challenges, prioritize them accordingly and form solutions.
+* Tie each piece of content that we create back to a community or project goal.
 
 
 ## Proposal
@@ -56,10 +56,10 @@ That we accept the following related file:
 
 ## Consequences
 
-An agreed core strategy will help all members of our community, and end users, understand what the project is doing. This will impact the words 
+An agreed core strategy will help all members of our community, and end users, understand what the project is doing. This will impact the words
 on our website, how we meet the needs of our users and how we document our own project.
 
-The project will evolve over time, and the core strategy statement in this RFC is not intended to be future-proof. We should revisit the core 
+The project will evolve over time, and the core strategy statement in this RFC is not intended to be future-proof. We should revisit the core
 strategy and vision statement at regular intervals—this might be annually, or if we happen to have a major shift in focus or experience unexpected growth.
 
 
@@ -79,7 +79,7 @@ You can read comments about these in the Feedback section of this document.
 
 ## Decisions deferred
 
-What’s not covered is the deeper dive into the various pillars of content strategy such as content substance, workflow, structure and governance. 
+What’s not covered is the deeper dive into the various pillars of content strategy such as content substance, workflow, structure and governance.
 These pillars answer questions like:
 
 * What are our content types?
@@ -88,7 +88,7 @@ These pillars answer questions like:
 * How do our users access the content?
 * When and how is content reviewed, evaluated and archived?
 
-This work is intended to follow as future deliverables from the Content Strategy working group, and will be incorporated into the Governance repo, and then our project docs and website, as appropriate. 
+This work is intended to follow as future deliverables from the Content Strategy working group, and will be incorporated into the Governance repo, and then our project docs and website, as appropriate.
 
 
 ## Feedback
@@ -102,18 +102,18 @@ I initially included a section articulating what we don't do, but after discussi
 * Charge for templates.
 
 
-Tina commented: If we want to be even clearer: what about meetups, local writing days, etc? Maybe we're not hosting full-blown conferences but it might 
-be good to know if some smaller versions of a conf (like a meetup) will also be categorically excluded for some reasons (for example we don't want to 
+Tina commented: If we want to be even clearer: what about meetups, local writing days, etc? Maybe we're not hosting full-blown conferences but it might
+be good to know if some smaller versions of a conf (like a meetup) will also be categorically excluded for some reasons (for example we don't want to
 fragment our community into groups of "seeing each other in person" and "contributing remote only".
 
-Alyssa said: I agree with Tina that we might want to clarify. I had the same thought when I read that we don't do conferences. I'm not sure why that 
+Alyssa said: I agree with Tina that we might want to clarify. I had the same thought when I read that we don't do conferences. I'm not sure why that
 needs to be called out. Just to differentiate us from Write the Docs? I could see us holding large community events, although not conference-level large.
 For example, I'm hoping to kick off an all day template project management docs jam in the summer where we encourage people to help us audit our existing
-template issues, categorize what template packs we want to make, and write out issues for all the work we want to do. Is that a conference? No, but it's 
+template issues, categorize what template packs we want to make, and write out issues for all the work we want to do. Is that a conference? No, but it's
 kind of a bigger event than just a meetup.
 
-Ryan said: We might also title this something like "We we aren't trying to do or provide" as a way to highlight that even if we have things like write-ins, 
-those are one-offs and not without the scope of the project. That said, this seems to escape the scope of "content strategy", doesn't it? It's about the 
+Ryan said: We might also title this something like "We we aren't trying to do or provide" as a way to highlight that even if we have things like write-ins,
+those are one-offs and not without the scope of the project. That said, this seems to escape the scope of "content strategy", doesn't it? It's about the
 structure above content: the organization. I recommend cutting this section. Even where true, they shouldn't be pinned to a content strategy doc as a source of truth.
 
 Carrie said: After reading through it again, I agree with removing this section.
@@ -142,7 +142,7 @@ That said, we should never lose our billing as "developer-focused" -- that's how
 
 Aaron: In the interest of supporting both Ryan's and Alyssa's first points, could we make a statement to say in general we want to support people who need help writing technical documentation, for example: technical writers, developers, open source contributors, etc., list a few?
 
-Carrie: Thanks, Alyssa! I would also like to keep "developer-focused" in our statement. I think that is important to include. 
+Carrie: Thanks, Alyssa! I would also like to keep "developer-focused" in our statement. I think that is important to include.
 
 #### More thoughts on audience
 
@@ -206,21 +206,20 @@ Votes as per our [decision process](https://thegooddocsproject.dev/decisions/):
 
 Project steering committee (listed alphabetically by first name):
 
-- Aaron Peters:
-- Aidan Doherty:
-- Alyssa Rock:
+- Aaron Peters: +1
+- Alyssa Rock: +1
 - Ankita Tripathi:
-- Bryan Klein:
-- Cameron Shorter:
-- Carrie Crowe:
-- Erin McKean:
-- Deanna Thompson:
-- Felicity Brand:
+- Bryan Klein: +1
+- Cameron Shorter: +1
+- Carrie Crowe: +1
+- Erin McKean: +1
+- Deanna Thompson: +1
+- Felicity Brand: +1
 - Gayathri Krishnaswamy:
 - Morgan Craft:
 - Nelson Guya:
 - Ryan Macklin:
-- Tina Lüdtke:
+- Tina Lüdtke: +1
 - Viraji Ogodapola:
 
 

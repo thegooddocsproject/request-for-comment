@@ -71,7 +71,6 @@ Votes as per our [decision process](https://thegooddocsproject.dev/decisions/):
 Project steering committee (listed alphabetically by first name):
 
 - Aaron Peters:
-- Aidan Doherty:
 - Alyssa Rock:
 - Ankita Tripathi:
 - Bryan Klein:
@@ -85,7 +84,6 @@ Project steering committee (listed alphabetically by first name):
 - Nelson Guya:
 - Ryan Macklin:
 - Tina Lüdtke:
-- Viraji Ogodapola:
 
 
 Community members who voted (non-binding):
