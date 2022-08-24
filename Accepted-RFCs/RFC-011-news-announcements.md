@@ -3,6 +3,7 @@
 ## Proposed by
 
 Ryan Macklin ([@macklin](https://thegooddocs.slack.com/team/U01DYRWG43X))
+
 Initially submitted on 24 Aug 2022
 
 ## Current status
