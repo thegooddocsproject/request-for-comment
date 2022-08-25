@@ -124,6 +124,10 @@ And this would be some additional ongoing effort on the part of the News team, t
 {If you accept feedback from a community member, you will incorporate it into your RFC before it is accepted.
 If you reject feedback, note that rejected feedback here before resolving the conversation.}
 
+## Organizational dependencies
+
+* Content strategy in involved in such decisions & nuance
+* The tech team would be involved in implementation
 
 ## Implementation checklist
 
