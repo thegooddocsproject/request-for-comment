@@ -25,6 +25,8 @@ We need a central knowledge repository for contributors that:
 * Allows contributors to dump critical or needed info in a place that keeps them from being a bus number
 * Has some sense of discipline/oversight to keep it from becoming disorganized or discordant
 
+This is internal-facing material, which is about the audience, and not about privacy. We should assume all information is publicly viewable, just intended to be viewed by those with working group context. Our template/product users wouldn't need to know this stuff, but there's no reason to hide it.
+
 ## Motivation
 
 We don't have a good way to share information to use contributors, or a common places where information can live and grow. This was mentioned by multiple people during our recent retrospectives.
@@ -76,6 +78,11 @@ This space would also be great for small procedural elements that should be docu
 {If you accept feedback from a community member, you will incorporate it into your RFC before it is accepted.
 If you reject feedback, note that rejected feedback here before resolving the conversation.}
 
+
+## Organizational dependencies
+
+* The tech team would be involved in implementation
+* Content strategy may have thoughts, even with this being internal-facing info
 
 ## Implementation checklist
 
