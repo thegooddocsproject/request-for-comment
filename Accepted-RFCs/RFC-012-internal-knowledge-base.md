@@ -52,6 +52,8 @@ Said information though could become out of date without a contributor realizing
 
 We also need to decide on the access control. Having new contributors being able to edit can be great for finding holes in the content, but could also be an issue if contributors put misunderstandings into our KB without others noticing right away.
 
+This space would also be great for small procedural elements that should be documented, but don't need a full RFC for said documentation (such as the recent "break/restart" process the co-chairs initiated). That way such info isn't lost to the ether due to a lack of documentation procedure for such things.
+
 
 ## Links and prior art
 
