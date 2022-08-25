@@ -83,6 +83,10 @@ This could appear to make the project feel "bureaucratic" or "stuffy." While I f
 {If you accept feedback from a community member, you will incorporate it into your RFC before it is accepted.
 If you reject feedback, note that rejected feedback here before resolving the conversation.}
 
+## Organizational dependencies
+
+* Project & product management-type humans should weigh in heavily
+* Working group leads and those who have thoughts on new initiative should review
 
 ## Implementation checklist
 
