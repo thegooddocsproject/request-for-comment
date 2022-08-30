@@ -1,4 +1,4 @@
-# RFC-014: Template product vision for "template 1.0" (2022-23)
+# RFC-014: Product vision for "templates 1.0" (2022-23)
 
 ## Proposed by
 
