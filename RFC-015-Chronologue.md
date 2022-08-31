@@ -1,33 +1,39 @@
-{
-- Use this template when submitting a request for comment (RFC) proposal to the Good Docs Project.
-- See the [README](README.md) for more information about the process.
-}
-
-# Title of your proposal
+# Chronologue processes and tools
 
 ## Proposed by
 
-{Put your name and/or your Slack handle here.}
+[Tina Luedtke](https://thegooddocs.slack.com/team/U02EQQDFLE8)
 
 ## Current status
 
-See the status indicated on the pull request description.
+Draft
 
 
 ## Proposal overview
 
-{Summarize your proposal in this section in about 1-2 paragraphs.}
+This proposal outlines the responsibilities, ambitions, needs, and ways of working within the Chronologue working group and how we interact with the Template working group. Specifically, the proposal discusses: 
+
+-   [Function of the Chronologue project](#function)
+-   [Role Matrix](#roles)
+-   [Writing process](#process)
+-   [Mock product: Technical and creative needs and a proposal for tooling](#tools)
+
 
 
 ## Motivation
 
-{What problem does this proposal try to solve?}
-
+This proposal aims to solidify our past decisions into a formal foundation from which the group can evolve and grow from.  
+More specifically, the proposal highlights the role of the Chronologue working group within the Good Docs project, how we work, and what tools we use.
 
 ## Proposal
 
-{Explain the proposal in more depth here and make your best argument for its adoption.}
+### Function of the Chronologue project <a id="function"> </a>
 
+### Role Matrix <a id="roles"> </a>
+
+### Writing process <a id="process"> </a>
+
+### Mock product: Technical and creative needs and a proposal for tooling <a id="tools"> </a>
 
 ## Consequences
 
@@ -47,6 +53,8 @@ See the status indicated on the pull request description.
 ## Decisions deferred
 
 {This section is option and is where you can list decisions that won't be resolved by this RFC, but which should be raised at a later time.}
+
+-   Feedback channel for content (Reason: This should be unified across the sites we maintain?) 
 
 
 ## Feedback
