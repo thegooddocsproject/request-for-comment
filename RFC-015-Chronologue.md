@@ -6,7 +6,14 @@
 
 ## Current status
 
-Draft
+- [x] Draft
+- [ ] Under discussion
+- [ ] Final comment and voting (until YYYY-MM-DD) {{Add date after selecting this status.}}
+- [ ] Accepted
+- [ ] Rejected
+- [ ] Implemented
+- [ ] Deferred
+- [ ] Withdrawn
 
 
 ## Proposal overview
