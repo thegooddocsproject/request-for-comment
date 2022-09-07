@@ -39,10 +39,13 @@ Another very important benefit of having a product plan/roadmap is that it'll he
 
 So basically, a product plan/roadmap will supercharge our productivity and improve our onboarding process for new templateers, reducing the burden on template leads to invent work for new community members to do on an ad-hoc basis.
 
-
 ## Proposal
 
 Simply put: It's time to decide as a group what *should* be in "Templates 1.0." Rather than working solely bottom-up, with people deciding what templates inspire them or working on other projects, we should add *some* top-down direction to shape the work.
+
+This includes (as post-RFC decisions):
+ * Defining our definition of "done & confidently releasable" for individual templates
+ * Deciding what meets our quality standards and acceptance criteria
 
 ### What makes up the template product 1.0
 
@@ -158,6 +161,7 @@ If this proposal is accepted, the following tasks must be completed:
 - [ ] Document this process for internal reference
 - [ ] Draft and come to agreement to what should be in 1.0
     - [ ] Work with template leads to come to consensus on the roadmap
+	- [ ] Decide on our acceptance criteria/definition of "done & confidently releasable"
 	- [ ] Formulate the framework for the collected product
 	- [ ] A timeline for template package execution for 0.9 & 1.0
 	- [ ] A timeline for content strategy implementation in time for 0.9 & 1.0
