@@ -4,7 +4,7 @@
 
 Ryan Macklin ([@macklin](https://thegooddocs.slack.com/team/U01DYRWG43X))
 
-Initially submitted on 29 Aug 2022
+Initially submitted on 7 Sep 2022
 
 ## Current status
 
@@ -78,6 +78,8 @@ Template contributors should get to weigh in and help craft as well, though not 
 ### "Why is what's 'core' a follow-up conversation?"
 
 This sort of working is a big shift in our working models, so before we get into specifics, we should come to an accord on this overall.
+
+This includes discussions about what framework the product takes, such as the "template packs" discussions.
 
 ### Ideal timeline
 
@@ -156,6 +158,7 @@ If this proposal is accepted, the following tasks must be completed:
 - [ ] Document this process for internal reference
 - [ ] Draft and come to agreement to what should be in 1.0
     - [ ] Work with template leads to come to consensus on the roadmap
+	- [ ] Formulate the framework for the collected product
 	- [ ] A timeline for template package execution for 0.9 & 1.0
 	- [ ] A timeline for content strategy implementation in time for 0.9 & 1.0
 	- [ ] A sense of what to have/leave in a "dev" channel, to be fully released post-1.0
@@ -164,7 +167,7 @@ If this proposal is accepted, the following tasks must be completed:
 
 ## Votes
 
-Votes as per our [decision process](https://thegooddocsproject.dev/decisions/):
+Votes per our [decision process](https://thegooddocsproject.dev/decisions/):
 
 Project steering committee (listed alphabetically by first name):
 
