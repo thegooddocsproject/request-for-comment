@@ -35,6 +35,11 @@ On a logisitcs level, it feels hard to pitch our project to people, as we've spe
 
 And if we're aiming to support devs who are overwhelmed or scared to make docs, they could use that 1.0 launch too.
 
+Another very important benefit of having a product plan/roadmap is that it'll help us better identify what template work needs to be done (thus filling in our backlog and issue list). We have a perpetual problem of new community members who join our project and are excited to create templates, but very few of them have their own independent ideas for what templates they could work on. Many templateers would prefer for us to say what work needs to be done and what our priorities are. Much of the time, we just make this up and talk it out on an ad-hoc basis, but it would be great to have a clear plan that clearly indicates what work needs to be done.
+
+So basically, a product plan/roadmap will supercharge our productivity and improve our onboarding process for new templateers, reducing the burden on template leads to invent work for new community members to do on an ad-hoc basis.
+
+
 ## Proposal
 
 Simply put: It's time to decide as a group what *should* be in "Templates 1.0." Rather than working solely bottom-up, with people deciding what templates inspire them or working on other projects, we should add *some* top-down direction to shape the work.
@@ -58,11 +63,23 @@ These are things that likely many of us would want to have as part of any big re
 
 These are all great things! But if we try to fit every great thing into a 1.0, we'll never release. That said, we have a release valve for some of these: publishing them as blog posts (and possibly later compiling or basing material off of said posts).
 
+Additionally, one thing floated about in broader conversations is creating additional types of content that'd follow the same contributing process as the template, but would be hosted in a different part of the project. We've talked about creating guides and we've talked about curriculum. We could call those out specifically as not being part of 1.0: guides and curriculum.
+
+### Who's involved in deciding what's 1.0
+
+In short, everyone but with a heavy asterisk. 
+
+The product leader (see below) would drive the conversation, and have a stake somewhere between "minimum viable" and "robust." Fully robust asks too much of volunteers on a finine timeframe, and MVP may be too minor to be of use to our userbase.
+
+The template leads would brainstorm, collaborate, and sign off on what is 1.0. No need for a separate RFC for that, though the conversation would be open to the entire project, not closed.
+
+Template contributors should get to weigh in and help craft as well, though not to the point where the scope of 1.0 spirals into something that isn't managable. To that point: it's likely that elements may be deemed to be "post 1.0" or "let's get part of that in 1.0, and put the rest on our post-1.0 roadmap."
+
 ### "Why is what's 'core' a follow-up conversation?"
 
 This sort of working is a big shift in our working models, so before we get into specifics, we should come to an accord on this overall.
 
-### Timeline
+### Ideal timeline
 
 Given our tethering to the Write the Docs calendar, here's a proposal:
 
@@ -70,6 +87,8 @@ Given our tethering to the Write the Docs calendar, here's a proposal:
 	 - That requires some of the content strategy work done regarding users being able to navigate our site
 	 - We'll need to provide easy and clear ways for people to submit feedback to us
  - We have a 1.0 release ready and out 2 weeks prior to WTD Prague
+
+ That said, if we can't hit this timeline, but the rest of this RFC looks legit to the steering committee, this element is deemed as flexible. (Similar to deciding what is/isn't 1.0.) However, the author strongly wants to assert a timeframe, as it's more beneficial to work toward a timeframe and fall short than it is to work without a timeframe.
 
 ### "Wait, a 0.9 release candidate?"
 
@@ -134,11 +153,13 @@ If you reject feedback, note that rejected feedback here before resolving the co
 
 If this proposal is accepted, the following tasks must be completed:
 
+- [ ] Document this process for internal reference
 - [ ] Draft and come to agreement to what should be in 1.0
+    - [ ] Work with template leads to come to consensus on the roadmap
 	- [ ] A timeline for template package execution for 0.9 & 1.0
 	- [ ] A timeline for content strategy implementation in time for 0.9 & 1.0
 	- [ ] A sense of what to have/leave in a "dev" channel, to be fully released post-1.0
-- [ ] Set regular meetings or check-ins up with template leads and product lead
+- [ ] Set regular meetings or check-ins up with template leads and product lead (possibly as part of existing template leads meeting)
 
 
 ## Votes
