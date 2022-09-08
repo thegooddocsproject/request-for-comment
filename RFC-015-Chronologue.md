@@ -36,6 +36,20 @@ More specifically, the proposal highlights the role of the Chronologue working g
 
 ### Function of the Chronologue project <a id="function"> </a>
 
+The Chronologue project is a working group within the Good Docs project. 
+The primary task of the group is to create example documentation to increase the understanding of what good documentation can look like. 
+The primary purpose is to educate people without a background in technical communication.
+The group uses the Good Docs Project’s templates to create these examples, so the secondary purpose of the group is to act as a quality assurance for the Template working group.
+
+To create credible examples, the group decided to build a fictional product - the Chronologue. The Chronologue is a time-travel telescope that records astronomical events of the future, and past. 
+
+The Chronologue consists of:  
+
+-   A time-travel telescope (fictional)
+-   An API to transmit data between the telescope and the website
+-   A website to view events recorded by the telescope
+
+
 ### Role Matrix <a id="roles"> </a>
 
 ### Writing process <a id="process"> </a>
