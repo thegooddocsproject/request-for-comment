@@ -79,7 +79,7 @@ The following table describes what happens after a template has been released.
 |2 - Draft| Writer| <li>Create a new branch off of [`docs`](https://github.com/thegooddocsproject/chronologue/tree/docs)<li>Create Chronologue documentation using the template</li><li>Keep a [friction log](https://developerrelations.com/developer-experience/an-introduction-to-friction-logging) of template/guide for later improvements</li>|
 |3 - Review | Writer|<li>Create PR against the `docs` branch </li><li>Assign WG lead or other writer as a reviewer</li><li>Improve content based on feedback</li>|
 |4 - Commentary & Publication |Writer|<li>Add commentary to your content to highlight what makes it good</li><li>Merge the PR into the `docs` branch to publish the content</li>|
-|5 (if applicable) - Template  | Writer| <li>In the `templates` repository, create a new branch off of [`dev`](https://github.com/thegooddocsproject/templates)</li> <li>Make changes to the template based on your friction log notes.</li><li>Create a PR and add the template author as a reviewer</li>|
+|5 (if applicable) - Template improvements | Writer| <li>In the `templates` repository, create a new branch off of [`dev`](https://github.com/thegooddocsproject/templates)</li> <li>Make changes to the template based on your friction log notes.</li><li>Create a PR and add the template author as a reviewer</li>|
 
 ### Mock product: Technical and creative needs and a proposal for tooling <a id="tools"> </a>
 
@@ -100,9 +100,11 @@ The following table describes what happens after a template has been released.
 
 ## Decisions deferred
 
-{This section is option and is where you can list decisions that won't be resolved by this RFC, but which should be raised at a later time.}
+While the RFC lays out what the group's purpose is and how it operates, two questions still remain to be answered as of this writing. Both of them touch on topics affect other working groups as well; therefore, these decisions should be made in other RFCs.
 
--   Feedback channel for content (Reason: This should be unified across the sites we maintain?) 
+-   **Onboarding new members**: A bottleneck in onboarding is that the writers and developers need to establish a lot of context before they can make quality contributions. It takes a lot of time to get members into a state where they can make contributions. In the past, the working group lead onboarded members personally - mostly because of the group's velocity. Since this RFC establishes a basic understanding of the group, we could develop more text-based onboarding materials, including internal documentation. 
+
+-   **Feedback channels**: 
 
 
 ## Feedback
