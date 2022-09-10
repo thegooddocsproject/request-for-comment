@@ -52,6 +52,19 @@ The Chronologue consists of:
 
 ### Role Matrix <a id="roles"> </a>
 
+| Role→ <br> Task↓| Working group lead | Developer    | Writer |
+| :---      |    :----:   |   :----:  |  :----:  |
+| Onboarding new members | X |  | |
+| Assigning tasks within the group | X | | |
+| Creating strategic / administrative documents | X |  | |
+| Creating internal documentation | X |X| X|
+| Writing Chronologue documentation | | | X|
+| Web development||X||
+| Website maintenance (Docs & Tool) |X|X||
+| Review PRs |X |X | X|
+| Merge PRs |X |X |X |
+| Make improvements to the templates| | | X|
+
 ### Writing process <a id="process"> </a>
 
 ### Mock product: Technical and creative needs and a proposal for tooling <a id="tools"> </a>
