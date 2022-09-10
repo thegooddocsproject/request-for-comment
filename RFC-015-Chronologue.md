@@ -56,7 +56,7 @@ The Chronologue consists of:
 | :---      |    :----:   |   :----:  |  :----:  |
 | Onboarding new members | X |  | |
 | Assigning tasks within the group | X | | |
-| Creating strategic / administrative documents | X |  | |
+| Creating strategic / administrative documents like documentation plans, release notes, etc. | X |  | |
 | Creating internal documentation | X |X| X|
 | Writing Chronologue documentation | | | X|
 | Web development||X||
@@ -66,6 +66,20 @@ The Chronologue consists of:
 | Make improvements to the templates| | | X|
 
 ### Writing process <a id="process"> </a>
+
+The Chronologue working group starts its writing process when the template is in [Phase 6 - Improve the template with user feedback](https://github.com/thegooddocsproject/templates/blob/dev/CONTRIBUTING.md#overview-of-the-template-writing-phases).
+
+We decided to come in at this late stage because developing good templates is already quite time consuming and we don't want to add to the development cycle.
+
+The following table describes what happens after a template has been released.
+
+| Phase | Who does it? | What happens? |
+| :---  |    :----:   |   :----  |
+|1 - Plan | Working group lead| <li>Add the template to the documentation plan</li><li>Create an issue to track work <li>Assign content to a writer</li>|
+|2 - Draft| Writer| <li>Create a new branch off of [`docs`](https://github.com/thegooddocsproject/chronologue/tree/docs)<li>Create Chronologue documentation using the template</li><li>Keep a [friction log](https://developerrelations.com/developer-experience/an-introduction-to-friction-logging) of template/guide for later improvements</li>|
+|3 - Review | Writer|<li>Create PR against the `docs` branch </li><li>Assign WG lead or other writer as a reviewer</li><li>Improve content based on feedback</li>|
+|4 - Commentary & Publication |Writer|<li>Add commentary to your content to highlight what makes it good</li><li>Merge the PR into the `docs` branch to publish the content</li>|
+|5 (if applicable) - Template  | Writer| <li>In the `templates` repository, create a new branch off of [`dev`](https://github.com/thegooddocsproject/templates)</li> <li>Make changes to the template based on your friction log notes.</li><li>Create a PR and add the template author as a reviewer</li>|
 
 ### Mock product: Technical and creative needs and a proposal for tooling <a id="tools"> </a>
 
