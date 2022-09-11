@@ -83,14 +83,50 @@ The following table describes what happens after a template has been released.
 
 ### Mock product: Technical and creative needs and a proposal for tooling <a id="tools"> </a>
 
+We want to follow good engineering practice, therefore this section separates our needs from the implementation.
+That way, we can make sure that we choose appropriately for our current needs and can check in if the implementation still fits when needs change.
+
+The Chronologue working group develops its mock tool on the [`main`](https://github.com/thegooddocsproject/chronologue) branch in the Chronologue repository. 
+
+#### Needs:
+
+* Framework/tool that allows for dynamic web page templating, since we want to pull in data from an API
+* Needs to work with our hosting platform (Currently: Netlify OSS plan)
+* Framework & knowledge support: Tool(s) need to be actively maintained and adopted by a large community. Larger projects often receive more support, and questions can be addressed by fellow community members.  
+* Tool(s) need good documentation.
+* Tech implementation should invite and onboard technical writers easily for maintenance later on. This can be mitigated by creating internal docs.
+
+#### Possible technical implementation:
+
+The group leans towards the following implementation, since it has to build a page according to a [mockup](https://www.figma.com/proto/lvaAChlbueycET2ws9ZquS/Chronologue?node-id=902%3A1745&scaling=min-zoom&page-id=902%3A1640&starting-point-node-id=902%3A1745) created by Ulises de la Luz and Serena Jolley. 
+
+Ian’s note: will experiment with data fetching + templating + page routing on Hugo
+
 ## Consequences
 
-{Explain what impact this proposal will have on the community, both positive and negative.}
+### Positive impact
 
+The proposal contributes to a better understanding of the Chronologue project’s responsibilities, ambitions, and ways of working. 
+Furthermore, it establishes a firm foundation on which the working group can rely on when making future decisions. 
+With this RFC, we aim to ensure a smoother process to create usable, understandable examples for people that want to use the Good Docs Project’s templates. 
+
+### Possible negative impact
+
+The mock tool website poses a possible risk to the maintainablity of the fake tool. Since we want to divert from standard tooling (staticly generated site using HUGO), it can become a bottleneck if knowledgable members of the working group become unavailable. 
+If we lose critical knowledge, we become less agile when it comes to resolving bugs or further development.  
+
+### Mitigation strategy
+To mitigate the risk of losing knowledgable members and becoming immobile, we want to supply comprehensive internal documentation about: 
+
+* The framework we are working with and deviations from standard implementation (if applicable) 
+* How the repository is organized
+* How we approached the CSS and how its related to our source code
+* How to maintain vital parts of the website, including security updates of the framework and dependencies
+* A reference document with links to more in-depth resources.
 
 ## Links and prior art
 
-{This section is optional if you want to [link](https://example.com) to other resources.}
+[Chronologue Figma Mockup]([https://example.com](https://www.figma.com/proto/lvaAChlbueycET2ws9ZquS/Chronologue?node-id=902%3A1745&scaling=min-zoom&page-id=902%3A1640&starting-point-node-id=902%3A1745) created by Ulises de la Luz and Serena Jolley.
 
 
 ## Open questions
@@ -104,8 +140,7 @@ While the RFC lays out what the group's purpose is and how it operates, two ques
 
 -   **Onboarding new members**: A bottleneck in onboarding is that the writers and developers need to establish a lot of context before they can make quality contributions. It takes a lot of time to get members into a state where they can make contributions. In the past, the working group lead onboarded members personally - mostly because of the group's velocity. Since this RFC establishes a basic understanding of the group, we could develop more text-based onboarding materials, including internal documentation. 
 
--   **Feedback channels**: 
-
+-   **Feedback channels**: Once we publish templates and example content, and our audience interacts with them, they might want to give feedback. Instead of being angrily tweeted at, we might want to establish dedicated feedback channels. A possible solution could be an embedded form at the bottom of a page so that we get. This would allow us to get feedback specific to our content or template. However, to have a consistent UX, we should discuss how to create consistent feedback channels across our sites. 
 
 ## Feedback
 
