@@ -102,7 +102,7 @@ The Chronologue working group develops its mock tool on the [`main`](https://git
 
 Since we have to build a website according to the [Chronologue mockup](https://www.figma.com/proto/lvaAChlbueycET2ws9ZquS/Chronologue?node-id=902%3A1745&scaling=min-zoom&page-id=902%3A1640&starting-point-node-id=902%3A1745), we lean towards the following implementation:
 
-**Next.js** as our web development framework. It comes with a templating language and supports dynamic data fetching. Next.js is a mature project with extensive [documentation](https://nextjs.org/docs). It can be easily deployed through Netlify.
+**Next.js** is our web development framework. It comes with a templating language and supports dynamic data fetching. Next.js is a mature project with extensive [documentation](https://nextjs.org/docs) and a large community. It can be easily deployed through Netlify and can auto-translate to Netlify's API functions.
 
 We are aware that deviating from our standard tech stack comes with risk. 
 Ian, Chronologue's web developer, is open to experiment with data fetching, templating and page routing with HUGO. 
@@ -110,6 +110,11 @@ However, even if HUGO supports all our needs, it might not be worthwhile to swit
 The web development team is small (1-2 people) and they would need to refactor the whole code base, delaying the deployment date. 
 Opposed to the Chronologue documentation, we don't anticipate that the mock tool needs much attention after it has been published. 
 
+There are many alternatives out there, so here is a short summary of what tools we looked at and our thoughts:
+
+* Vue.js: similar to Next.js, but uses a different way to template and implement features like routing, data fetching, and state management. Also has enthusiast devs working on it.
+* SvelteKit: relatively player with an interesting tech implementation. Seems to miss crucial features like routing, etc. SDK not in production mode yet.
+* Hugo: a static site generator works well with Netlify and has a web templating language. Unclear about routing, and data fetching.
 
 ## Consequences
 
@@ -124,7 +129,7 @@ With this RFC, we aim to ensure a smoother process to create usable, understanda
 The mock tool website poses a possible risk to the maintainability of the fake tool. Since we want to divert from standard tooling (static generated site using HUGO), it can become a bottleneck if knowledgable members of the working group become unavailable. 
 If we lose critical knowledge, we become less agile when it comes to resolving bugs or further development.  
 
-### Mitigation strategy
+### Mitigation strategy <a id="mitigation"></a>
 To mitigate the risk of losing knowledgable members and becoming immobile, we want to supply comprehensive internal documentation about: 
 
 * The framework we are working with and deviations from standard implementation (if applicable) 
@@ -161,10 +166,7 @@ If you reject feedback, note that rejected feedback here before resolving the co
 
 If this proposal is accepted, the following tasks must be completed:
 
-- [ ] Task number one
-- [ ] Task number two
-- [ ] Task number three, etc.
-
+- [ ] Create detailed documentation for our infrastructure on the `main` branch, see [Mitigation strategy](#mitigation).
 
 ## Votes
 
