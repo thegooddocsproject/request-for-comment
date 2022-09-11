@@ -98,9 +98,16 @@ The Chronologue working group develops its mock tool on the [`main`](https://git
 
 #### Possible technical implementation:
 
-The group leans towards the following implementation, since it has to build a page according to a [mockup](https://www.figma.com/proto/lvaAChlbueycET2ws9ZquS/Chronologue?node-id=902%3A1745&scaling=min-zoom&page-id=902%3A1640&starting-point-node-id=902%3A1745) created by Ulises de la Luz and Serena Jolley. 
+Since we have to build a website according to the [Chronologue mockup](https://www.figma.com/proto/lvaAChlbueycET2ws9ZquS/Chronologue?node-id=902%3A1745&scaling=min-zoom&page-id=902%3A1640&starting-point-node-id=902%3A1745), we lean towards the following implementation:
 
-Ian’s note: will experiment with data fetching + templating + page routing on Hugo
+**Next.js** as our web development framework. It comes with a templating language and supports dynamic data fetching. Next.js is a mature project with extensive [documentation](https://nextjs.org/docs). It can be easily deployed through Netlify.
+
+We are aware that deviating from our standard tech stack comes with risk. 
+Ian, Chronologue's web developer, is open to experiment with data fetching, templating and page routing with HUGO. 
+However, even if HUGO supports all our needs, it might not be worthwhile to switch, since development started already. 
+The web development team is small (1-2 people) and they would need to refactor the whole code base, delaying the deployment date. 
+Opposed to the Chronologue documentation, we don't anticipate that the mock tool needs much attention after it has been published. 
+
 
 ## Consequences
 
