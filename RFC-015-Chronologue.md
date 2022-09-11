@@ -67,6 +67,8 @@ The Chronologue consists of:
 
 ### Writing process <a id="process"> </a>
 
+The writers write in Markdown and store their documentation on the [`docs`](https://github.com/thegooddocsproject/chronologue/tree/docs) branch on Github. We use HUGO as a static site generator for the documentation as we regularly update the docs and it is the project's standard tool.
+
 The Chronologue working group starts its writing process when the template is in [Phase 6 - Improve the template with user feedback](https://github.com/thegooddocsproject/templates/blob/dev/CONTRIBUTING.md#overview-of-the-template-writing-phases).
 
 We decided to come in at this late stage because developing good templates is already quite time consuming and we don't want to add to the development cycle.
@@ -119,7 +121,7 @@ With this RFC, we aim to ensure a smoother process to create usable, understanda
 
 ### Possible negative impact
 
-The mock tool website poses a possible risk to the maintainablity of the fake tool. Since we want to divert from standard tooling (staticly generated site using HUGO), it can become a bottleneck if knowledgable members of the working group become unavailable. 
+The mock tool website poses a possible risk to the maintainability of the fake tool. Since we want to divert from standard tooling (static generated site using HUGO), it can become a bottleneck if knowledgable members of the working group become unavailable. 
 If we lose critical knowledge, we become less agile when it comes to resolving bugs or further development.  
 
 ### Mitigation strategy
