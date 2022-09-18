@@ -130,17 +130,18 @@ Votes as per our [decision process](https://thegooddocsproject.dev/decisions/):
 
 Project steering committee (listed alphabetically by first name):
 
-- Aaron Peters:
-- Aidan Doherty:
-- Alyssa Rock:
-- Ankita Tripathi:
-- Bryan Klein:
-- Cameron Shorter:
-- Carrie Crowe:
-- Erin McKean:
-- Morgan Craft:
-- Ryan Macklin:
-- Viraji Ogodapola:
+- Aaron Peters: +1
+- Alyssa Rock: +1
+- Ankita Tripathi: Didn't vote
+- Bryan Klein: +1
+- Cameron Shorter: +1
+- Carrie Crowe: +1
+- Deanna Thompson: +1
+- Erin McKean: +1
+- Felicity Brand: +1
+- Morgan Craft: +1
+- Ryan Macklin: +1
+- Viraji Ogodapola: Didn't vote
 
 Community members who voted (non-binding):
 
