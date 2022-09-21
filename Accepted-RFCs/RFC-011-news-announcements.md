@@ -57,7 +57,7 @@ This also wouldn't be a "second blog" or similar.
 
 ### Why not use the blog?
 
-The blog is about "docs advocacy & education," so if peopple subscribe to the blog/look out for new posts, they should expect material that's education, not that's purely about our group marketing.
+The blog is about "docs advocacy & education," so if people subscribe to the blog/look out for new posts, they should expect material that's education, not that's purely about our group marketing.
 
 The other elements of the blog, like its particular formatting/visual branding, focus on author, everything about CC licensing, etc. do not and should not apply to this content bucket.
 
@@ -69,19 +69,30 @@ The sidebar would have the most recent 5 or so posts, with a "see all" that woul
 
 The posts should be short: 500 words or so. Something that would take on average less than 5 minutes to read. We may deviate from this as needed, but the core concept is that our newsletters shouldn't take significant resources to craft and review, and we shouldn't demand significant time expenses from our audience in this manner.
 
+It should allow for links, embedded media, etc. We might not make much use of that, but given things like opportunities to promote talks and releases, let's make sure we don't design ourselves into a corner.
+
 Unlike how we handle the blog, authors wouldn't link to "about the author" pages as we do in the blog—and in fact we may decide there are no listed individual authors, to keep the news to appear to always be from the community.
 
 Unlike how we handle the blog, there wouldn't be any commenting feature. 
 
 Unlike how we handle the blog, there wouldn't be any banner or hero images.
 
-Because news is timely, the individual post URLs would use the date rather than a title.
+### Slugs & timeliness
+
+Because news is timely, the individual post URLs would use some date component rather than just a title.
+Ideally we don't want more than one news post a day, but the potential need for crisis managament comms (such as a public apology, an emergency rollback, etc). means we should support multiple posts per day. With a content policy of "only for crisis management."
+
+It's better to support and never need than kick ourselves for not having it, right? As long as it doesn't turn into overengineering. (I'm okay to engineer for contingencies we need to support as the org grows, as long as they're reasonable to consider, and it's less costly to implement them now than later.)
+
+Per Aaron: "There's probably other valid reasons for multiple posts per day, e.g. what we're doing/have done during WTD conferences. I'd argue that just appending a "-2" or similar would be sufficient, but using a timestamp works too."
+
 
 ### Why not use the blog?
 
 Two reasons:  First, it would split the purpose and publishing resources of the blog. The blog's purpose is supporting docs advocacy and education.
 
 Second, while the framework might be similar, it isn't exactly the same. So we can reuse a lot of the work on the blog, but it has different content needs.
+
 
 ### "Creating" the News Team
 
@@ -114,15 +125,23 @@ And this would be some additional ongoing effort on the part of the News team, t
 
 ## Decisions deferred
 
-* Code execution (beyond anything the Tech Team wishes included in this proposal, as notes or requirements)
-* News team composition
-* Content moderation policies
-* Future news efforts (like mailing lists)
+* Good ideas that don't need to be implemented as v1:
+  * Atom/RSS implementation
+  * Social media share buttons
+* Ideas that are non-trivial to consider, and should be punted until the news efforts have found footing:
+  * Future news efforts (like mailing lists)
+  * Tying news posts to automated social media posts
 
 ## Feedback
 
-{If you accept feedback from a community member, you will incorporate it into your RFC before it is accepted.
-If you reject feedback, note that rejected feedback here before resolving the conversation.}
+### Miscellaneous feedback on execution
+
+This feedback is recorded for implementation purposes, but doesn't affect the RFC at this higher-view intent:
+
+- Bryan: "This could also all be stored in a structured JSON data file, with a nice little editor for each entry in the file."
+- Bryan: "I'm thinking of something small like twitter cards for the layout."
+- Bryan (re newsletter): "It would be easy to create a 'filtered' set of posts from this data/file set for automated collection of updates in a newsletter."
+- Bryan: "There are some built in Hugo shortcodes that could come in handy here. https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes"
 
 ## Organizational dependencies
 
@@ -133,9 +152,16 @@ If you reject feedback, note that rejected feedback here before resolving the co
 
 If this proposal is accepted, the following tasks must be completed:
 
-- [ ] Set up the site folder
-- [ ] Document process for posting
-- [ ] Document the subsite's purpose and content guidelines
+- [ ] Process tasks
+  - [ ] News team composition
+  - [ ] Naming conventions/content strategy (including "is 'news' the right header for this?")
+  - [ ] Document process for posting
+  - [ ] Content moderation policies
+  - [ ] Document the subsite's purpose and content guidelines
+- [ ] Technical tasks
+  - [ ] Layout design
+  - [ ] Code execution (beyond anything the Tech Team wishes included in this proposal, as notes or requirements)
+  - [ ] Set up the site infrastruction
 
 
 ## Votes
@@ -147,17 +173,17 @@ Project steering committee (listed alphabetically by first name):
 - Aaron Peters:
 - Alyssa Rock:
 - Ankita Tripathi:
-- Bryan Klein:
+- Bryan Klein: +1
 - Cameron Shorter:
 - Carrie Crowe:
 - Erin McKean:
 - Deanna Thompson:
 - Felicity Brand:
-- Gayathri Krishnaswamy:
+- Gayathri Krishnaswamy: +1
 - Morgan Craft:
 - Nelson Guya:
-- Ryan Macklin:
-- Tina Lüdtke:
+- Ryan Macklin: +1
+- Tina Lüdtke: +1
 
 
 Community members who voted (non-binding):
