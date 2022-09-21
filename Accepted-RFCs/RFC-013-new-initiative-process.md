@@ -21,16 +21,13 @@ Initially submitted on 24 Aug 2022
 
 ## Proposal overview
 
-The Good Docs Project has an issue of delivery: we haven't delivered a 1.0 of our templates since the inception. And as a volunteer org, we need to keep focus on our mission and goal. It's easy to dilute ourselves if we don't keep ourselves accountable to focus and intentional communal growth.
+The Good Docs Project has a lot of passionate people, and that passion sometimes needs some focus lest we spread ourselves too thin. We're doing great work, and want to make sure we don't derail that unintentionally! To that end, here's a proposed framework for adding focus and intentionality when someone wants to add a new initiative and working group to our project.
 
-In other words, we as a project need to make sure we can at least do our core mission well. All new initiatives & associated working groups should 
-
-(As a personal note, the drafter of this RFC has ADHD, so "new project energy" is a real thing, a true risk of distraction and effort dilution.)
 
 
 ## Motivation
 
-As we grow, our risk of project scope creep and sprawl grows. As a group, we should grow *with intentionality*. 
+As we grow, our risk of project scope creep and sprawl grows. As a group, we should grow *with intent*. 
 
 
 ## Proposal
@@ -50,6 +47,10 @@ Along with that, each new initiative needs someone to lead it. That person needs
 Finally, each initiative needs to articulate the deliverables it intends to produce in its first year. This can of course mutate over time, but an initial understanding is key to helping the rest of the project understand the new initiative.
 
 With all of that, the initiative should be drafted as a RFC so the project steering committee can both ask insightful questions/provide comments, as flag their possible interest in helping with that initiative.
+
+### Out of scope for this: new epics for existing working groups
+
+This proposal is for creating new groups for new initiatives, not for handling the natural state of existing groups growing into tackling new epics. (Though I'm sure some of those will be their own RFCs anyway, but that's beside the point.)
 
 ### Not every doc initiative is a Good Docs Project initiative
 
@@ -86,8 +87,13 @@ This could appear to make the project feel "bureaucratic" or "stuffy." While I f
 
 ## Feedback
 
-{If you accept feedback from a community member, you will incorporate it into your RFC before it is accepted.
-If you reject feedback, note that rejected feedback here before resolving the conversation.}
+Comments from Cameron to preserve and process, as we execute on implementation:
+
+> How are we going to do the early brainstorming for ideas?
+> * How can someone say "I reckon this is a good idea, another one else want to join me?"
+> * Would it be worth introducing some sort of light prioritized "backlog" of ideas, so we can say to someone "Cool, you want to work on a GeeWiz template. You should talk to Jo who was also interested in that."
+> * Maybe also use the backlog to record a suggestion which was rejected and why, so we can reference it when the suggestion comes through again.
+> * I note that a backlog can become long and unwieldy, and so probably should be implemented with a way to easily ignore old suggestions. Maybe use an archived email list.
 
 ## Organizational dependencies
 
