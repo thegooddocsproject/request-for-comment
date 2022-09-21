@@ -152,13 +152,16 @@ This feedback is recorded for implementation purposes, but doesn't affect the RF
 
 If this proposal is accepted, the following tasks must be completed:
 
-- [ ] Process tasks
+- [ ] Governance list
+  - [ ] Create issues
+  - [ ] Sketch timeline
+- [ ] Organization list
   - [ ] News team composition
   - [ ] Naming conventions/content strategy (including "is 'news' the right header for this?")
   - [ ] Document process for posting
   - [ ] Content moderation policies
   - [ ] Document the subsite's purpose and content guidelines
-- [ ] Technical tasks
+- [ ] Technical list
   - [ ] Layout design
   - [ ] Code execution (beyond anything the Tech Team wishes included in this proposal, as notes or requirements)
   - [ ] Set up the site infrastruction
