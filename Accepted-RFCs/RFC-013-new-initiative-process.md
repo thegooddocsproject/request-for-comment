@@ -1,4 +1,4 @@
-# RFC-013: New initiative process
+# RFC-013: New initiative & working group process
 
 
 ## Proposed by
@@ -23,7 +23,7 @@ Initially submitted on 24 Aug 2022
 
 The Good Docs Project has an issue of delivery: we haven't delivered a 1.0 of our templates since the inception. And as a volunteer org, we need to keep focus on our mission and goal. It's easy to dilute ourselves if we don't keep ourselves accountable to focus and intentional communal growth.
 
-In other words, we as a project need to make sure we can at least do our core mission well. All new initiatives should 
+In other words, we as a project need to make sure we can at least do our core mission well. All new initiatives & associated working groups should 
 
 (As a personal note, the drafter of this RFC has ADHD, so "new project energy" is a real thing, a true risk of distraction and effort dilution.)
 
@@ -36,8 +36,14 @@ As we grow, our risk of project scope creep and sprawl grows. As a group, we sho
 ## Proposal
 
 When someone wants to start a new working group or sub-project in the Good Docs Project, it should coherently address at least one of:
-* We have an internal need, to make working on the project better—whether that's smoothing out processes, spinning up groups to keep work from being on one person, documenting information for worldwide efforts, etc
-* We identify some utility we can offer our userbase that either directly or reasonably indirectly builds off of our core mission: to delivery high-quality template resources to people who need help making their own documentation.
+* We have an internal need to make working on the project better. For example:
+  - smoothing out processes 
+  - spinning up groups to keep work from being on one person
+  - documenting information for worldwide efforts
+and other initiatives in this vein.
+* We identify some utility to offer our userbase that either directly or reasonably indirectly builds off of our core mission: to deliver high-quality template resources to people who need help creating their own documentation.
+
+Related comment from Tina: "It would be nice to have the criteria in check-list form. That could make a nice "cover sheet" for new repos until they write a proper README."
 
 Along with that, each new initiative needs someone to lead it. That person needs to be confident in leading (or co-leading) that initiative for at least a year. This is to prevent initiatives from being spun up and left to dwindle. (Unless said initiative isn't intended to last that long, of course. But we can expect some initiatives that intend to be short to take longer than initially planned.)
 
@@ -116,7 +122,7 @@ Project steering committee (listed alphabetically by first name):
 - Morgan Craft:
 - Nelson Guya:
 - Ryan Macklin:
-- Tina Lüdtke:
+- Tina Lüdtke: +1
 
 
 Community members who voted (non-binding):
